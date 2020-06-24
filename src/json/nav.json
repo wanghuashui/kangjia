@@ -1,0 +1,305 @@
+[
+    {
+        "name": "首页",
+        "data": []
+    },
+    {
+        "name": "电视",
+        "data": [
+            {
+                "src": "https://www.konka.com/public/images/16/07/a0/da8514538de5a9fa1d25e3462b27c529d69a3d90.jpg?63201_OW800_OH800",
+                "title": "阿斐亚A3",
+                "desc": "洞见未来/帧享视界",
+                "price": "￥7999.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/de/67/2f/118b8c39bceb03d0d766fe6ec261c2576a32801c.jpg?62774_OW800_OH800",
+                "title": "声控交互全面屏 ",
+                "desc": "升降摄像头/AIOT物联",
+                "price": "￥6299.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/94/93/ad/9e0295d5462fc1044675abace24fc9208eaf8165.jpg?27766_OW800_OH800",
+                "title": "43吋全面屏AI",
+                "desc": "人工智能/4KHDR²",
+                "price": "￥1399.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/0e/71/d2/336184b21789797e2e69867d56dabfd42042c6f7.jpg?90775_OW800_OH800",
+                "title": "55吋远场免遥控",
+                "desc": "声控家电/全面屏",
+                "price": "￥1999.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/19/17/e3/15af6c2dfb5e63cdfcaee0362c3c3fdd7e1bcbed.jpg?65445_OW800_OH800",
+                "title": "65吋全面屏AI",
+                "desc": "3G大内存/全景AI",
+                "price": "￥3699.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/f6/f5/ba/55199d344f48b6acf757a9db509b1c6442245e8a.jpg?92570_OW800_OH800",
+                "title": "70吋巨屏声控",
+                "desc": "4K HDR²/华为芯片",
+                "price": "￥3399.00"
+            }
+        ]
+    },
+    {
+        "name": "冰箱",
+        "data": [
+            {
+                "src": "https://www.konka.com/public/images/34/7f/21/ce76de5f244ef98568ab778ff537fdf6a4f27779.jpg?46173_OW800_OH800",
+                "title": "155升双门",
+                "desc": "小冰箱/保鲜静音",
+                "price": "￥709.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/9f/04/63/ccbe838e13c50dac570e3aa7d557e7b9d3618358.jpg?56756_OW800_OH800",
+                "title": "288升多门",
+                "desc": "三温区 / 自动化霜",
+                "price": "￥1499.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/99/da/ec/8e5f4259fa65c2ba54b8f6ce3e5738ebcf1d1c96.jpg?36436_OW800_OH800",
+                "title": "300升多门节能",
+                "desc": "电脑温控 / 净味保鲜",
+                "price": "￥1499.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/fd/09/e5/ec49cd90db55323911e3e093490b654e18767a54.jpg?19087_OW800_OH800",
+                "title": "400升对开门",
+                "desc": "电脑温控 / 超薄机身",
+                "price": "￥1599.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/9a/0d/75/b85646fae2c3a687d77a5d9d33186af4a23df044.jpg?14680_OW800_OH800",
+                "title": "450升十字对开门",
+                "desc": "一级能效 / 风冷无霜",
+                "price": "￥2499.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/a2/d4/64/e03ec3ccff72521a254f9e1073e87e5d9435a790.jpg?34453_OW800_OH800",
+                "title": "460升十字对开门",
+                "desc": "变频除菌 / 多能保鲜",
+                "price": "￥5149.00"
+            }
+        ]
+    },
+    {
+        "name": "洗衣机",
+        "data": [
+            {
+                "src": "https://www.konka.com/public/images/66/f6/4f/584c4fad0ec5f0b01573abb5c5edfda137f473f6.jpg?94471_OW800_OH800",
+                "title": "3公斤全自动波轮",
+                "desc": "高温煮洗 / 纳米抑菌",
+                "price": "￥909.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/54/02/5b/8b858571d7fa2d90adff3e5ce17262f8e4ed14c4.jpg?67330_OW800_OH800",
+                "title": "5公斤全自动波轮",
+                "desc": "一键清洗 / 智能加水",
+                "price": "￥599.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/05/7a/c1/2b9d2d80b978ee661f9bae824c6303ed9bea82b3.jpg?45844_OW800_OH800",
+                "title": "6.2公斤波轮自洁",
+                "desc": "净力超群 / 一键自洁",
+                "price": "￥666.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/23/39/97/fa478038f19f6960fb14740771f4f76fedc0591a.jpg?15271_OW800_OH800",
+                "title": "8公斤滚筒快洗",
+                "desc": "高温煮洗 / 中途加衣",
+                "price": "￥1249.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/36/75/87/470501028c900502b5719825ccbac74073f33eaf.jpg?45351_OW800_OH800",
+                "title": "9公斤变频滚筒",
+                "desc": "变频节能/高温煮洗",
+                "price": "￥1449.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/20/6f/dc/a9b97aedd711a376f999572c5b9786c29ad8219a.jpg?15499_OW800_OH800",
+                "title": "12公斤变频滚筒",
+                "desc": "超大容量/智能童锁",
+                "price": "￥2999.00"
+            }
+        ]
+    },
+    {
+        "name": "生活电器",
+        "data": [
+            {
+                "src": "https://www.konka.com/public/images/51/af/c0/74142e7c9e760031c3c834b78782df5a35b8074b.jpg?43600_OW800_OH800",
+                "title": "意式浓缩咖啡机",
+                "desc": "一键全自动/奶泡机一体",
+                "price": "￥1299.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/11/35/26/e3e9fb22ce5a921701a888ae6abeacc00cd401a2.jpg?96444_OW800_OH800",
+                "title": "32升多功能电烤箱",
+                "desc": "烘焙用具 / 大容量",
+                "price": "￥229.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/c4/77/49/5e6d30bf8d926909894784ad67192dcd91baba69.jpg?96427_OW800_OH800",
+                "title": "1.8L多功能养生壶",
+                "desc": "定时预约 / 多段保温",
+                "price": "￥149.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/97/8a/28/438ee0d9ea2f616be55ccedd0e822129e6178247.jpg?29070_OW800_OH800",
+                "title": "USB充电式料理机",
+                "desc": "机身轻小 / 即榨即喝",
+                "price": "￥99.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/1e/94/cf/8d36f971a188287972df64e46cf27b613b4913fa.jpg?71320_OW800_OH800",
+                "title": "1.2L多功能破壁机",
+                "desc": "高速破壁 / 一键料理",
+                "price": "￥499.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/b6/90/02/cd9260b570d3fbb1886e6f12a77e3abf8a263685.jpg?89847_OW1080_OH1080",
+                "title": "美发套装",
+                "desc": "百变造型 / 轻享奢华",
+                "price": "￥599.00"
+            }
+        ]
+    },
+    {
+        "name": "厨卫电器",
+        "data": [
+            {
+                "src": "https://www.konka.com/public/images/24/55/06/b0a3936dd55ac2cc46aa143bf550775c5c0946c1.jpg?40637_OW800_OH800",
+                "title": "蒸烤一体机烤箱",
+                "desc": "超大容量/一机多用",
+                "price": "￥1799.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/2d/fb/50/607951014e7ecbaec1d270cc2b321f8af204f9c5.jpg?36935_OW800_OH800",
+                "title": "多功能鸳鸯火锅",
+                "desc": "一体工艺/耐用不串味",
+                "price": "￥189.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/53/9a/32/6511b46c1c5817c07e5439f0778ca722237f03e7.jpg?08899_OW800_OH800",
+                "title": "木纹多用电煮锅",
+                "desc": "极速加热/不沾涂层",
+                "price": "￥149.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/92/9a/9b/b92318e7f34fe74b56d117b56717d33010dc65a7.jpg?55679_OW800_OH800",
+                "title": "高颜值粉干果机",
+                "desc": "广域控温/精准定时",
+                "price": "￥129.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/4f/97/b4/45ee1806c4382afd96c5d9427a2911c528d25c7c.jpg?04679_OW800_OH800",
+                "title": "智能空气炸锅",
+                "desc": "无油煎炸/美味自制",
+                "price": "￥269.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/dc/37/39/1df001556a616aacaa1a1914704deec0d7c9ac43.jpg?95035_OW800_OH800",
+                "title": "智能触摸电磁炉",
+                "desc": "双重防滑/低音降噪",
+                "price": "￥199.00"
+            }
+        ]
+    },
+    {
+        "name": "智能硬件",
+        "data": [
+            {
+                "src": "https://www.konka.com/public/images/55/e9/cf/c0eec73913599f09d1a3f8bba95a627ed2cf5cfc.jpg?65785_OW800_OH800",
+                "title": "M1D无线麦克风",
+                "desc": "双色双金/随心开唱",
+                "price": "￥499.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/60/9c/55/5ede78a4635d4fdc7ddff4c3556a1cbaa8458cce.jpg?66099_OW800_OH800",
+                "title": "H4无线麦克风",
+                "desc": "智能降噪/高保真",
+                "price": "￥499.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/c6/17/0b/592824898135ea6ed4a8412b4fb0c6db91a4cad2.jpg?69407_OW800_OH800",
+                "title": "康佳便携投影L1",
+                "desc": "语音操控/双音响",
+                "price": "￥1799.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/54/ec/1f/d1eeba1386e3260d4e61cfcce7c7f92114d5c8c9.jpg?56639_OW800_OH800",
+                "title": "体感总动员手柄",
+                "desc": "游戏竞技/智能省电",
+                "price": "￥399.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/c4/f8/c9/b99a6b02665beabef3a9745a94a56edd810965d3.jpg?27539_OW200_OH200",
+                "title": "M1无线麦克风",
+                "desc": "奢华外观/歌房音效",
+                "price": "￥269.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/1c/a7/a7/02cd65dbf3aee0524821c3a87d11bebe8184eb8c.jpg?63632_OW800_OH800",
+                "title": "智能网络微投",
+                "desc": "高清投影/时尚简约",
+                "price": "￥1099.00"
+            }
+        ]
+    },
+    {
+        "name": "K迷优品",
+        "data": [
+            {
+                "src": "https://www.konka.com/public/images/02/5a/80/b4b16c0faa96d4e7916ba9de15ea189b5ba9617b.jpg?26058_OW800_OH800",
+                "title": "Super Kimi智能音乐花盆",
+                "desc": "懒人养植神器",
+                "price": "￥69.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/81/ba/69/dcc7e07bbbe782259e4b31d44b0735937ca9337c.jpg?09261_OW800_OH800",
+                "title": "Super Kimi智能防丢贴片",
+                "desc": "防丢防忘/一键寻物",
+                "price": "￥57.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/15/86/cd/0735b94f145a660e47b5ef6f27f9caa9d3f48fec.jpg?09121_OW800_OH800",
+                "title": "Super Kimi火箭优盘",
+                "desc": "萌趣U盘/便于携带",
+                "price": "￥113.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/cf/9c/24/d5236ae2fa3493177d5893b89f298722c29316b6.jpg?86689_OW800_OH800",
+                "title": "SUPER KIMI 鼠年毛绒公仔",
+                "desc": "",
+                "price": "￥109.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/d3/3b/a8/1916e30bac3e3da2fae29a0e360276a2206f396f.jpg?70037_OW800_OH800",
+                "title": "自嗨耳机",
+                "desc": " 实时耳返 把KTV戴在耳边",
+                "price": "￥179.00"
+            },
+            {
+                "src": "https://www.konka.com/public/images/2d/43/83/38ec137a1472a4569d84a92f306f5daba70adf4c.jpg?46651_OW800_OH800",
+                "title": "动物梦境系列",
+                "desc": "盲盒 SUPER KIMI",
+                "price": "￥81.00"
+            }
+        ]
+    },
+    {
+        "name": "大宗采购",
+        "data": []
+    },
+    {
+        "name": "服务",
+        "data": []
+    },
+    {
+        "name": "\n\n                     <img src=\"https://www.konka.com/themes/pc/konka/images/header-scrae.png?vf06b\">\n                     ",
+        "data": []
+    }
+]
