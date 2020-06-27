@@ -16,7 +16,7 @@ a,u{
 }
 img{
     border: 0;
-    display: block;
+    vertical-align: middle;
 }
 input{
     outline:none;
