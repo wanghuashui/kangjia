@@ -37,8 +37,52 @@ let topbar=`
     </div>
 </div>
 `
-let header=`
+let headerBefore=`
 <div class="site-header" id="nav-top">
     <div class="container-fluid">
         <div class="row">
             <div class="col-xs-2 logoImg"><a href="/index.html"><img src="https://www.konka.com/themes/pc/konka/images/logo.png?v9f33"></a></div>`
+
+let headerContent
+$.ajax({
+    url:"../"
+})
+let headerAfter=`
+                    <span class="spanLine"></span>
+                     <div class="col-xs-1 "><a href="javascript:;" class="Magnifier iconImg">
+    
+                         <img src="https://www.konka.com/themes/pc/konka/images/header-scrae.png?v9f33">
+                         </a>
+                    </div>
+                </div>
+                <div class="row search">
+                    <form action="/list.html">
+                        <div class="search-wrapper">
+                            <button class="search-search">
+                                <img src="https://www.konka.com/themes/pc/konka/images/header-scrae.png?v9f33">
+                            </button>
+                            <input type="text" name="keyword" class="inputSearch" placeholder="您喜欢的商品" autocomplete="off">
+                            <button class="search-close">
+                                <span class="glyphicon glyphicon-menu-right"></span>
+                                <span class="glyphicon glyphicon-menu-left"></span>
+                            </button>
+                        </div>
+                        <aside class="search-content">
+                            <section class="search-con-frame">
+                                <ul id="animateUl">
+                                    <li><a href="javascript:;">电视</a></li>
+                                    <li><a href="javascript:;">冰箱</a></li>
+                                    <li><a href="javascript:;">洗衣机</a></li>
+                                    <li><a href="javascript:;">新飞</a></li>
+                                    <li><a href="javascript:;">KKTV</a></li>
+                                    <li><a href="javascript:;">A10</a></li>
+                                    <li><a href="javascript:;">养生壶</a></li>
+                                </ul>
+                            </section>
+                        </aside>
+                    </form>
+                </div>
+            </div>
+        </div>`
+
+$("<div class='site-header-relative'></div>")
