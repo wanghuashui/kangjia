@@ -45,7 +45,8 @@ let headerBefore=`
 
 let headerContent
 $.ajax({
-    url:"../"
+    url:"../json/nav.json",
+    dataType:"json",
 })
 let headerAfter=`
                     <span class="spanLine"></span>
@@ -85,4 +86,4 @@ let headerAfter=`
             </div>
         </div>`
 
-$("<div class='site-header-relative'></div>")
+$("<div class='site-header-relative'></div>").html(topbar+headerBefore+headerAfter).appendTo("body")
