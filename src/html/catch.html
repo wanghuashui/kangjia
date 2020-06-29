@@ -25,18 +25,18 @@
         //     })
         // })
 
-        let a=document.querySelectorAll(".col-xs-3")
-            let b=[]
-            a.forEach((item,idx)=>{
-                b[idx]={}
-                b[idx].goodId=idx
-                b[idx].goodType="电视"
-                b[idx].goodsName=item.querySelector("h4").innerHTML
-                b[idx].src=item.querySelector(".layz").src
-                b[idx].desc=item.querySelector(".figureColor").innerHTML
-                b[idx].price=item.querySelector(".price").innerHTML.slice(1)
-            })
-            JSON.stringify(b)
+        // let a=document.querySelectorAll(".col-xs-3")
+        //     let b=[]
+        //     a.forEach((item,idx)=>{
+        //         b[idx]={}
+        //         b[idx].goodId=idx
+        //         b[idx].goodType="电视"
+        //         b[idx].goodsName=item.querySelector("h4").innerHTML
+        //         b[idx].src=item.querySelector(".layz").src
+        //         b[idx].desc=item.querySelector(".figureColor").innerHTML
+        //         b[idx].price=item.querySelector(".price").innerHTML.slice(1)
+        //     })
+        //     JSON.stringify(b)
             // let a=document.querySelectorAll(".col-xs-3")
             // let b=[]
             // a.forEach((item,idx)=>{
@@ -50,9 +50,27 @@
             // })
             // JSON.stringify(b)
 
-
-
-
+            // let a=document.querySelector(".carousel-inner").querySelectorAll(".item")
+            // let b=[]
+            // a.forEach((item,idx)=>{
+            //     b[idx]=item.querySelector("img").src
+            // })
+            // JSON.stringify(b)
+            let a=document.querySelector(".site-category-list").querySelectorAll(".category-item")
+            let b=[]
+            a.forEach((item,idx)=>{
+                b[idx]={}
+                b[idx].href=item.querySelector("a").href
+                b[idx].title=item.querySelector("a").innerText
+                b[idx].data=[]
+                let c=item.querySelectorAll("li")
+                c.forEach((item,index)=>{
+                    b[idx].data[index]={}
+                    b[idx].data[index].title=item.querySelector("span").innerHTML
+                    b[idx].data[index].src=item.querySelector("img").src
+                })
+            })
+            JSON.stringify(b)
 
 
 

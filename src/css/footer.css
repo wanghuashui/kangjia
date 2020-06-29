@@ -61,6 +61,9 @@ body {
 .site-footer .container .footer-links dl dd a {
   font-size: 12px;
 }
+.site-footer .container .footer-links dl dd a:hover {
+  color: #ff5d59;
+}
 .site-footer .container .footer-links dl .showCode {
   position: relative;
 }
@@ -126,6 +129,9 @@ body {
 .for-footer .for-link a {
   color: #666;
   font-size: 12px;
+}
+.for-footer .for-link a:hover {
+  color: #ff5d59;
 }
 .for-theme {
   background: #f8f8f8;

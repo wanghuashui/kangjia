@@ -1,0 +1,106 @@
+.index-banner {
+    max-height: 790px;
+    overflow: hidden;
+    margin-top: 50px;
+    .banner-category {
+        height: 500px;
+        position: relative;
+        .container {
+            position: relative;
+        }
+        .category-wrapper {
+            width: 234px;
+            position: relative;
+            z-index: 2;
+            height: 500px;
+        }
+    }
+    .site-category-list {
+        background: rgba(0,0,0,.6);
+        height: 100%;
+        border: 0;
+        color: #fff;
+        margin: 0;
+        padding: 25px 0;
+        list-style-type: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .category-item-active {
+            background-color: #ed1c24;
+        }
+        .category-item{
+            .title {
+                position: relative;
+                display: block;
+                padding-left: 30px;
+                height: 45px;
+                line-height: 45px;
+                color: #fff;
+                i{
+                    float: right;
+                    display: block;
+                    margin-right: 40px;
+                }
+            }
+            .children {
+                display: none;
+                position: absolute;
+                left: 234px;
+                top: 0;
+                z-index: 25;
+                max-width: 906px;
+                height: 500px;
+                border: 1px solid #e0e0e0;
+                border-left: 0;
+                background: #fff;
+                -webkit-box-shadow: 0 8px 16px rgba(0,0,0,.18);
+                box-shadow: 0 8px 16px rgba(0,0,0,.18);
+                .children-wrapper {
+                    display: flex;
+                    .children-list {
+                        width: 100%;
+                        padding-left: 0;
+                        li {
+                            height: 76px;
+                            .link {
+                                display: block;
+                                padding: 18px 20px;
+                                line-height: 40px;
+                                color: #333;
+                                -webkit-transition: color .2s;
+                                transition: color .2s;
+                                width: 226.5px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .carousel-inner {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+    }
+    .banner-con {
+        height: 500px;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+    .carousel-inner {
+        max-height: 700px;
+        height: 100%;
+    }
+    .carousel-inner {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+    }
+}
+.container {
+    width: 1140px!important;
+    margin: 0 auto;
+    padding: 0;
+}

@@ -4,9 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/backtop.css">
+    <link rel="stylesheet" href="../css/slider.css">
+    <link rel="stylesheet" href="http://at.alicdn.com/t/font_1910573_yzs3qz741f.css">
 </head>
 <body>
+    <script src="../../node_modules/jquery/dist/jquery.js"></script>
+    <script src="../js/header.js"></script>
+    <div class="index-banner">
+        <div class="banner-category">
+            <div class="container">
+                <div class="category-wrapper"></div>
+            </div>
+            <div class="banner-con"></div>
+        </div>
+        
+    </div>
     
+
+
+
+    <script src="../js/backtop.js"></script>
+    <script src="../js/footer.js"></script>
+    <script src="../js/Slider.js"></script>
+    <script src="../js/category.js"></script>
+    <script>
+        $(()=>{
+            let a=new Slider($(".banner-con"),["https://www.konka.com/public/images/cd/46/1c/569d7a3856d57202db68e975ae3a4fa069cdeed4.jpg?63433_OW1920_OH500","https://www.konka.com/public/images/72/b5/ed/b12a8ac6bd8562d386ca7adbdca8c61b8c892d23.jpg?66976_OW1920_OH500","https://www.konka.com/public/images/86/1f/f6/1ba37ca7414b7ac09b579d17308139f5cf146dbf.jpg?12684_OW1920_OH500","https://www.konka.com/public/images/6f/53/12/4c4b4c5ed8afdcda6d9946f4a29f658afc644f0a.jpg?00122_OW1920_OH500"])
+            a.init()
+        })
+    </script>
 </body>
 </html>

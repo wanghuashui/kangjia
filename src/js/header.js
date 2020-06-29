@@ -95,10 +95,16 @@ let headerAfter=`</div>
         </div>`
 $("<div class='site-header-relative'></div>").html(topbar+headerBefore+headerAfter).appendTo("body")
 $(".site-header").on("mouseenter",".col-xs-1",function(){
-    $(this).css("background","#fff")
     $(this).children(".item").addClass("item-show").siblings().children(".item").removeClass("item-show")
 })
 $(".site-header").on("mouseleave",".col-xs-1",function(){
-    $(this).css("background","#f4f4f4")
     $(this).children(".item").removeClass("item-show")
-})})()
+})
+$(window).scroll(()=>{
+    if($(window).scrollTop()>=40){
+        $(".site-header").addClass("site-header-fixed")
+    }else{
+        $(".site-header").removeClass("site-header-fixed")
+    }
+})
+})()

@@ -1,0 +1,104 @@
+.index-banner {
+  max-height: 790px;
+  overflow: hidden;
+  margin-top: 50px;
+}
+.index-banner .banner-category {
+  height: 500px;
+  position: relative;
+}
+.index-banner .banner-category .container {
+  position: relative;
+}
+.index-banner .banner-category .category-wrapper {
+  width: 234px;
+  position: relative;
+  z-index: 2;
+  height: 500px;
+}
+.index-banner .site-category-list {
+  background: rgba(0, 0, 0, 0.6);
+  height: 100%;
+  border: 0;
+  color: #fff;
+  margin: 0;
+  padding: 25px 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.index-banner .site-category-list .category-item-active {
+  background-color: #ed1c24;
+}
+.index-banner .site-category-list .category-item .title {
+  position: relative;
+  display: block;
+  padding-left: 30px;
+  height: 45px;
+  line-height: 45px;
+  color: #fff;
+}
+.index-banner .site-category-list .category-item .title i {
+  float: right;
+  display: block;
+  margin-right: 40px;
+}
+.index-banner .site-category-list .category-item .children {
+  display: none;
+  position: absolute;
+  left: 234px;
+  top: 0;
+  z-index: 25;
+  max-width: 906px;
+  height: 500px;
+  border: 1px solid #e0e0e0;
+  border-left: 0;
+  background: #fff;
+  -webkit-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
+}
+.index-banner .site-category-list .category-item .children .children-wrapper {
+  display: flex;
+}
+.index-banner .site-category-list .category-item .children .children-wrapper .children-list {
+  width: 100%;
+  padding-left: 0;
+}
+.index-banner .site-category-list .category-item .children .children-wrapper .children-list li {
+  height: 76px;
+}
+.index-banner .site-category-list .category-item .children .children-wrapper .children-list li .link {
+  display: block;
+  padding: 18px 20px;
+  line-height: 40px;
+  color: #333;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
+  width: 226.5px;
+}
+.index-banner .carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.index-banner .banner-con {
+  height: 500px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.index-banner .carousel-inner {
+  max-height: 700px;
+  height: 100%;
+}
+.index-banner .carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.container {
+  width: 1140px!important;
+  margin: 0 auto;
+  padding: 0;
+}

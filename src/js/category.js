@@ -1,0 +1,36 @@
+(function(){
+    $.ajax({
+        url:"../json/category.json",
+        dataType:"json"
+    }).done((data)=>{
+        let cate1=""
+        data.map((item)=>{
+            cate1+=`<li class="category-item">
+            <a href="${item.href}" class="title">${item.title}<i>&gt;</i></a>
+            <div class="children clearfix">
+                <div class="children-wrapper">
+                    <ul class="children-list clearfix">`
+                    +item.data.map(item3=>`<li>
+                            <a href="" class="link">
+                                <img src=${item3.src} alt="">
+                                <span>${item3.title}</span>
+                            </a>
+                        </li>`).join("")+
+                    `
+                    </ul>
+                </div>
+            </div>
+        </li>`
+        })
+        $("<ul class='site-category-list'></ul>").html(cate1).appendTo(".category-wrapper")
+    })
+    $(".category-wrapper").on("mouseenter",".category-item",function(){
+        $(this).addClass("category-item-active").siblings().removeClass("category-item-active")
+        $(this).children(".children").css("display","block")
+        $(this).siblings().children(".children").css("display","none")
+    })
+    $(".category-wrapper").on("mouseleave",function(){
+        $(this).find(".category-item").removeClass("category-item-active")
+        $(this).find(".children").css("display","none")
+    })
+})()

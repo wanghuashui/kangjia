@@ -1,77 +1,3 @@
-// 功能：创建一个轮播图
-// 参数：父dom对象，图片地址数组
-// 样式参考
-// *{
-//     margin: 0;
-//     padding: 0;
-// }
-// ul,li{
-//     list-style: none;
-// }
-// .slider-box{
-//     width: 700px;
-//     height: 400px;
-//     margin: 0 auto;
-//     position: relative;
-//     overflow: hidden;
-// }
-// .slider-box .slider-item-box{
-//     position: absolute;
-    
-//     width: 10000px;
-//     height: 400px;
-
-// }
-// .slider-box .slider-item-box .slider-item{
-//     height: 100%;
-//     width: 700px;
-//     float: left;
-// }
-// .slider-box .slider-item-box .slider-item img{
-//     height: 100%;
-//     width: 100%;
-//     display: block;
-// }
-// .slider-control{
-//     position: absolute;
-//     width: 700px;
-//     display: flex;
-//     justify-content:space-between;
-//     top:50%;
-//     margin-top: -25px;
-// }
-// .slider-box .slider-control span{
-//     text-align: center;
-//     line-height: 50px;
-//     font-size: 40px;
-//     width: 50px;
-//     height: 50px;
-//     background: yellow;
-// }
-// .slider-box .slider-nav{
-//     position: absolute;
-//     right: 0;
-//     bottom: 0;
-//     display: flex;
-//     padding-right: 5px;
-//     opacity: .8;
-//     /* background: pink; */
-// }
-// .slider-box .slider-nav .slider-nav-item{
-//     width: 30px;
-//     height: 30px;
-//     border-radius: 50%;
-//     text-align: center;
-//     line-height: 30px;
-//     font-size: 24px;
-//     margin: 6px 3px;
-//     background: white;
-// }
-// .slider-box .slider-nav .active{
-//     background: red;
-//     opacity: .8;
-// }
-
 class Slider{
     constructor(parents,data){
         this.parents=$(parents)
@@ -102,7 +28,7 @@ class Slider{
                             <span class="prev">&lt;</span>
                             <span class="next">&gt;</span>
                         </div>`
-        let creatSliderNav="<ul class='slider-nav'>"+this.data.map((item,idx)=>`<li class="slider-nav-item">${idx+1}</li>`).join("")+"</ul>"
+        let creatSliderNav="<ul class='slider-nav'>"+this.data.map((item,idx)=>`<li class="slider-nav-item"></li>`).join("")+"</ul>"
         this.sliderBox=$("<div></div>").addClass("slider-box").html(creatSliderItemBox+creatControl+creatSliderNav)
         this.parents.append(this.sliderBox)
         // 选择sliderBox下的子元素

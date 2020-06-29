@@ -162,6 +162,12 @@ p {
   width: 72px;
   padding: 0;
 }
+.site-header-relative .site-header .container-fluid .row .col-xs-1:hover {
+  background: #fff;
+}
+.site-header-relative .site-header .container-fluid .row .col-xs-1:hover a {
+  color: #ed1c24;
+}
 .site-header-relative .site-header .container-fluid .row .col-xs-1 .item {
   display: none;
 }
@@ -187,4 +193,11 @@ p {
   left: 19%;
   width: 890px;
   display: none;
+}
+.site-header-fixed {
+  position: fixed!important;
+  top: 0!important;
+  margin-left: -570px;
+  left: 50%;
+  z-index: 1000;
 }

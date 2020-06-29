@@ -157,6 +157,12 @@ p {
                     position: static;
                     width: 72px;
                     padding: 0;
+                    &:hover{
+                        a{
+                        color: #ed1c24;
+                        }
+                        background: #fff;
+                    }
                     .item {
                         display: none;
                         .item-children {
@@ -188,4 +194,11 @@ p {
         }
     }
     
+}
+.site-header-fixed {
+    position: fixed!important;
+    top: 0!important;
+    margin-left: -570px;
+    left: 50%;
+    z-index: 1000;
 }
