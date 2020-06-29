@@ -1,0 +1,61 @@
+.slider-box {
+  width: 700px;
+  height: 400px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
+.slider-box .slider-item-box {
+  position: absolute;
+  width: 10000px;
+  height: 400px;
+}
+.slider-box .slider-item-box .slider-item {
+  height: 100%;
+  width: 700px;
+  float: left;
+}
+.slider-box .slider-item-box .slider-item img {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+.slider-box .slider-item-box .slider-control {
+  position: absolute;
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  top: 50%;
+  margin-top: -25px;
+}
+.slider-box .slider-item-box .slider-control span {
+  text-align: center;
+  line-height: 50px;
+  font-size: 40px;
+  width: 50px;
+  height: 50px;
+  background: yellow;
+}
+.slider-box .slider-item-box .slider-nav {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  padding-right: 5px;
+  opacity: 0.8;
+  /* background: pink; */
+}
+.slider-box .slider-item-box .slider-nav .slider-nav-item {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  font-size: 24px;
+  margin: 6px 3px;
+  background: white;
+}
+.slider-box .slider-item-box .slider-nav .active {
+  background: red;
+  opacity: 0.8;
+}

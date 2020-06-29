@@ -1,0 +1,114 @@
+[
+    {
+        "goodId": 0,
+        "goodType": "智能硬件",
+        "goodsName": "宅家影院  高清投影+养生壶",
+        "src": "https://www.konka.com/public/images/da/12/59/f8bbe9b313df8fccde22790b18520f1c1b5fd1f2.jpg?30860_OW800_OH800",
+        "desc": "口袋高清投影 （H1)+1.8L全能养生壶（KHK-15S03）",
+        "price": "1209.00"
+    },
+    {
+        "goodId": 1,
+        "goodType": "智能硬件",
+        "goodsName": "康佳便携投影L1",
+        "src": "https://www.konka.com/public/images/c6/17/0b/592824898135ea6ed4a8412b4fb0c6db91a4cad2.jpg?69407_OW800_OH800",
+        "desc": "高亮高配 语音操控 双喇叭音响",
+        "price": "1799.00"
+    },
+    {
+        "goodId": 2,
+        "goodType": "智能硬件",
+        "goodsName": "康佳无线麦克风T1",
+        "src": "https://www.konka.com/public/images/d2/5d/11/8587749560ab5749870194c92bec9c9aeab82351.jpg?98033_OW800_OH800",
+        "desc": "多屏通用  K歌神器  金属外壳  音质纯正",
+        "price": "369.00"
+    },
+    {
+        "goodId": 3,
+        "goodType": "智能硬件",
+        "goodsName": "康佳无线麦克风M1",
+        "src": "https://www.konka.com/public/images/27/97/79/7622147cf27295768f3c68fd577c679484b71813.jpg?68040_OW800_OH800",
+        "desc": "康佳电视全民K歌专用麦克风 奢华外观 歌房音效 聚会狂欢 必备神器",
+        "price": "269.00"
+    },
+    {
+        "goodId": 4,
+        "goodType": "智能硬件",
+        "goodsName": "康佳无线麦克风H4",
+        "src": "https://www.konka.com/public/images/e7/27/24/f85d437596a396b753182d394c71b4846ef52bb1.jpg?27279_OW800_OH800",
+        "desc": "康佳电视全民K歌专用麦克风 双麦欢唱 智能降噪 高保真还原 家庭KTV新体验",
+        "price": "499.00"
+    },
+    {
+        "goodId": 5,
+        "goodType": "智能硬件",
+        "goodsName": "康佳无线麦克风T1",
+        "src": "https://www.konka.com/public/images/e9/2b/0c/aa7ca5206c29338a715a114a21a6a77d3c8c183b.jpg?44556_OW800_OH800",
+        "desc": "多屏通用 K歌神器 金属外壳 音质纯正",
+        "price": "369.00"
+    },
+    {
+        "goodId": 6,
+        "goodType": "智能硬件",
+        "goodsName": "康佳智能机顶盒HAN522   ",
+        "src": "https://www.konka.com/public/images/a3/99/75/9f0b52425480d2e1d1468dacd49761a990df4c59.png?19564_OW1557_OH1246",
+        "desc": "",
+        "price": "399.00"
+    },
+    {
+        "goodId": 7,
+        "goodType": "智能硬件",
+        "goodsName": "AI蓝牙音箱",
+        "src": "https://www.konka.com/public/images/90/98/c8/73f24a79f520d8dc9507af47d37aa589257eb68e.jpg?54454_OW800_OH800",
+        "desc": "语音指令 增强麦克风   海量内容",
+        "price": "359.00"
+    },
+    {
+        "goodId": 8,
+        "goodType": "智能硬件",
+        "goodsName": "康佳H2投影仪",
+        "src": "https://www.konka.com/public/images/d1/3e/96/881bd803e24e5317f4cdb091694c05babe98142c.jpg?54722_OW800_OH800",
+        "desc": "小巧轻便  高清画质  无线投屏",
+        "price": "1299.00"
+    },
+    {
+        "goodId": 9,
+        "goodType": "智能硬件",
+        "goodsName": "康佳无线麦克风M1D Plus",
+        "src": "https://www.konka.com/public/images/8a/e6/fa/140d39e1ec85e9f663543557a851f478c80cbee8.jpg?09805_OW800_OH800",
+        "desc": "金属外壳  多屏互动  无线连接",
+        "price": "499.00"
+    },
+    {
+        "goodId": 10,
+        "goodType": "智能硬件",
+        "goodsName": "掌上投影仪 家用投影机H3pro",
+        "src": "https://www.konka.com/public/images/e0/2a/68/342ef30e4a80937667ddc7817321d007c7df2f2f.jpg?94942_OW800_OH800",
+        "desc": "触控面板  梯形矫正  便携无线同屏  内容丰富",
+        "price": "1599.00"
+    },
+    {
+        "goodId": 11,
+        "goodType": "智能硬件",
+        "goodsName": "体感总动员手柄",
+        "src": "https://www.konka.com/public/images/54/ec/1f/d1eeba1386e3260d4e61cfcce7c7f92114d5c8c9.jpg?56639_OW800_OH800",
+        "desc": "游戏竞技 随机操控 智能省电 体感双手柄",
+        "price": "399.00"
+    },
+    {
+        "goodId": 12,
+        "goodType": "智能硬件",
+        "goodsName": "通用遥控器",
+        "src": "https://www.konka.com/public/images/ad/cb/43/34e0f97e180c77a13cf310be9ecb19c43c5313d2.jpg?24134_OW800_OH800",
+        "desc": "",
+        "price": "45.00"
+    },
+    {
+        "goodId": 13,
+        "goodType": "智能硬件",
+        "goodsName": "微型智能网络投影仪H1",
+        "src": "https://www.konka.com/public/images/1c/a7/a7/02cd65dbf3aee0524821c3a87d11bebe8184eb8c.jpg?63632_OW800_OH800",
+        "desc": " 高清投影  时尚简约  轻巧便捷     ",
+        "price": "1099.00"
+    }
+]

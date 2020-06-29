@@ -1,4 +1,4 @@
-let topbar=`
+(function(){let topbar=`
 <div class="site-topbar">
     <div class="site-topbar-container">
         <div class="topbar-nav">
@@ -35,27 +35,35 @@ let topbar=`
             </ul>
         </div>
     </div>
-</div>
-`
-let headerBefore=`
-<div class="site-header" id="nav-top">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-xs-2 logoImg"><a href="/index.html"><img src="https://www.konka.com/themes/pc/konka/images/logo.png?v9f33"></a></div>`
-
-let headerContent
+</div>`
+let headerBefore=`<div class="site-header" id="nav-top">
+                    <div class="container-fluid">
+                        <div class="row">`
 $.ajax({
     url:"../json/nav.json",
     dataType:"json",
+}).done((data)=>{
+    let rowhtml=""
+    data.map(item=>{rowhtml+=`<div class="col-xs-1"><a href="/list.html?cat_id=158">${item.name}</a>`
+                            if(item.data.length!=0){
+                                let colitem=item.data.map(item=>`<div class="col-xs-2">
+                                                                        <div class="figure">
+                                                                            <a href="javascript:void(0)" title="">
+                                                                                <img src=${item.src}>
+                                                                            </a>
+                                                                        </div>
+                                                                        <h4 class="text-uppercase ellipsis">${item.title}</h4>
+                                                                        <div class="figure-title ellipsis">${item.desc}</div>
+                                                                        <p>${item.price}</p>
+                                                                    </div>`).join("")
+    rowhtml+=`<div class="item"><div class="item-children"><div class="container-fluid">`+colitem+"</div></div></div></div>"
+                        }else{
+                            rowhtml+="</div>"
+                        }
+                    })
+    $(".row").html(`<div class="col-xs-2 logoImg"><a href="/index.html"><img src="https://www.konka.com/themes/pc/konka/images/logo.png?v9f33"></a></div>`+rowhtml+`<span class="spanLine"></span>`)
 })
-let headerAfter=`
-                    <span class="spanLine"></span>
-                     <div class="col-xs-1 "><a href="javascript:;" class="Magnifier iconImg">
-    
-                         <img src="https://www.konka.com/themes/pc/konka/images/header-scrae.png?v9f33">
-                         </a>
-                    </div>
-                </div>
+let headerAfter=`</div>
                 <div class="row search">
                     <form action="/list.html">
                         <div class="search-wrapper">
@@ -85,5 +93,12 @@ let headerAfter=`
                 </div>
             </div>
         </div>`
-
 $("<div class='site-header-relative'></div>").html(topbar+headerBefore+headerAfter).appendTo("body")
+$(".site-header").on("mouseenter",".col-xs-1",function(){
+    $(this).css("background","#fff")
+    $(this).children(".item").addClass("item-show").siblings().children(".item").removeClass("item-show")
+})
+$(".site-header").on("mouseleave",".col-xs-1",function(){
+    $(this).css("background","#f4f4f4")
+    $(this).children(".item").removeClass("item-show")
+})})()
