@@ -20,6 +20,23 @@ ul {
   background: #fff;
   transition: all 0.3s;
 }
+.back-top li:hover {
+  line-height: 13px;
+  padding: 7px 3px;
+  font-size: 12px;
+  background: #ed1c24;
+}
+.back-top li:hover a {
+  line-height: 13px;
+  padding: 7px 3px;
+  font-size: 12px;
+}
+.back-top li:hover a .glyphicon {
+  display: none;
+}
+.back-top li:hover a .backShow {
+  display: inline;
+}
 .back-top li .glyphicon {
   font-size: 20px;
   display: inline-block;
@@ -30,6 +47,9 @@ ul {
   background-size: 100% 100%;
   width: 25px;
   height: 25px;
+}
+.back-top li .backShow {
+  display: none;
 }
 .glyphicon {
   position: relative;

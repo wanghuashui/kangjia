@@ -169,6 +169,10 @@
   line-height: 50px;
   margin: 0;
 }
+.home-selling .container .home-star .cart-top h3 a {
+  font-size: 22px;
+  line-height: 50px;
+}
 .home-selling .container .home-star .cart-top .more {
   position: absolute;
   top: 20px;
@@ -180,7 +184,7 @@
   height: 25px;
   border: 1px solid #bcbcbc;
   text-align: center;
-  line-height: 25px;
+  line-height: 20px;
   background: #fff;
   cursor: pointer;
 }
@@ -231,6 +235,122 @@
   color: #fff;
   font-family: "Microsoft YaHei", "微软雅黑";
 }
+.category .television {
+  margin-top: 30px;
+}
+.category .television .col-xs-3 {
+  padding-top: 25px!important;
+}
+.category .television .cate-top {
+  position: relative;
+}
+.category .television .cate-top h3 {
+  font-size: 22px;
+  line-height: 50px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.category .television .cate-top h3 a {
+  font-size: 22px;
+  line-height: 50px;
+}
+.category .television .cate-top h3 a img {
+  margin-right: 5px;
+}
+.category .television .cate-top .more {
+  position: absolute;
+  top: 20px;
+  right: 0;
+}
+.category .television .cate-top .more .more-ul {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.category .television .cate-top .more .more-ul li {
+  display: inline-block;
+}
+.category .television .cate-top .more .more-ul li a {
+  color: #000;
+  margin-right: 4px;
+}
+.category .television .cate-top .more .more-ul li a:hover {
+  color: #ff5d59;
+}
+.category .television .container-fluid {
+  padding: 0;
+}
+.category .television .container-fluid .banW {
+  width: 1140px;
+  height: 370px;
+}
+.category .television .container-fluid .row {
+  margin: 0;
+}
+.category .television .container-fluid .row .col-xs-3 {
+  float: left;
+  margin-top: 20px;
+  background: #fff;
+  text-align: center;
+  padding: 10px;
+  height: 340px;
+  width: 270px;
+  margin-left: 20px;
+  position: relative;
+}
+.category .television .container-fluid .row .col-xs-3:nth-child(4n+1) {
+  margin-left: 0;
+}
+.category .television .container-fluid .row .col-xs-3:first-child {
+  margin-left: 0;
+}
+.category .television .container-fluid .row .col-xs-3:hover {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  z-index: 2;
+  transition: all 0.5s;
+  transform: translate3d(0, -2px, 0);
+}
+.category .television .container-fluid .row .col-xs-3 .figure {
+  height: 190px;
+  width: 100%;
+  line-height: 190px;
+  margin-bottom: 20px;
+}
+.category .television .container-fluid .row .col-xs-3 .figure a {
+  width: 100%;
+}
+.category .television .container-fluid .row .col-xs-3 .figure a img {
+  max-height: 100%;
+}
+.anchor {
+  position: fixed;
+  left: 0;
+  top: 100px;
+  display: none;
+}
+.anchor ul {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.anchor ul li {
+  width: 40px;
+  height: 45px;
+  background: #888;
+  text-align: center;
+  border-top: 1px solid #fff;
+  transition: all 0.5s;
+}
+.anchor ul li:hover {
+  background-color: red;
+}
+.anchor ul li:first-child {
+  border-top: 0;
+}
+.anchor ul li a {
+  display: block;
+  padding: 5px;
+  font-size: 12px;
+  color: #fff;
+}
 .container {
   width: 1140px!important;
   margin: 0 auto;
@@ -256,6 +376,9 @@
 .container-fluid p {
   color: #ed1c24;
   line-height: 30px;
+}
+.carousel {
+  position: relative;
 }
 p {
   margin: 0 0 10px;

@@ -27,7 +27,7 @@
             <a href="javascript:;" class="member-btn" id="dLabel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display: none"></a>
                 <a href="/passport-login.html" class=" signin-btn" style="">登录</a>
                 <span class=" sep ">|</span>
-                <a href="/passport-signup.html" class=" signup-btn" style="">注册</a>
+                <a href="./register.html" class=" signup-btn" style="">注册</a>
             <ul class="dropdown-menu" aria-labelledby="dLabel">
                 <li><a href="/my.html">个人中心</a></li>
                 <li><a href="/my-orders.html">我的订单</a></li>
