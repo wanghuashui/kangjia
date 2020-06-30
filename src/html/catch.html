@@ -56,23 +56,42 @@
             //     b[idx]=item.querySelector("img").src
             // })
             // JSON.stringify(b)
-            let a=document.querySelector(".site-category-list").querySelectorAll(".category-item")
-            let b=[]
-            a.forEach((item,idx)=>{
-                b[idx]={}
-                b[idx].href=item.querySelector("a").href
-                b[idx].title=item.querySelector("a").innerText
-                b[idx].data=[]
-                let c=item.querySelectorAll("li")
-                c.forEach((item,index)=>{
-                    b[idx].data[index]={}
-                    b[idx].data[index].title=item.querySelector("span").innerHTML
-                    b[idx].data[index].src=item.querySelector("img").src
+            // let a=document.querySelector(".site-category-list").querySelectorAll(".category-item")
+            // let b=[]
+            // a.forEach((item,idx)=>{
+            //     b[idx]={}
+            //     b[idx].href=item.querySelector("a").href
+            //     b[idx].title=item.querySelector("a").innerText
+            //     b[idx].data=[]
+            //     let c=item.querySelectorAll("li")
+            //     c.forEach((item,index)=>{
+            //         b[idx].data[index]={}
+            //         b[idx].data[index].title=item.querySelector("span").innerHTML
+            //         b[idx].data[index].src=item.querySelector("img").src
+            //     })
+            // })
+            // JSON.stringify(b)
+                let a=document.querySelectorAll(".television ")
+                let b=[]
+                a.forEach((item,idx)=>{
+                    b[idx]={}
+                    b[idx].title=item.querySelector(".cate-top").querySelector("a").innerHTML
+                    b[idx].icon=item.querySelector(".cate-top").querySelector("img").src
+                    b[idx].ul=[]
+                    let c=item.querySelector(".cate-top").querySelector(".more-ul").querySelectorAll("li")
+                    c.forEach((ele,i)=>{
+                        b[idx].ul[i]=ele.querySelector("a").innerHTML
+                    })
+                    b[idx].src=item.querySelector(".carousel").querySelector(".layz").src
+                    b[idx].data=[]
+                    let d=item.querySelectorAll(".container-fluid")[1].querySelectorAll(".col-xs-3")
+                    d.forEach((e,q)=>{
+                        b[idx].data[q]={}
+                        b[idx].data[q].src=e.querySelector(".layz").src
+                        b[idx].data[q].title=e.querySelector(".text-uppercase").innerHTML
+                        b[idx].data[q].desc=e.querySelector(".figure-title").innerHTML
+                    })
                 })
-            })
-            JSON.stringify(b)
-
-
 
 
 

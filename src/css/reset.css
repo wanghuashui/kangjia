@@ -36,7 +36,7 @@ b,strong{
 
 /* 清除浮动 */
 .clearfix:before,.clearfix:after{
-    content:"";
+    content:".";
     display:block;
     clear:both;
     height:0;

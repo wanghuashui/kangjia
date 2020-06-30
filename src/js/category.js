@@ -26,11 +26,8 @@
     })
     $(".category-wrapper").on("mouseenter",".category-item",function(){
         $(this).addClass("category-item-active").siblings().removeClass("category-item-active")
-        $(this).children(".children").css("display","block")
-        $(this).siblings().children(".children").css("display","none")
     })
     $(".category-wrapper").on("mouseleave",function(){
         $(this).find(".category-item").removeClass("category-item-active")
-        $(this).find(".children").css("display","none")
     })
 })()

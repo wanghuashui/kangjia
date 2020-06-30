@@ -61,7 +61,7 @@ $.ajax({
                             rowhtml+="</div>"
                         }
                     })
-    $(".row").html(`<div class="col-xs-2 logoImg"><a href="/index.html"><img src="https://www.konka.com/themes/pc/konka/images/logo.png?v9f33"></a></div>`+rowhtml+`<span class="spanLine"></span>`)
+    $(".row").eq(0).html(`<div class="col-xs-2 logoImg"><a href="/index.html"><img src="https://www.konka.com/themes/pc/konka/images/logo.png?v9f33"></a></div>`+rowhtml+`<span class="spanLine"></span>`)
 })
 let headerAfter=`</div>
                 <div class="row search">
