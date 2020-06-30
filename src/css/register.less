@@ -1,7 +1,7 @@
 .main-container {
     position: relative;
     .login-bg{
-        background: url(https://www.konka.com/public/images/54/16/ea/cf2fb5341c992947164f99dce1c9fbe29bb5df2c.jpg?11688_OW1920_OH588);
+        background: url(https://www.konka.com/public/images/eb/b4/d8/8526a0490bf52be6ab8e72850e7e71fa511afc56.jpg?22603_OW1920_OH588);
         background-size: 100% 100%;
             width: 100%;
             height: 100%;
@@ -12,7 +12,6 @@
         height: 588px;
         background: #e8e8e8;
         .sig-bg {
-            background: url(https://www.konka.com/themes/pc/konka/images/sigup.jpg) no-repeat;
             background-size: 100% 100%;
             .signup-panel {
                 position: absolute;
@@ -48,6 +47,8 @@
     float: right!important;
 }
 .btn-group-xs>.btn, .btn-xs {
+    background:  #c13e2c;
+    color: #ffffff;
     padding: 1px 5px;
     font-size: 12px;
     line-height: 1.5;
@@ -55,22 +56,80 @@
 }
 .panel-body {
     padding: 15px;
+    background: #ffffff;
+    .info-input{
+        margin: 5px 0 15px 0;
+        .info-input-item{
+            float: left;
+            font-weight: 700;
+            padding: 7px;
+            padding-bottom: 0;
+            margin-bottom: 0;
+            text-align: right;
+            width: 105px;
+            height: 27px;
+            span{
+                color: red;
+            }
+        }
+        .input-vcode{
+                width: 170px;
+                float: left;
+            }
+        #captcha{
+            float: left;
+            height: 34px;
+            width: 110px;
+            margin: 0 2px;
+            background: red;
+        }
+        input{
+                display: block;
+                float: left;
+                width: 290px;
+                height: 34px;
+                padding: 6px 12px;
+                font-size: 14px;
+                line-height: 1.42857143;
+                color: #555;
+                background-color: #fff;
+                background-image: none;
+                border: 1px solid #ccc;
+                border-radius: 2px;
+                -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+                box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+                -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+                -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+                transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+        }
+        .input-error{
+            border: 1px solid red;
+        }
+        .input-true{
+            border: 1px solid green;
+        }
+        .tORf{
+            float: left;
+            line-height: 34px;
+        }
+        button{
+            display: block;
+            width: 110px;
+            height: 33px;
+            border: 0px;
+            color: #fff;
+            border-radius: 2px;
+            background:#f99e1e;
+            margin-left: 150px;
+            box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+        }
+    }
+    .checkbox{
+        margin: 10px 0 15px 0;
+        padding-left: 100px;
+    }
 }
-.form-horizontal{
-    .form-group {
-        margin-right: -15px;
-        margin-left: -15px;
-    }
-    .control-label {
-        padding-top: 7px;
-        margin-bottom: 0;
-        text-align: right;
-    }
 
-} 
-.form-group {
-    margin-bottom: 15px;
-}
 .text-danger {
     color: #a94442;
 }
