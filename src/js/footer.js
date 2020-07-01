@@ -146,5 +146,5 @@
     <a href="https://v.pinpaibao.com.cn/authenticate/cert/?site=www.konka.com&amp;at=official" target="_blank"><img src="https://www.konka.com/themes/pc/konka/images/cert2.png?vf06b" alt=""></a>
     <a href="http://szcert.ebs.org.cn/1db11754-da73-4970-aa65-a587139e866e" target="_blank"><img src="https://www.konka.com/themes/pc/konka/images/cert.gif?vf06b" alt=""></a>
 </div>`
-$("<div></div>").html(footer1).appendTo("body")
+$("<div class='footerWrap'></div>").html(footer1).appendTo("body")
 })()
