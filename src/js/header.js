@@ -16,7 +16,7 @@
             <span class="sep">|</span>
         </div>
         <div class="topbar-cart">
-            <a href="/cart.html" class="iconImg">
+            <a href="./cart.html" class="iconImg">
             <img class="top-header-cart" src="https://www.konka.com/themes/pc/konka/images/top-header-cart.png?vf06b">
                 购物车(<span class="cart-num">0</span>)
                 <span class="sp-num" style="display:none"></span>
@@ -24,14 +24,14 @@
         </div>
         <div class="topbar-info">
             <span class="spanLine"></span>
-            <a href="javascript:;" class="member-btn" id="dLabel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="display: none"></a>
-                <a href="/passport-login.html" class=" signin-btn" style="">登录</a>
-                <span class=" sep ">|</span>
-                <a href="./register.html" class=" signup-btn" style="">注册</a>
+            <a href="javascript:;" class="member-btn" id="dLabel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
+            <a href="./login.html" class="signin-btn" style="">登录</a>
+            <span class=" sep ">|</span>
+            <a href="./register.html" class="signup-btn" style="">注册</a>
             <ul class="dropdown-menu" aria-labelledby="dLabel">
-                <li><a href="/my.html">个人中心</a></li>
-                <li><a href="/my-orders.html">我的订单</a></li>
-                <li><a href="/passport-logout.html">退出登录</a></li>
+                <li><a href="javascript:void(0)">个人中心</a></li>
+                <li><a href="javascript:void(0)">我的订单</a></li>
+                <li><a href="javascript:void(0)">退出登录</a></li>
             </ul>
         </div>
     </div>
@@ -106,5 +106,19 @@ $(window).scroll(()=>{
     }else{
         $(".site-header").removeClass("site-header-fixed")
     }
+})
+let user=localStorage.getItem("username")||""
+if(user!=""){
+    $(".topbar-info .member-btn").html(user).next().css("display","none").next().css("display","none").next().css("display","none")
+}else{
+    $(".topbar-info .member-btn").css("display","none")
+}
+$(".topbar-info .member-btn").click(function(){
+    $(".dropdown-menu").toggle()
+})
+$(".dropdown-menu").children().eq(2).click(function(){
+    localStorage.removeItem("username")
+    localStorage.removeItem("userid")
+    location.reload()
 })
 })()

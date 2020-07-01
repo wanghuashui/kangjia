@@ -26,17 +26,11 @@ $(()=>{
         $("#imageCode").trigger("blur");
     });
     let options={
-        "userName":{
-            reg:"/^[a-zA-Z]{2,6}$/.test(val)"
-        },
         "phoneID":{
             reg:"/^1[3-9]\\d{9}$/.test(val)"
         },
         "passwordA":{
             reg:"/^[a-zA-Z0-9]{6,18}$/.test(val)"
-        },
-        "passwordB":{
-            reg:"$('#passwordA').val()==val&&val!=''"
         },
         "imageCode":{
             reg:"val==imgCode"
@@ -53,29 +47,27 @@ $(()=>{
             $(this).next().css("color","red")
         }
     })
-    $("#registerBtn").click(function(){
-        $("#phoneID,#userName,#passwordA,#passwordB,#imageCode").trigger("blur");
+    $("#loginBtn").click(function(){
+        $("#phoneID,#passwordA,#imageCode").trigger("blur");
         if($(".input-error").length!=0){
             return
-        }
-        if(!$("#checkbox").is(":checked")){
-            alert("请阅读并同意用户的注册协议!!!");
-            return;
         }
         // 验证通过，发送请求
         $.ajax({
             type:"post",
-            url:"../server/register.php",
+            url:"../server/login.php",
             dataType:"json",
             data:{
-                username:$("#userName").val(),
                 phone:$("#phoneID").val(),
                 password:md5($("#passwordA").val()).slice(0,15)
             }
         }).done(data=>{
+            console.log(data)
             if(data.status=="success"){
-                alert("注册成功，请登录")
-                location.href="./login.html"
+                localStorage.setItem("username",data.username)
+                localStorage.setItem("userid",data.userid)
+                alert("登录成功")
+                location.href="./index.html"
             }else{
                 alert(data.msg)
             }
