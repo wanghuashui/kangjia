@@ -17,7 +17,7 @@
     <script src="../../node_modules/jquery/dist/jquery.js"></script>
     <script src="../js/header.js"></script>
     <div class="container main-container">
-        <!-- <div class="jumbotron" style="overflow:hidden;">
+        <div class="jumbotron" style="overflow:hidden;">
             <div class="ju-left pull-left">
                 <img src="https://www.konka.com/themes/pc/konka/images/shoppingNone.png?vaae5">
             </div>
@@ -26,7 +26,7 @@
                 <p>您的购物车当前并未选购任何商品。</p>
                 <p><a class="btn btn-danger btn-lg shoppingRed" href="/list.html" role="button">马上去购物 »</a></p>
             </div>
-        </div> -->
+        </div>
 
     </div>
     <script src="../js/backtop.js"></script>
@@ -35,6 +35,7 @@
         $(() => {
             let userid = localStorage.getItem("userid") || ""
             if (userid != "") {
+                $(".main-container").html("")
                 let carthd = `<div class="cart-header clearfix">
                                 <div class="cart-check">
                                     <label class="control-label">

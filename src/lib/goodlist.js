@@ -33,8 +33,8 @@ $(() => {
                     <div class="figure-title figureColor">${item.goods[i].desc}</div>
                     <p class="price">￥${item.goods[i].price}</p>
                     <div class="wrapper">
-                        <div class="btn btn-default">加入购物车</div>
-                        <div type="button" class="btn btn-danger">立即购买</div>
+                    <a href="javascipt:void(0)" type="button" class="btn btn-default">加入购物车</a>
+                    <a href="javascipt:void(0)" type="button" class="btn btn-danger">立即购买</a>
                     </div>
                 </div>`
             }
