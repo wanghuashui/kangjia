@@ -1,4 +1,4 @@
-$(()=>{
+$(() => {
     $("#userName").val("wx")
     $("#phoneID").val("15959172169")
     $("#passwordA").val("15959172169")
@@ -25,50 +25,50 @@ $(()=>{
         /* 自动触发标签的事件 */
         $("#imageCode").trigger("blur");
     });
-    let options={
-        "phoneID":{
-            reg:"/^1[3-9]\\d{9}$/.test(val)"
+    let options = {
+        "phoneID": {
+            reg: "/^1[3-9]\\d{9}$/.test(val)"
         },
-        "passwordA":{
-            reg:"/^[a-zA-Z0-9]{6,18}$/.test(val)"
+        "passwordA": {
+            reg: "/^[a-zA-Z0-9]{6,18}$/.test(val)"
         },
-        "imageCode":{
-            reg:"val==imgCode"
+        "imageCode": {
+            reg: "val==imgCode"
         }
     }
-    $(".info-input input").blur(function(){
-        let optionsKey=this.id
-        let val=$(this).val()
-        if(eval(options[optionsKey].reg)){
+    $(".info-input input").blur(function () {
+        let optionsKey = this.id
+        let val = $(this).val()
+        if (eval(options[optionsKey].reg)) {
             $(this).addClass("input-true").removeClass("input-error").next().html("√")
-            $(this).next().css("color","green")
-        }else{
+            $(this).next().css("color", "green")
+        } else {
             $(this).addClass("input-error").removeClass("input-true").next().html("×")
-            $(this).next().css("color","red")
+            $(this).next().css("color", "red")
         }
     })
-    $("#loginBtn").click(function(){
+    $("#loginBtn").click(function () {
         $("#phoneID,#passwordA,#imageCode").trigger("blur");
-        if($(".input-error").length!=0){
+        if ($(".input-error").length != 0) {
             return
         }
         // 验证通过，发送请求
         $.ajax({
-            type:"post",
-            url:"../server/login.php",
-            dataType:"json",
-            data:{
-                phone:$("#phoneID").val(),
-                password:md5($("#passwordA").val()).slice(0,15)
+            type: "post",
+            url: "../server/login.php",
+            dataType: "json",
+            data: {
+                phone: $("#phoneID").val(),
+                password: md5($("#passwordA").val()).slice(0, 15)
             }
-        }).done(data=>{
+        }).done(data => {
             console.log(data)
-            if(data.status=="success"){
-                localStorage.setItem("username",data.username)
-                localStorage.setItem("userid",data.userid)
+            if (data.status == "success") {
+                localStorage.setItem("username", data.username)
+                localStorage.setItem("userid", data.userid)
                 alert("登录成功")
-                location.href="./index.html"
-            }else{
+                location.href = "./index.html"
+            } else {
                 alert(data.msg)
             }
         })

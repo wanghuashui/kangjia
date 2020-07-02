@@ -3,11 +3,15 @@ header("Content-Type:text/html;charset-utf-8");
 include_once "./connectDB.php";
 $goodsid=$_REQUEST["goodsid"];
 $userid=$_REQUEST["userid"];
-
 $sql="SELECT * FROM cart WHERE userid=$userid && goodsid=$goodsid";
 $r=mysqli_query($db,$sql);
 if(mysqli_num_rows($r)==1){
-    $sql="UPDATE cart SET num=num+1 WHERE userid=$userid && goodsid=$goodsid";
+    if(!isset($_REQUEST["num"])){
+        $sql="UPDATE cart SET num=num+1 WHERE userid=$userid && goodsid=$goodsid";
+    }else{
+        $num=$_REQUEST["num"];
+        $sql="UPDATE cart SET num=num+$num WHERE userid=$userid && goodsid=$goodsid";
+    }
 }else{
     $sql="INSERT INTO cart (cartid,userid,goodsid,num) VALUES (NULL,$userid,$goodsid,1)";
 }

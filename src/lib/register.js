@@ -1,4 +1,4 @@
-$(()=>{
+$(() => {
     $("#userName").val("wx")
     $("#phoneID").val("15959172169")
     $("#passwordA").val("15959172169")
@@ -25,58 +25,58 @@ $(()=>{
         /* 自动触发标签的事件 */
         $("#imageCode").trigger("blur");
     });
-    let options={
-        "userName":{
-            reg:"/^[a-zA-Z]{2,6}$/.test(val)"
+    let options = {
+        "userName": {
+            reg: "/^[a-zA-Z]{2,6}$/.test(val)"
         },
-        "phoneID":{
-            reg:"/^1[3-9]\\d{9}$/.test(val)"
+        "phoneID": {
+            reg: "/^1[3-9]\\d{9}$/.test(val)"
         },
-        "passwordA":{
-            reg:"/^[a-zA-Z0-9]{6,18}$/.test(val)"
+        "passwordA": {
+            reg: "/^[a-zA-Z0-9]{6,18}$/.test(val)"
         },
-        "passwordB":{
-            reg:"$('#passwordA').val()==val&&val!=''"
+        "passwordB": {
+            reg: "$('#passwordA').val()==val&&val!=''"
         },
-        "imageCode":{
-            reg:"val==imgCode"
+        "imageCode": {
+            reg: "val==imgCode"
         }
     }
-    $(".info-input input").blur(function(){
-        let optionsKey=this.id
-        let val=$(this).val()
-        if(eval(options[optionsKey].reg)){
+    $(".info-input input").blur(function () {
+        let optionsKey = this.id
+        let val = $(this).val()
+        if (eval(options[optionsKey].reg)) {
             $(this).addClass("input-true").removeClass("input-error").next().html("√")
-            $(this).next().css("color","green")
-        }else{
+            $(this).next().css("color", "green")
+        } else {
             $(this).addClass("input-error").removeClass("input-true").next().html("×")
-            $(this).next().css("color","red")
+            $(this).next().css("color", "red")
         }
     })
-    $("#registerBtn").click(function(){
+    $("#registerBtn").click(function () {
         $("#phoneID,#userName,#passwordA,#passwordB,#imageCode").trigger("blur");
-        if($(".input-error").length!=0){
+        if ($(".input-error").length != 0) {
             return
         }
-        if(!$("#checkbox").is(":checked")){
+        if (!$("#checkbox").is(":checked")) {
             alert("请阅读并同意用户的注册协议!!!");
             return;
         }
         // 验证通过，发送请求
         $.ajax({
-            type:"post",
-            url:"../server/register.php",
-            dataType:"json",
-            data:{
-                username:$("#userName").val(),
-                phone:$("#phoneID").val(),
-                password:md5($("#passwordA").val()).slice(0,15)
+            type: "post",
+            url: "../server/register.php",
+            dataType: "json",
+            data: {
+                username: $("#userName").val(),
+                phone: $("#phoneID").val(),
+                password: md5($("#passwordA").val()).slice(0, 15)
             }
-        }).done(data=>{
-            if(data.status=="success"){
+        }).done(data => {
+            if (data.status == "success") {
                 alert("注册成功，请登录")
-                location.href="./login.html"
-            }else{
+                location.href = "./login.html"
+            } else {
                 alert(data.msg)
             }
         })

@@ -8,7 +8,7 @@ $(() => {
         for (let i = 0; i < data.length && i <= 23; i++) {
             html += `<div class="goods-list-item" data-id="${data[i].id}">
                 <div class="figure">
-                        <img class="layz" alt="${data[i].goodsname}" src=${data[i].src} style="display: inline;">
+                    <img class="layz" alt="${data[i].goodsname}" src=${data[i].src} style="display: inline;">
                 </div>
                 <h4 class="text-uppercase figure-title">${data[i].goodsname}</h4>
                 <div class="figure-title figureColor">${data[i].desc}</div>
@@ -87,8 +87,9 @@ $(() => {
                     goodsid: $(this).parents(".goods-list-item").data("id"),
                     userid: localStorage.getItem("userid"),
                 }
-            }).done(data=>{
+            }).done(data => {
                 alert(data)
+                getCartNum()
             })
         } else {
             alert("请先登录账号")

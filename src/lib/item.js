@@ -1,12 +1,11 @@
-$(()=>{
+$(() => {
     $.ajax({
-        url:"../server/item.php",
-        data:{id:location.href.split("=")[1]},
-        dataType:"json"
-    }).done(data=>{
-        console.log(data)
-        let html=""
-        html=`<ul class="breadcrumb">
+        url: "../server/item.php",
+        data: { id: location.href.split("=")[1] },
+        dataType: "json"
+    }).done(data => {
+        let html = ""
+        html = `<ul class="breadcrumb">
                 <li>${data[0].goodstype}></li>
                 <li class="active">${data[0].goodsname}</li>
             </ul>
@@ -53,7 +52,7 @@ $(()=>{
                     </div>
                 </div>
             </div>`
-    $(".product-container").html(html)
+        $(".product-container").html(html)
     })
 
     $(".product-container").on("click", ".btn-warning", function () {
@@ -63,9 +62,11 @@ $(()=>{
                 data: {
                     goodsid: $("#numBer").data("id"),
                     userid: localStorage.getItem("userid"),
+                    num: $("#numBer").val()
                 }
-            }).done(data=>{
+            }).done(data => {
                 alert(data)
+                getCartNum()
             })
         } else {
             alert("请先登录账号")

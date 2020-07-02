@@ -17,7 +17,7 @@
     <script src="../../node_modules/jquery/dist/jquery.js"></script>
     <script src="../js/header.js"></script>
     <div class="container main-container">
-        <div class="jumbotron" style="overflow:hidden;">
+        <!-- <div class="jumbotron" style="overflow:hidden;">
             <div class="ju-left pull-left">
                 <img src="https://www.konka.com/themes/pc/konka/images/shoppingNone.png?vaae5">
             </div>
@@ -26,10 +26,100 @@
                 <p>您的购物车当前并未选购任何商品。</p>
                 <p><a class="btn btn-danger btn-lg shoppingRed" href="/list.html" role="button">马上去购物 »</a></p>
             </div>
-        </div>
+        </div> -->
+
     </div>
     <script src="../js/backtop.js"></script>
     <script src="../js/footer.js"></script>
+    <script>
+        $(() => {
+            let userid = localStorage.getItem("userid") || ""
+            if (userid != "") {
+                let carthd = `<div class="cart-header clearfix">
+                                <div class="cart-check">
+                                    <label class="control-label">
+                                        <input type="checkbox"> 全选
+                                    </label>
+                                </div>
+                                <div class="cart-title">商品</div>
+                                <div class="cart-price">单价</div>
+                                <div class="cart-quantity">数量</div>
+                                <div class="cart-amount">小计</div>
+                                <div class="cart-opt">操作</div>
+                            </div><div class="cart-body"></div>`
+                                    $(carthd).appendTo(".main-container")
+                                    let cartfoo = `<div class="cart-footer clearfix">
+                                <div class="cart-check">
+                                    <label class="control-label">
+                                        <input type="checkbox"> 全选
+                                    </label>
+                                </div>
+                                <div class="cart-check-opt">
+                                    <a href="javascript:;" class="btn btn-link btn-xs">删除选中</a>
+                                </div>
+
+                                <div class="cart-all-amount text-right">
+                                    <div class="list-unstyled">
+                                        <p>
+                                            已选择<span data-bind="goods_count">1</span>件商品,优惠后金额：
+                                            <small class="text-danger"></small><strong class="text-danger" data-bind="finally_cart_amount"
+                                                style="color:#ed1c24;">￥1279.00</strong></p>
+                                    </div>
+                                </div>
+                                <div class="cart-all-opt"><a href="javascript:;">去结算</a>
+                                </div>
+                            </div>`
+                $(cartfoo).appendTo(".main-container")
+                $.ajax({
+                    url: "../server/userCart.php",
+                    data: "userid=" + localStorage.getItem("userid"),
+                    dataType: "json"
+                }).done(data => {
+                    let cartbody = data.map(item => `<div class="cart-item clearfix">
+                                                        <div data-object="goods" class="cart-item-check">
+                                                            <input type="checkbox" checked="true">
+                                                        </div>
+                                                        <div class="cart-item-info">
+                                                            <div class="row">
+                                                                <div class="cart-item-img">
+                                                                    <a href="/43U5W.html">
+                                                                        <img class="img-thumbnail"
+                                                                            src="${item.src}"
+                                                                            alt="${item.goodsname}">
+                                                                    </a>
+                                                                </div>
+                                                                <div class="cart-item-title">
+                                                                    <p class="brief">${item.desc}</p>
+                                                                    <h5><a href="">${item.goodsname}</a></h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cart-item-price">￥${item.price}</div>
+                                                        <div class="cart-item-quantity">
+                                                            <button type="button" class="btn btn-default">
+                                                                -
+                                                            </button>
+                                                            <input type="text" data-ident="goods_1113" class="spinner-input form-control" value="${item.num}"
+                                                                data-now="1">
+                                                            <button type="button" class="btn btn-default">
+                                                                +
+                                                            </button>
+                                                        </div>
+                                                        <div class="cart-item-amount">
+                                                            <p data-bind="amount">￥${item.price*1*item.num}</p>
+                                                        </div>
+                                                        <div class="cart-item-opt">
+                                                            <ul class="list-unstyled">
+                                                                <li><a href="javascript:;" class="btn btn-link btn-xs">删除</a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                        `).join("")
+                    $(cartbody).appendTo($(".cart-body"))
+                })
+            }
+        })
+    </script>
 </body>
 
 </html>
