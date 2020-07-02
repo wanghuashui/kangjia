@@ -86,14 +86,11 @@
                     width: 100%;
                     line-height: 200px;
                     font-size: 0;
-                    a {
-                        margin-bottom: 30px;
-                        img {
+                        img {margin-bottom: 30px;
                             max-width: 100%;
                             max-height: 100%;
                             vertical-align: middle;
                         }
-                    }
                 }
                 .figure-title {
                     margin-top: 10px;
@@ -131,16 +128,22 @@
                     bottom: 3px;
                     padding: 10px 15px;
                     a {
+                        float: left;
+                        display: block;
+                        color: #fff;
                         width: 90px;
                         height: 30px;
+                        border-radius: 3px;
                         line-height: 30px;
                         padding: 0;
                         outline: none;
                         &:first-child {
+                            margin-left: 30px;
                             border: 1px solid #ed1c24;
                             color: #ed1c24;
                         }
                         &:last-child {
+                            margin-left: 5px;
                             background: #ed1c24;
                             border: 1px solid #ed1c24;
                         }

@@ -11,11 +11,12 @@
   padding: 0;
   background: 0 0!important;
 }
-.main-container .product-container .breadcrumb li a {
+.main-container .product-container .breadcrumb li {
+  float: left;
   font-size: 14px;
   color: #333;
 }
-.main-container .product-container .breadcrumb li .active {
+.main-container .product-container .breadcrumb .active {
   color: #777;
 }
 .main-container .product-page .product-show {
@@ -105,7 +106,10 @@
   font-size: 20px;
   font-weight: 600;
 }
-.main-container .product-page .product-buy strong {
+.main-container .product-page .product-buy .pricebox {
+  padding-top: 20px;
+}
+.main-container .product-page .product-buy .pricebox strong {
   color: #ed1c24;
   font-size: 24px;
   font-weight: 700;
@@ -121,22 +125,18 @@
   vertical-align: top;
   height: 25px;
   margin-bottom: 30px;
-  width: 160px;
+  width: 170px;
   position: relative;
   display: table;
   border-collapse: separate;
 }
-.main-container .product-page .product-buy .product-page-cart .product-quantity .input-group-btn {
-  display: table-cell;
-}
 .main-container .product-page .product-buy .product-page-cart .product-quantity .dl-horizontal {
-  display: table-cell;
   margin-bottom: 0;
 }
 .main-container .product-page .product-buy .product-page-cart .product-quantity .dl-horizontal dt {
   width: 45px;
   text-align: left;
-  line-height: 15px;
+  line-height: 30px;
   float: left;
   overflow: hidden;
   clear: left;
@@ -144,22 +144,21 @@
   white-space: nowrap;
 }
 .main-container .product-page .product-buy .product-page-cart .product-quantity button {
-  margin-right: -1px;
+  float: left;
   padding: 0;
   width: 25px;
-  height: 25px;
+  height: 30px;
   line-height: 4px;
-  margin-top: -4px;
-  border-color: #ddd;
+  background: #fff;
+  border: 1px solid #ddd;
   font-size: 24px;
-  padding-bottom: 3px;
   outline: 0;
 }
 .main-container .product-page .product-buy .product-page-cart .product-quantity .spinner-input {
-  height: 25px;
+  float: left;
+  height: 30px;
   width: 70px;
   border: 1px solid #ddd;
-  margin-top: -2px;
   outline: 0;
   text-align: center;
 }
@@ -167,11 +166,16 @@
   padding: 15px 0;
 }
 .main-container .product-page .product-buy .row .favorite {
+  display: block;
+  float: left;
   width: 190px;
   height: 40px;
   line-height: 40px;
   padding: 0;
   font-size: 16px;
+  text-align: center;
+  color: #fff;
+  border-radius: 4px;
 }
 .main-container .product-page .product-buy .row .favorite:first-child {
   margin-right: 20px;

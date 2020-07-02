@@ -90,10 +90,8 @@
   line-height: 200px;
   font-size: 0;
 }
-.main-container .goods-list .goods-list-item .figure a {
+.main-container .goods-list .goods-list-item .figure img {
   margin-bottom: 30px;
-}
-.main-container .goods-list .goods-list-item .figure a img {
   max-width: 100%;
   max-height: 100%;
   vertical-align: middle;
@@ -135,17 +133,23 @@
   padding: 10px 15px;
 }
 .main-container .goods-list .goods-list-item .wrapper a {
+  float: left;
+  display: block;
+  color: #fff;
   width: 90px;
   height: 30px;
+  border-radius: 3px;
   line-height: 30px;
   padding: 0;
   outline: none;
 }
 .main-container .goods-list .goods-list-item .wrapper a:first-child {
+  margin-left: 30px;
   border: 1px solid #ed1c24;
   color: #ed1c24;
 }
 .main-container .goods-list .goods-list-item .wrapper a:last-child {
+  margin-left: 5px;
   background: #ed1c24;
   border: 1px solid #ed1c24;
 }
