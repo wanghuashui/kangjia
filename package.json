@@ -21,7 +21,14 @@
     "jquery": "^3.5.1"
   },
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "gulp": "^4.0.2",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
     "less": "^3.11.3"
   }
 }

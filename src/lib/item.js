@@ -55,7 +55,25 @@ $(() => {
             </div>`
         $(".product-container").html(html)
     })
-
+    // 按钮控制数量
+    $(".product-container").on("click", ".btn-default", function () {
+        if($(this).parent().index()==1){
+            if($(this).parent().next().val()<=1){
+                alert("商品数量不能小于1")
+                return
+            }else{
+                $(this).parent().next().val($(this).parent().next().val()-1)
+            }
+        }else{
+            if($(this).parent().prev().val()>=99){
+                alert("商品数量不能大于99")
+                return
+            }else{
+                $(this).parent().prev().val($(this).parent().prev().val()*1+1)
+            }
+        }
+    })
+    // 加入购物车
     $(".product-container").on("click", ".btn-warning", function () {
         if (localStorage.getItem("userid")) {
             $.ajax({
@@ -75,6 +93,9 @@ $(() => {
             return false
         }
     })
+
+
+    // 放大镜
     $(".product-container").on("mouseenter", ".product-main-image", function () {
         $("#bigMirror").css({ display: "block" })
         $(this).mousemove(function (e) {
