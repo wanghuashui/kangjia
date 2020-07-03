@@ -1,0 +1,58 @@
+[
+    {
+        "goodId": 0,
+        "goodType": "K迷优品",
+        "goodsName": "SUPER KIMI 动物梦境系列盲盒 ",
+        "src": "https://www.konka.com/public/images/2d/43/83/38ec137a1472a4569d84a92f306f5daba70adf4c.jpg?46651_OW800_OH800",
+        "desc": "预售（6月初发货） 不支持无理由退换  ",
+        "price": "81.00"
+    },
+    {
+        "goodId": 1,
+        "goodType": "K迷优品",
+        "goodsName": "SUPER KIMI“猪”事大吉毛绒公仔",
+        "src": "https://www.konka.com/public/images/d1/af/69/48cbfc5dbb6ccee22831e9ef77782fd1e8ce61be.jpg?95930_OW800_OH800",
+        "desc": "卡通萌宠 毛绒玩偶礼物 俘获少女心",
+        "price": "67.00"
+    },
+    {
+        "goodId": 2,
+        "goodType": "K迷优品",
+        "goodsName": "SUPER KIMI智能感应音响",
+        "src": "https://www.konka.com/public/images/29/54/79/1108ebe755eb3a13079bbd2ed89ba33433f13556.jpg?50982_OW800_OH800",
+        "desc": "即放即播 重低音炮 追剧神器",
+        "price": "46.00"
+    },
+    {
+        "goodId": 3,
+        "goodType": "K迷优品",
+        "goodsName": "Super Kimi智能音乐花盆",
+        "src": "https://www.konka.com/public/images/4a/30/80/d1dc3c65841a3299353993f7a56c391394ca6ca8.jpg?34463_OW800_OH800",
+        "desc": "智能弹奏音乐 支持蓝牙连接 充当护眼台灯 懒人养植神器",
+        "price": "69.00"
+    },
+    {
+        "goodId": 4,
+        "goodType": "K迷优品",
+        "goodsName": "SUPER KIMI智能防丢贴片",
+        "src": "https://www.konka.com/public/images/23/a9/18/95cf77c977c144933fce8b285ff67afd8c0ca4b1.jpg?84448_OW800_OH800",
+        "desc": "防丢防忘，一键寻物，实用功能，便利生活，IOS/Andriod均适配",
+        "price": "57.00"
+    },
+    {
+        "goodId": 5,
+        "goodType": "K迷优品",
+        "goodsName": "康佳自嗨耳机 实时耳返 把KTV戴在耳边",
+        "src": "https://www.konka.com/public/images/d3/3b/a8/1916e30bac3e3da2fae29a0e360276a2206f396f.jpg?70037_OW800_OH800",
+        "desc": "声卡耳机 一键切换 即连即听",
+        "price": "179.00"
+    },
+    {
+        "goodId": 6,
+        "goodType": "K迷优品",
+        "goodsName": "SUPER KIMI 鼠年毛绒公仔",
+        "src": "https://www.konka.com/public/images/cf/9c/24/d5236ae2fa3493177d5893b89f298722c29316b6.jpg?86689_OW800_OH800",
+        "desc": "卡通萌宠 毛绒玩偶礼物 俘获少女心",
+        "price": "109.00"
+    }
+]

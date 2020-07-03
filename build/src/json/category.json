@@ -1,0 +1,260 @@
+[
+    {
+        "href": "https://www.konka.com/list.html?cat_id=82",
+        "title": "电 视",
+        "data": [
+            {
+                "title": "阿斐亚Aphaea",
+                "src": "https://www.konka.com/public/images/6e/4d/d4/df4977b7de406ce83bd243eb27a7f9f407ccd63e.png?75251_OW40_OH40"
+            },
+            {
+                "title": "全面屏电视",
+                "src": "https://www.konka.com/public/images/61/71/23/e0349ba8566c53738239db25211deb8c880bd55c.png?23951_OW40_OH40"
+            },
+            {
+                "title": "超薄电视",
+                "src": "https://www.konka.com/public/images/32/55/03/aa0f0f59007e0ae5cb8df3bcef200a8dccebb5fe.png?23962_OW40_OH40"
+            },
+            {
+                "title": "智能电视",
+                "src": "https://www.konka.com/public/images/ab/0d/7f/06227912b46472e9d9a58f721d9cceed0dab9ce4.png?23966_OW40_OH40"
+            },
+            {
+                "title": "商用电视",
+                "src": "https://www.konka.com/public/images/24/3c/cc/bb2db6c97370258dbc89bddbce9e22531058bc3a.png?75663_OW40_OH40"
+            }
+        ]
+    },
+    {
+        "href": "https://www.konka.com/list.html?cat_id=28",
+        "title": "冰 箱",
+        "data": [
+            {
+                "title": "单门冰箱",
+                "src": "https://www.konka.com/public/images/c0/9b/01/d650daa8baf69b26e44c239d483f700286157a31.png?24656_OW40_OH40"
+            },
+            {
+                "title": "双门冰箱",
+                "src": "https://www.konka.com/public/images/17/bc/aa/170796af5b79779c24876af16f4e30f92d2d72c9.png?24660_OW40_OH40"
+            },
+            {
+                "title": "三门冰箱",
+                "src": "https://www.konka.com/public/images/02/ea/1c/7bdf89109875dec3715b79bb35e4d90f68abc04f.png?24663_OW40_OH40"
+            },
+            {
+                "title": "多门冰箱",
+                "src": "https://www.konka.com/public/images/30/ac/47/3e64e417e23b105fc11b257094595e7ecaead282.png?24667_OW40_OH40"
+            },
+            {
+                "title": "冷柜",
+                "src": "https://www.konka.com/public/images/cf/26/d6/e12f0ff424af22245ecff57db6e34da9ad2f7ca2.png?24671_OW40_OH40"
+            },
+            {
+                "title": "直冷冰箱",
+                "src": "https://www.konka.com/public/images/78/af/29/59cf5b2f9a85a66dfb33a18fe2f50d4e46baabeb.png?62132_OW40_OH40"
+            },
+            {
+                "title": "风冷冰箱",
+                "src": "https://www.konka.com/public/images/39/f4/6f/3324b696f4435dcfd161626977abea4059ed19ff.png?62142_OW40_OH40"
+            },
+            {
+                "title": "混冷冰箱",
+                "src": "https://www.konka.com/public/images/1a/03/4d/44dff6fb301bc0e8691ce880cb559f456a5ce9b8.png?62235_OW40_OH40"
+            }
+        ]
+    },
+    {
+        "href": "https://www.konka.com/list.html?cat_id=29",
+        "title": "洗衣机",
+        "data": [
+            {
+                "title": "洗烘一体机",
+                "src": "https://www.konka.com/public/images/96/da/39/e6acd68a2e1e6daa0831e62818c730b924e413e3.png?25078_OW40_OH40"
+            },
+            {
+                "title": "滚筒洗衣机",
+                "src": "https://www.konka.com/public/images/e4/d4/20/13945e8f572e9c5ef20b63166707ee49d665702c.png?25082_OW40_OH40"
+            },
+            {
+                "title": "波轮洗衣机",
+                "src": "https://www.konka.com/public/images/b6/86/ce/ade7be641efa6b361d9c1323f8533d08cb092187.png?25085_OW40_OH40"
+            },
+            {
+                "title": "迷你洗衣机",
+                "src": "https://www.konka.com/public/images/5a/de/29/4ee6c70e4394aa2e0d5feef34586516297ba385b.png?25088_OW40_OH40"
+            }
+        ]
+    },
+    {
+        "href": "https://www.konka.com/list.html?cat_id=13",
+        "title": "生活电器",
+        "data": [
+            {
+                "title": "电水壶",
+                "src": "https://www.konka.com/public/images/67/f3/57/3321474911d0e861ca4536f61fc88b2bae4149fd.png?25487_OW40_OH40"
+            },
+            {
+                "title": "养生壶",
+                "src": "https://www.konka.com/public/images/5c/ed/e7/f43e328dd1d674d465c3d7a4470319c199b1d3a5.png?25492_OW40_OH40"
+            },
+            {
+                "title": "破壁机",
+                "src": "https://www.konka.com/public/images/da/df/f8/287ac3c35936609a892bb74f2ac832cbd22a8fc2.png?25497_OW40_OH40"
+            },
+            {
+                "title": "料理机",
+                "src": "https://www.konka.com/public/images/19/c7/93/a9600cc15a206e79a82d13b54438c8a92f0ff4da.png?25501_OW40_OH40"
+            },
+            {
+                "title": "咖啡机",
+                "src": "https://www.konka.com/public/images/9a/84/fb/41dd7eaff47055a4adbe5016c83ce8ade6361b78.png?25504_OW40_OH40"
+            },
+            {
+                "title": "多功能锅",
+                "src": "https://www.konka.com/public/images/d7/1e/f2/c0b59cd7c633585b2e9e9b2178c55df1aa37f465.png?71603_OW40_OH40"
+            },
+            {
+                "title": "扫地机",
+                "src": "https://www.konka.com/public/images/f9/58/b4/53d9f0a679c702c484af1daac2515b503e7ce304.png?71618_OW40_OH40"
+            }
+        ]
+    },
+    {
+        "href": "https://www.konka.com/list.html?cat_id=158",
+        "title": "厨卫电器",
+        "data": [
+            {
+                "title": "电饭煲",
+                "src": "https://www.konka.com/public/images/ed/a1/ab/75bfc1dac455972bdb25700c069b747ea11cd682.png?25930_OW40_OH40"
+            },
+            {
+                "title": "高压锅",
+                "src": "https://www.konka.com/public/images/66/20/af/a683cc79a992823287e7c091611a41a62c79da0f.png?90540_OW40_OH40"
+            },
+            {
+                "title": "电磁炉",
+                "src": "https://www.konka.com/public/images/05/4f/32/76252273f48e9d69dc30ea4fd3d24cab3db4fcea.png?25927_OW40_OH40"
+            },
+            {
+                "title": "电烤箱",
+                "src": "https://www.konka.com/public/images/82/39/13/f2747e2662cb2ff868984471f4040c104638a353.png?90543_OW40_OH40"
+            },
+            {
+                "title": "电陶炉",
+                "src": "https://www.konka.com/public/images/8b/6f/1a/36d46d8f2afbc16d4a29e96085f177e605975f6a.png?90548_OW40_OH40"
+            },
+            {
+                "title": "空气炸锅",
+                "src": "https://www.konka.com/public/images/b4/2b/fa/e5080834f65cd98705c0db551e2fb6e625cb3833.png?90552_OW40_OH40"
+            },
+            {
+                "title": "油烟机",
+                "src": "https://www.konka.com/public/images/1c/03/68/4d4767ae8a6378ff651f74fb3b7867280afdce3b.png?26038_OW40_OH40"
+            },
+            {
+                "title": " 燃气灶",
+                "src": "https://www.konka.com/public/images/68/12/2c/9c1246f617052cd7ed0816115d8498f3a49dc416.png?90579_OW40_OH40"
+            },
+            {
+                "title": "净水器",
+                "src": "https://www.konka.com/public/images/f1/ce/16/e87834b6754b304a50c6419a624e8008c4860702.png?90587_OW40_OH40"
+            },
+            {
+                "title": " 消毒柜",
+                "src": "https://www.konka.com/public/images/13/b5/37/43349b6af3506192210ebfc3ce7e00a42eab13a4.png?90583_OW40_OH40"
+            },
+            {
+                "title": "热水器",
+                "src": "https://www.konka.com/public/images/a6/db/a5/6a04dcdd2030b99884c581cb2333bf0e22d292f0.png?26042_OW40_OH40"
+            }
+        ]
+    },
+    {
+        "href": "https://www.konka.com/list.html?cat_id=53",
+        "title": "智能硬件",
+        "data": [
+            {
+                "title": "固态硬盘",
+                "src": "https://www.konka.com/public/images/b7/32/f2/0e2263c78e6fad2829d14d01be10054895b6de15.jpg?22988_OW800_OH800"
+            },
+            {
+                "title": "麦克风",
+                "src": "https://www.konka.com/public/images/e2/bb/c7/4afcff54bff101516fef59444e7efd23fb2ab0b9.jpg?30961_OW940_OH1112"
+            },
+            {
+                "title": "智能摄像头",
+                "src": "https://www.konka.com/public/images/90/8a/cc/294ef3cab42c8ff5e547f6466cf3eaf027a743f0.png?26241_OW40_OH40"
+            },
+            {
+                "title": "智能微投",
+                "src": "https://www.konka.com/public/images/35/de/4e/ef066b337a26ea97a0bbc02aa742c119413b64d9.png?26247_OW40_OH40"
+            }
+        ]
+    },
+    {
+        "href": "https://www.konka.com/list.html?cat_id=130",
+        "title": "智能家居",
+        "data": [
+            {
+                "title": "取暖器",
+                "src": "https://www.konka.com/public/images/7e/a7/a9/d2c057fe8bca671b0361787f85ba327440019f49.png?26472_OW40_OH40"
+            },
+            {
+                "title": "照明",
+                "src": "https://www.konka.com/public/images/38/0c/c1/2f5558909d84c6accfcd608c036fc96f9b833f32.png?26475_OW40_OH40"
+            },
+            {
+                "title": "换气扇",
+                "src": "https://www.konka.com/public/images/ed/f1/bb/59bb5d8dc911609e11d32d1b4bfb2152d914edff.png?26478_OW40_OH40"
+            },
+            {
+                "title": "智能电动窗帘",
+                "src": "https://www.konka.com/public/images/db/d7/61/52ad1b74dfd130c1a642d47df41b762b4a329940.png?26482_OW40_OH40"
+            },
+            {
+                "title": "集成吊顶扣板",
+                "src": "https://www.konka.com/public/images/dd/53/09/11f41cac35f72b1b3694e71a13f8c63500642f53.png?26485_OW40_OH40"
+            },
+            {
+                "title": "纳米微晶石",
+                "src": "https://www.konka.com/public/images/d3/9e/81/1f7010cc93b79b8b138520d6f4ee03f207facc96.png?36344_OW40_OH40"
+            }
+        ]
+    },
+    {
+        "href": "https://www.konka.com/list.html?cat_id=14",
+        "title": "K迷优品",
+        "data": [
+            {
+                "title": "生活萌物",
+                "src": "https://www.konka.com/public/images/e1/9f/26/7e8df4fe0de794fdbeadc5b7cb9f7ed8a657c045.png?26611_OW40_OH40"
+            },
+            {
+                "title": "办公好物",
+                "src": "https://www.konka.com/public/images/fa/a3/e3/9d3510f5241bf6a74d465762ba31f4756a25d8e7.png?26615_OW40_OH40"
+            }
+        ]
+    },
+    {
+        "href": "https://www.konka.com/list.html?cat_id=149",
+        "title": "周边配件",
+        "data": [
+            {
+                "title": "遥控器",
+                "src": "https://www.konka.com/public/images/b7/71/1b/730863bb3395f3d60d8887049b84d9b453af609a.png?26823_OW40_OH40"
+            },
+            {
+                "title": "挂架",
+                "src": "https://www.konka.com/public/images/7d/00/63/82215e00d2967e0692b258a31bae4195ca94273c.png?26826_OW40_OH40"
+            },
+            {
+                "title": "延保",
+                "src": "https://www.konka.com/public/images/f6/ac/a9/3aacbb8d174c4509f1421f5349b502b29586a2c3.png?26828_OW40_OH40"
+            },
+            {
+                "title": "咪咕会员",
+                "src": "https://www.konka.com/public/images/e7/fa/8f/8e1e92e4525e3faf5edafe5d6f167b6dbfb80cea.png?26830_OW40_OH40"
+            }
+        ]
+    }
+]

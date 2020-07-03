@@ -1,0 +1,162 @@
+[
+    {
+        "goodId": 0,
+        "goodType": "电视",
+        "goodsName": "租房神器套餐 智能电视+双开门冰箱",
+        "src": "https://www.konka.com/public/images/67/8d/59/f611f375ebdba1ac6f968b44d56484c7ba37aacc.jpg?60451_OW800_OH800",
+        "desc": "43寸智能电视（LED43S2)+155升双门小白冰箱(BCD-155C2GBU) ",
+        "price": "1799.00"
+    },
+    {
+        "goodId": 1,
+        "goodType": "电视",
+        "goodsName": "新鲜视界 为你而生",
+        "src": "https://www.konka.com/public/images/e7/0d/88/987a02496554b78bf99e2172703e0c68542aef70.jpg?37852_OW800_OH800",
+        "desc": "65寸全面屏智能语音电视（65V5）+300升法式多门冰箱（BCD-300EGX4SU）",
+        "price": "4099.00"
+    },
+    {
+        "goodId": 2,
+        "goodType": "电视",
+        "goodsName": "影音甄选，家庭K歌新体验",
+        "src": "https://www.konka.com/public/images/53/5b/00/2bb8c5d2167934c583ff6282634136a5ad6cd296.jpg?74687_OW800_OH800",
+        "desc": "55英寸免遥控远场语音全面屏电视（55A10）+无线麦克风（M1D PLUS）  ",
+        "price": "3299.00"
+    },
+    {
+        "goodId": 3,
+        "goodType": "电视",
+        "goodsName": "阿斐亚（Aphaea）A3    JBL大师音响 MEMC Pro运动补偿 AI智能识别电视 ",
+        "src": "https://www.konka.com/public/images/dc/f4/d9/517147edfa5561c2142020e95d8479407ca6336a.jpg?31731_OW800_OH800",
+        "desc": "4GB+32GB AloT智能家居 多模态人机识别  远场语音",
+        "price": "7999.00"
+    },
+    {
+        "goodId": 4,
+        "goodType": "电视",
+        "goodsName": "T98A 98英寸18核4K超高清人工智能液晶电视 商用显示",
+        "src": "https://www.konka.com/public/images/7a/11/8e/304fdd358163f4af44072cfc64cc1c4dd36730d8.jpg?95971_OW800_OH800",
+        "desc": " 帝王黑金属机身 4+64GB超大内存 远场语音",
+        "price": "99999.00"
+    },
+    {
+        "goodId": 5,
+        "goodType": "电视",
+        "goodsName": "PDR55 PRO 55英寸声控交互式全面屏电视 ",
+        "src": "https://www.konka.com/public/images/1c/c1/cb/9c627e4e5a4700a492f25d12732653d3d44fc25b.jpg?94220_OW800_OH800",
+        "desc": "可升降摄像头 3+32GB大存储 AIOT家电物联 杜比全景声",
+        "price": "6299.00"
+    },
+    {
+        "goodId": 6,
+        "goodType": "电视",
+        "goodsName": "55A10 55英寸免遥控远场语音全面屏电视",
+        "src": "https://www.konka.com/public/images/07/99/87/926574dbe30ea9c18934a6ed8aa4b78d19a77cff.jpg?57284_OW800_OH800",
+        "desc": "超薄金属机身 3GB+64GB大内存 智能教育 全景AI智慧屏 ",
+        "price": "2699.00"
+    },
+    {
+        "goodId": 7,
+        "goodType": "电视",
+        "goodsName": "65A10  65英寸免遥控远场语音全面屏电视",
+        "src": "https://www.konka.com/public/images/f2/c0/43/940e1f803aec6f0b63f996cdc117c07a60f26640.jpg?91014_OW800_OH800",
+        "desc": "超薄金属机身 3GB+64GB大内存 智能教育 全景AI智慧屏 ",
+        "price": "3699.00"
+    },
+    {
+        "goodId": 8,
+        "goodType": "电视",
+        "goodsName": "65A9  65英寸AI智能超薄全面屏",
+        "src": "https://www.konka.com/public/images/f3/07/fa/77943f61dd8a3d95c648b059e133fd9140075c73.jpg?90589_OW800_OH800",
+        "desc": "9.99mm超薄机身 2GB+16GB大内存 亲民AI语音 防蓝光模式",
+        "price": "2699.00"
+    },
+    {
+        "goodId": 9,
+        "goodType": "电视",
+        "goodsName": "55A9 55英寸AI智能超薄全面屏 ",
+        "src": "https://www.konka.com/public/images/fa/b4/ec/f248b2905386c626144706e2da0132f070ea84d2.jpg?90527_OW800_OH800",
+        "desc": "2GB+16GB大内存 华为芯片 8.99mm超薄机身  亲民AI语音 ",
+        "price": "1849.00"
+    },
+    {
+        "goodId": 10,
+        "goodType": "电视",
+        "goodsName": "65G10U 65英寸4K超薄AI声控全面屏 ",
+        "src": "https://www.konka.com/public/images/6a/13/d1/62d95bbc0c478409845dc93cec7adfeecb16d31b.jpg?89612_OW800_OH800",
+        "desc": "3GB+64GB大内存  双频WiFi  免遥控远场语音",
+        "price": "3699.00"
+    },
+    {
+        "goodId": 11,
+        "goodType": "电视",
+        "goodsName": "55G10U 55英寸4K超薄AI声控全面屏",
+        "src": "https://www.konka.com/public/images/57/12/02/64284dd41a5b5736e28bf2583ee5c100f7601ee5.jpg?89407_OW800_OH800",
+        "desc": "3GB+64GB大内存  双频WiFi  免遥控远场语音",
+        "price": "2699.00"
+    },
+    {
+        "goodId": 12,
+        "goodType": "电视",
+        "goodsName": "65Q30 65英寸免遥控远场语音4K电视",
+        "src": "https://www.konka.com/public/images/22/d8/1f/ec39ba0737de1022b5ac3b0d6e21c9428728df12.jpg?55215_OW800_OH800",
+        "desc": "2GB+16GB大内存  免遥控全景AI  远场语音智能",
+        "price": "2599.00"
+    },
+    {
+        "goodId": 13,
+        "goodType": "电视",
+        "goodsName": "55Q30 55英寸免遥控远场语音4K电视",
+        "src": "https://www.konka.com/public/images/00/64/ab/fca951db21e74585bd9aaa7efa6c2f2296303bbc.jpg?89452_OW800_OH800",
+        "desc": "2GB+16GB大内存  免遥控全景AI  远场语音智能",
+        "price": "1749.00"
+    },
+    {
+        "goodId": 14,
+        "goodType": "电视",
+        "goodsName": "LED55D8 55英寸远场语音免遥控电视",
+        "src": "https://www.konka.com/public/images/0e/71/d2/336184b21789797e2e69867d56dabfd42042c6f7.jpg?90775_OW800_OH800",
+        "desc": "全面屏金属机身 2GB+64GB大内存 声控全屋家电",
+        "price": "1999.00"
+    },
+    {
+        "goodId": 15,
+        "goodType": "电视",
+        "goodsName": "65G4U 65英寸人工智能全面屏",
+        "src": "https://www.konka.com/public/images/09/43/d3/e91bfce95409beffd2db46979690230c431bd1b7.jpg?89572_OW800_OH800",
+        "desc": "2+16G大存储 4K全面屏 人工智能杜比解码",
+        "price": "2499.00"
+    },
+    {
+        "goodId": 16,
+        "goodType": "电视",
+        "goodsName": "55G4U 55英寸人工智能全面屏 ",
+        "src": "https://www.konka.com/public/images/ac/c0/be/1d1e5882fd7bd6d44873c0aded1060fe512b0356.jpg?89367_OW800_OH800",
+        "desc": "2+16G大存储 4K全面屏 人工智能杜比解码",
+        "price": "1599.00"
+    },
+    {
+        "goodId": 17,
+        "goodType": "电视",
+        "goodsName": "55V5 55英寸人工智能全面屏",
+        "src": "https://www.konka.com/public/images/90/e1/90/088ba54df034a59ea52111d392f70c1c1b95e412.jpg?89508_OW800_OH800",
+        "desc": " 2+16G大内存 4K全面屏 人工智能 杜比音效",
+        "price": "1549.00"
+    },
+    {
+        "goodId": 18,
+        "goodType": "电视",
+        "goodsName": "65V5 65英寸人工智能全面屏",
+        "src": "https://www.konka.com/public/images/3a/4b/0d/e9b6d488c04daecc5b1a19ef5124da56edb1ec52.jpg?89631_OW800_OH800",
+        "desc": " 2+16G大内存 4K全面屏 人工智能 杜比音效",
+        "price": "2499.00"
+    },
+    {
+        "goodId": 19,
+        "goodType": "电视",
+        "goodsName": "65G7U 65英寸4K超薄全面屏",
+        "src": "https://www.konka.com/public/images/4b/26/f5/d3df3457867d6da83ab64048e9817502f2691b6e.jpg?89592_OW800_OH800",
+        "desc": "金属纤薄机身 AI人工智能 16GB大内存 ",
+        "price": "2699.00"
+    }
+]

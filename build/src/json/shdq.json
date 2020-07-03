@@ -1,0 +1,162 @@
+[
+    {
+        "goodId": 0,
+        "goodType": "生活电器",
+        "goodsName": "慢享一壶 精致养生  空气炸锅+养生杯",
+        "src": "https://www.konka.com/public/images/e6/10/b8/e53875d41fa96329c7a4e434be5476cd7d559540.jpg?30894_OW800_OH800",
+        "desc": "智能无油空气炸锅（KGKZ-3523)+健康养生杯(KHK-06S01) 618套购直降359元！",
+        "price": "369.00"
+    },
+    {
+        "goodId": 1,
+        "goodType": "生活电器",
+        "goodsName": "家用蒸汽熨斗KSC-G168(G）",
+        "src": "https://www.konka.com/public/images/47/7b/35/71cf47b28176aab2ce05f5dce3897b926af11924.jpg?47181_OW1000_OH1000",
+        "desc": "手持挂烫机 迷你便携式 小型烫衣服",
+        "price": "199.00"
+    },
+    {
+        "goodId": 2,
+        "goodType": "生活电器",
+        "goodsName": "办公室加热饭盒 KPT-FC05",
+        "src": "https://www.konka.com/public/images/b3/12/c6/21c3dce59cc1c0086f295ccf917384ccf40e43b6.jpg?46545_OW800_OH800",
+        "desc": "便携带饭神器 不锈钢双胆",
+        "price": "199.00"
+    },
+    {
+        "goodId": 3,
+        "goodType": "生活电器",
+        "goodsName": "1.5L养生壶多功能KX-15",
+        "src": "https://www.konka.com/public/images/3e/02/b1/e4960f16c0bd5ae2369d97fc7484868990e18c85.jpg?00111_OW800_OH800",
+        "desc": "304不锈钢发热盘 定时预约 多段保温！",
+        "price": "149.00"
+    },
+    {
+        "goodId": 4,
+        "goodType": "生活电器",
+        "goodsName": "意式浓缩咖啡机KCF-1001",
+        "src": "https://www.konka.com/public/images/51/af/c0/74142e7c9e760031c3c834b78782df5a35b8074b.jpg?43600_OW800_OH800",
+        "desc": "一键全自动 家用小型迷你 商用奶泡机一体",
+        "price": "1299.00"
+    },
+    {
+        "goodId": 5,
+        "goodType": "生活电器",
+        "goodsName": "1.8L养生壶多功能KHK-1802(E)",
+        "src": "https://www.konka.com/public/images/a7/f0/4a/bd5bd0ce977479889e72432b4e644aa8c5866428.jpg?00249_OW800_OH800",
+        "desc": "304不锈钢发热盘 定时预约 多段保温！",
+        "price": "269.00"
+    },
+    {
+        "goodId": 6,
+        "goodType": "生活电器",
+        "goodsName": "甄选之礼 迷你便携美发套装",
+        "src": "https://www.konka.com/public/images/b6/90/02/cd9260b570d3fbb1886e6f12a77e3abf8a263685.jpg?89847_OW1080_OH1080",
+        "desc": "180℃速热智能恒温 恒温65℃护发 百变造型 轻享奢华",
+        "price": "599.00"
+    },
+    {
+        "goodId": 7,
+        "goodType": "生活电器",
+        "goodsName": "1.8L玻璃加厚养生壶KHK-18V01",
+        "src": "https://www.konka.com/public/images/57/37/25/51188eb6147163d2540ecba6b1db77975af0c401.jpg?27812_OW1000_OH1000",
+        "desc": "全触控操作面板，定时预约，多段保温！",
+        "price": "109.00"
+    },
+    {
+        "goodId": 8,
+        "goodType": "生活电器",
+        "goodsName": "水龙头净水器KPW-LT01",
+        "src": "https://www.konka.com/public/images/fb/cc/01/e196ae6afb0835b7799be8a37950967c61001cf3.jpg?29537_OW800_OH800",
+        "desc": "九级复合过滤 四步简易安装 双出水更人性",
+        "price": "79.00"
+    },
+    {
+        "goodId": 9,
+        "goodType": "生活电器",
+        "goodsName": "USB充电式料理机KJ-40U01(A)",
+        "src": "https://www.konka.com/public/images/97/8a/28/438ee0d9ea2f616be55ccedd0e822129e6178247.jpg?29070_OW800_OH800",
+        "desc": "机身小重量轻  旅行逛街健身随身带",
+        "price": "99.00"
+    },
+    {
+        "goodId": 10,
+        "goodType": "生活电器",
+        "goodsName": "USB充电式迷你便携式料理机KJ-60U02",
+        "src": "https://www.konka.com/public/images/38/6c/22/03a479d0e3ca1e4e439c2a9ab270d8c4277f6e15.jpg?94913_OW800_OH800",
+        "desc": "机身小  重量轻  旅行健身随身带",
+        "price": "129.00"
+    },
+    {
+        "goodId": 11,
+        "goodType": "生活电器",
+        "goodsName": "0.5L折叠双电压烧水壶KEK-06G508(L2)",
+        "src": "https://www.konka.com/public/images/d0/36/8f/db97d8c64e5e4f3d454d9f2f46af7b77c8282338.jpg?95084_OW800_OH800",
+        "desc": "食品级硅胶 旅行便携保温 ",
+        "price": "129.00"
+    },
+    {
+        "goodId": 12,
+        "goodType": "生活电器",
+        "goodsName": "1.8L 智能养生壶KHK-18T10",
+        "src": "https://www.konka.com/public/images/3c/e6/5e/fe254ad8d73969fed23cb6ce6f1b6945a1e3ea1b.jpg?43450_OW800_OH800",
+        "desc": "智能双系统  精准温控  玻璃炖蛊",
+        "price": "179.00"
+    },
+    {
+        "goodId": 13,
+        "goodType": "生活电器",
+        "goodsName": "全自动快速煎药KJY-30Y01",
+        "src": "https://www.konka.com/public/images/71/31/fc/60b8c4d7ca5481a0131c4a32875e32fda225429c.jpg?02941_OW800_OH800",
+        "desc": "易清洗，蜂鸣提醒，防干烧保护，锁盖设计，老人也能轻松煎药！",
+        "price": "199.00"
+    },
+    {
+        "goodId": 14,
+        "goodType": "生活电器",
+        "goodsName": "便携式旅行料理机KJ-V150",
+        "src": "https://www.konka.com/public/images/1e/ac/7d/4c92bc6f0cca23c27c7669e5fd59c8629e605ef2.jpg?24843_OW800_OH800",
+        "desc": "快速榨汁  四叶刀头  清洗方便",
+        "price": "99.00"
+    },
+    {
+        "goodId": 15,
+        "goodType": "生活电器",
+        "goodsName": "红外线测温仪AET-R1D1(JK04)",
+        "src": "https://www.konka.com/public/images/79/1e/a1/a5e9f7b5cee72ea119d142fe1ae8788e7601e393.jpg?50176_OW800_OH800",
+        "desc": "准确测温  发烧警示  大容量存储",
+        "price": "69.00"
+    },
+    {
+        "goodId": 16,
+        "goodType": "生活电器",
+        "goodsName": "USB家用静音便携式无叶风扇KF-UW1(CD)",
+        "src": "https://www.konka.com/public/images/40/e2/76/c2f963e8181f5dcf1b1b349e10ae1a4f49d6f7c2.jpg?28720_OW800_OH800",
+        "desc": "无叶柔风 可充电 小夜灯",
+        "price": "219.00"
+    },
+    {
+        "goodId": 17,
+        "goodType": "生活电器",
+        "goodsName": "1.2L 家用多功能加热破壁机KJ-07B03",
+        "src": "https://www.konka.com/public/images/1e/94/cf/8d36f971a188287972df64e46cf27b613b4913fa.jpg?71320_OW800_OH800",
+        "desc": "高速破壁 一键料理 碎冰辅食 研磨豆浆榨汁 智能预约 ",
+        "price": "499.00"
+    },
+    {
+        "goodId": 18,
+        "goodType": "生活电器",
+        "goodsName": "1.2L  高硼硅玻璃烧水壶KHK-1812",
+        "src": "https://www.konka.com/public/images/f4/59/5e/62f4561dd28a4d901b82a49632ab34d91f00495d.jpg?55291_OW800_OH800",
+        "desc": "食品级304不锈钢发热盘 高硼硅玻璃内壁 12小时恒温 精准控温 恒温温奶器 调奶器冲奶器 自动断电防干烧 多功能一机多用 妈妈安心，宝宝开心！",
+        "price": "159.00"
+    },
+    {
+        "goodId": 19,
+        "goodType": "生活电器",
+        "goodsName": "0.6L可视玻璃养生杯KHK-06S01",
+        "src": "https://www.konka.com/public/images/ca/7f/a4/0fbe9e898ef8926dda7a1797ecb608c0cd62ba07.jpg?52017_OW800_OH800",
+        "desc": "小巧容量  双层防烫  智能触控",
+        "price": "179.00"
+    }
+]

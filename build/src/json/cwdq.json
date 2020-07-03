@@ -1,0 +1,162 @@
+[
+    {
+        "goodId": 0,
+        "goodType": "厨卫电器",
+        "goodsName": "家用蒸汽熨斗KSC-G168(G）",
+        "src": "https://www.konka.com/public/images/47/7b/35/71cf47b28176aab2ce05f5dce3897b926af11924.jpg?47181_OW1000_OH1000",
+        "desc": "手持挂烫机 迷你便携式 小型烫衣服",
+        "price": "199.00"
+    },
+    {
+        "goodId": 1,
+        "goodType": "厨卫电器",
+        "goodsName": "32升家用多功能电烤箱KAO-32M1",
+        "src": "https://www.konka.com/public/images/a0/5f/52/99e1cf25314e93d6877525adf801f22ab536e0f0.jpg?54301_OW800_OH800",
+        "desc": "全自动烘焙用具 多功能考箱 大容量",
+        "price": "229.00"
+    },
+    {
+        "goodId": 2,
+        "goodType": "厨卫电器",
+        "goodsName": "多功能小功率宿舍电煮锅KZG-T3HP30",
+        "src": "https://www.konka.com/public/images/61/93/7c/7c9b75d2319a0d42b15827e3875096fcbb062fbb.jpg?87619_OW800_OH800",
+        "desc": "3L大容量，便携长手柄，木纹握柄，不沾涂层，宿舍可用！",
+        "price": "149.00"
+    },
+    {
+        "goodId": 3,
+        "goodType": "厨卫电器",
+        "goodsName": "6.5升大容量无油烟多功能电炸锅/空气炸锅KGKZ-6505",
+        "src": "https://www.konka.com/public/images/cb/56/fd/6c3c5b943796650948ad453811dacee67892aed8.jpg?63514_OW800_OH800",
+        "desc": "360°智能翻炒  可视化窗口  丰富触摸面板",
+        "price": "599.00"
+    },
+    {
+        "goodId": 4,
+        "goodType": "厨卫电器",
+        "goodsName": "多功能家用鸳鸯火锅KEP-5LM11",
+        "src": "https://www.konka.com/public/images/2d/fb/50/607951014e7ecbaec1d270cc2b321f8af204f9c5.jpg?36935_OW800_OH800",
+        "desc": "5L鸳鸯电火锅，进口华福不粘涂层，1500W大功率，一体压铸， 一锅双味不串味，断电全身水洗，品质火锅，尽在康佳！",
+        "price": "189.00"
+    },
+    {
+        "goodId": 5,
+        "goodType": "厨卫电器",
+        "goodsName": "2L 智能小电饭煲KRC-20ZS808",
+        "src": "https://www.konka.com/public/images/e3/b6/fd/07bcd35f11feaaed61e418043001487479229607.jpg?43220_OW800_OH800",
+        "desc": "24小时预约  速热氧化盘  回形蒸笼阀",
+        "price": "239.00"
+    },
+    {
+        "goodId": 6,
+        "goodType": "厨卫电器",
+        "goodsName": "智能无油空气炸锅KGKZ-3523",
+        "src": "https://www.konka.com/public/images/4f/97/b4/45ee1806c4382afd96c5d9427a2911c528d25c7c.jpg?04679_OW800_OH800",
+        "desc": "无油煎炸 美味自制 内置炸篮可拆卸",
+        "price": "269.00"
+    },
+    {
+        "goodId": 7,
+        "goodType": "厨卫电器",
+        "goodsName": "家用爆炒电陶炉KES-22P2",
+        "src": "https://www.konka.com/public/images/27/e0/1d/816bfc76aa471adbcfdd8e0a27d1e801131fb40f.jpg?04750_OW900_OH900",
+        "desc": "不挑锅具  快速散热  8档火力",
+        "price": "199.00"
+    },
+    {
+        "goodId": 8,
+        "goodType": "厨卫电器",
+        "goodsName": "2L多功能小炒锅KCG-205   ",
+        "src": "https://www.konka.com/public/images/34/8f/35/37c20d1d927775856e62ca3549fce19af9cce166.jpg?42351_OW800_OH800",
+        "desc": "不粘锅体  双层防烫  多重功能  上蒸下煮",
+        "price": "129.00"
+    },
+    {
+        "goodId": 9,
+        "goodType": "厨卫电器",
+        "goodsName": "多功能小功率宿舍电煮锅KZG-15YX601/KZG-15YX601(L）",
+        "src": "https://www.konka.com/public/images/28/48/46/d23cc69bdea9761bc6f0f00f165a06638f9767f5.jpg?53762_OW800_OH800",
+        "desc": "1.5L，304不锈钢，双功率宿舍可用！",
+        "price": "69.00"
+    },
+    {
+        "goodId": 10,
+        "goodType": "厨卫电器",
+        "goodsName": "家用蒸烤一体机蒸烤炉/烤箱KAO-28S20",
+        "src": "https://www.konka.com/public/images/24/55/06/b0a3936dd55ac2cc46aa143bf550775c5c0946c1.jpg?40637_OW800_OH800",
+        "desc": "28L大容量  一机多用  高温消毒",
+        "price": "1799.00"
+    },
+    {
+        "goodId": 11,
+        "goodType": "厨卫电器",
+        "goodsName": "立式扩容家用烤箱KAO-L12T",
+        "src": "https://www.konka.com/public/images/ed/8c/a7/9f635acba70e5c2c8a48a384e8751f11f53c5dce.jpg?94978_OW800_OH800",
+        "desc": "立式设计 三层同烤  上下立体发热",
+        "price": "209.00"
+    },
+    {
+        "goodId": 12,
+        "goodType": "厨卫电器",
+        "goodsName": "3L家用机械小电饭锅KRC-30JX33",
+        "src": "https://www.konka.com/public/images/1f/6f/19/084f16f507da912f34544cf95f6e3dc60ac116f5.jpg?12534_OW800_OH800",
+        "desc": "银白机身  一键操作  蒸煮两用  ",
+        "price": "99.00"
+    },
+    {
+        "goodId": 13,
+        "goodType": "厨卫电器",
+        "goodsName": "触摸式家用智能大火力磁炉KEO-21CS08",
+        "src": "https://www.konka.com/public/images/0c/06/7f/9a8e32e77d9415c03207ca39970fa00fd31cd250.jpg?87884_OW800_OH800",
+        "desc": "2100W大功率触控电磁炉  10段调节 预约定时",
+        "price": "139.00"
+    },
+    {
+        "goodId": 14,
+        "goodType": "厨卫电器",
+        "goodsName": "家用小型智能新款电磁炉KEO-21AS07/KEO-21AS07（TE)",
+        "src": "https://www.konka.com/public/images/29/86/45/8d35385c108d6c2d49eafbf5090ec45d92165062.jpg?87740_OW800_OH800",
+        "desc": "2100W功率，十档调控",
+        "price": "199.00"
+    },
+    {
+        "goodId": 15,
+        "goodType": "厨卫电器",
+        "goodsName": "智能家用电陶炉KES-22AS02",
+        "src": "https://www.konka.com/public/images/e4/05/13/1cb26c40e9a3ec3671ccd47ec82eacdfb7fedc47.jpg?82421_OW800_OH800",
+        "desc": "无高频辐射 大功率红外光波加热 快速加热不挑锅",
+        "price": "229.00"
+    },
+    {
+        "goodId": 16,
+        "goodType": "厨卫电器",
+        "goodsName": "2.5L家用智能易清洁去油无烟空气炸锅KGKZ-2501(C)",
+        "src": "https://www.konka.com/public/images/3f/69/2c/1de206e7826bb10ff6e2b05ca7e295f6c6b9fd35.jpg?27697_OW800_OH800",
+        "desc": "智能预约  触摸操作 360度立体加热 断电记忆功能",
+        "price": "399.00"
+    },
+    {
+        "goodId": 17,
+        "goodType": "厨卫电器",
+        "goodsName": "2.2L家庭容量多功能无油空气炸锅KGKZ-2202",
+        "src": "https://www.konka.com/public/images/be/4b/43/06bbfd7fc38869f31c787720a22839dd11390068.jpg?26312_OW800_OH800",
+        "desc": "无油烹炸  360°高速空气循环  多项菜单  不粘内胆",
+        "price": "239.00"
+    },
+    {
+        "goodId": 18,
+        "goodType": "厨卫电器",
+        "goodsName": "1.2L小容量 迷你小饭煲KRC-12JX701",
+        "src": "https://www.konka.com/public/images/af/57/f5/ea5807d6a55b05beed62d1411c02f39e7f694629.jpg?17757_OW800_OH800",
+        "desc": "康佳萌新电饭煲 1.2L迷你小容量，不粘内胆，可爱精致，方便携带，学生宿舍上班都适用！",
+        "price": "99.00"
+    },
+    {
+        "goodId": 19,
+        "goodType": "厨卫电器",
+        "goodsName": "寝室神器多功能小功率电煮锅KZG-15YX721/KZG-15YX721（L)",
+        "src": "https://www.konka.com/public/images/e5/5c/b2/deea5b56e28060448f1abb4476919384a641e564.jpg?15880_OW800_OH800",
+        "desc": "1.5L精致新品多功能小煮锅 600W安全功率，三档（快+慢+保温）旋钮调节 304不锈钢内胆，双层防烫锅身 ",
+        "price": "79.00"
+    }
+]

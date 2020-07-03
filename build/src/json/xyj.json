@@ -1,0 +1,138 @@
+[
+    {
+        "goodId": 0,
+        "goodType": "洗衣机",
+        "goodsName": "宅家必备套餐  三门冰箱+波轮洗衣机",
+        "src": "https://www.konka.com/public/images/5a/58/ec/95ea30c15d759fdaa906f106c88d850c060bb1b8.jpg?10819_OW800_OH800",
+        "desc": "低噪节能 保鲜不串味 八档洗衣 二十四分钟快洗 ",
+        "price": "1599.00"
+    },
+    {
+        "goodId": 1,
+        "goodType": "洗衣机",
+        "goodsName": "10公斤波轮洗衣机XPB100-7D0S",
+        "src": "https://www.konka.com/public/images/a5/b8/e7/aa8b8ed9f9ec5866d297fb1f1e0042e5b8b74c2f.png?57374_OW800_OH800",
+        "desc": "大容量 脱水甩干机 半自动",
+        "price": "699.00"
+    },
+    {
+        "goodId": 2,
+        "goodType": "洗衣机",
+        "goodsName": "8公斤  变频滚筒洗衣机XQG80-1203BD",
+        "src": "https://www.konka.com/public/images/19/4c/3f/aab060aa697cb90f8471976cef2edd8fe93cdd69.jpg?15295_OW800_OH800",
+        "desc": "新飞（Frestec）大容量  超薄机身  1级能效",
+        "price": "1399.00"
+    },
+    {
+        "goodId": 3,
+        "goodType": "洗衣机",
+        "goodsName": "9公斤 变频全自动滚筒洗衣机 XQG90-1203JD",
+        "src": "https://www.konka.com/public/images/38/33/b1/50a04b96d844e33946f05f0ac482b37f3e28f4af.jpg?15378_OW800_OH800",
+        "desc": "新飞（Frestec）羽绒服洗  96°高温除菌  大屏显示",
+        "price": "1699.00"
+    },
+    {
+        "goodId": 4,
+        "goodType": "洗衣机",
+        "goodsName": "8公斤 滚筒洗衣机XQG80-10D08W",
+        "src": "https://www.konka.com/public/images/5c/db/31/0aae9ffa389893e6830059e3e09b0dfcd0ba6b81.jpg?96649_OW800_OH800",
+        "desc": "一键式洗涤，高温煮洗，多种程序洗涤，中途添衣，高效脱水技术！",
+        "price": "1249.00"
+    },
+    {
+        "goodId": 5,
+        "goodType": "洗衣机",
+        "goodsName": "7公斤全自动波轮洗衣机  XQB70-20D0B",
+        "src": "https://www.konka.com/public/images/0a/47/14/9331fe21fe6cf49f475d4c9caa5daf4c02120f6e.jpg?67443_OW800_OH800",
+        "desc": "快洗自洁  多种程序 家用小型迷你 宿舍租房带甩干",
+        "price": "709.00"
+    },
+    {
+        "goodId": 6,
+        "goodType": "洗衣机",
+        "goodsName": "5公斤 全自动波轮洗衣机XQB50-218",
+        "src": "https://www.konka.com/public/images/54/02/5b/8b858571d7fa2d90adff3e5ce17262f8e4ed14c4.jpg?67330_OW800_OH800",
+        "desc": "8档水位10种程序！自洁桶风干！ 24小时预约洗！多功能控制面板，多种洗涤方式 ",
+        "price": "599.00"
+    },
+    {
+        "goodId": 7,
+        "goodType": "洗衣机",
+        "goodsName": "4公斤全自动波轮洗衣机 宿舍家用租房洗衣机  XQB40-20D0B",
+        "src": "https://www.konka.com/public/images/43/ba/d7/e0bb1b377fb7e745cebcc6a70ad188177a0d3c20.jpg?67870_OW800_OH800",
+        "desc": "小体积大精彩  快洗自洁  5档水位 24小时预约",
+        "price": "549.00"
+    },
+    {
+        "goodId": 8,
+        "goodType": "洗衣机",
+        "goodsName": "6.2公斤波轮洗衣机  XQB62-M5101",
+        "src": "https://www.konka.com/public/images/05/7a/c1/2b9d2d80b978ee661f9bae824c6303ed9bea82b3.jpg?45844_OW800_OH800",
+        "desc": "家用迷你  桶自洁 强动力",
+        "price": "666.00"
+    },
+    {
+        "goodId": 9,
+        "goodType": "洗衣机",
+        "goodsName": "9公斤全自动波轮洗衣机 XQB90-1806D",
+        "src": "https://www.konka.com/public/images/79/6f/22/7eb74c6882e22a48d59be6fa0e3b25660b2484c8.jpg?15108_OW800_OH800",
+        "desc": "新飞（Frestec）自编程仿手搓洗  模糊控制  8种程序",
+        "price": "899.00"
+    },
+    {
+        "goodId": 10,
+        "goodType": "洗衣机",
+        "goodsName": "6公斤 全自动家用波轮洗衣机XQB60-510Y",
+        "src": "https://www.konka.com/public/images/d4/4b/cf/62ea8bf9cdca86a285b088b302adc297cf36da9e.jpg?58697_OW800_OH800",
+        "desc": "新飞（Frestec）8种洗衣程序  优质旋风净桶  自由预约",
+        "price": "699.00"
+    },
+    {
+        "goodId": 11,
+        "goodType": "洗衣机",
+        "goodsName": "10公斤 全自动波轮洗衣机XQB100-1806D",
+        "src": "https://www.konka.com/public/images/bb/c2/9c/ea224fc41ad809b66203a9c21d0622cfeadf59b3.jpg?15191_OW800_OH800",
+        "desc": "新飞（Frestec）智能模糊控制洗  静音节能  自动断电",
+        "price": "999.00"
+    },
+    {
+        "goodId": 12,
+        "goodType": "洗衣机",
+        "goodsName": "8公斤 全自动波轮洗衣机XQB80-1806D",
+        "src": "https://www.konka.com/public/images/46/98/e0/65a218a9b1d8a27c0892d7759583bbc8d8b78dd5.jpg?59170_OW800_OH800",
+        "desc": "新飞（Frestec）家用节能 优质桶风干  不平衡自检功能",
+        "price": "699.00"
+    },
+    {
+        "goodId": 13,
+        "goodType": "洗衣机",
+        "goodsName": "3公斤 全自动波轮迷你洗衣机  XQB30-618H",
+        "src": "https://www.konka.com/public/images/66/f6/4f/584c4fad0ec5f0b01573abb5c5edfda137f473f6.jpg?94471_OW800_OH800",
+        "desc": "高温煮洗，纳米银离子抑菌，婴幼儿专用洗衣机人，避免衣物交叉细菌感染！",
+        "price": "909.00"
+    },
+    {
+        "goodId": 14,
+        "goodType": "洗衣机",
+        "goodsName": "XQG110-BBH14308S 11公斤洗烘一体 BLDC变频滚筒洗衣机",
+        "src": "https://www.konka.com/public/images/93/a1/8d/e57ca5211364bd4c7b6a1d7a70437c662d2f4b0c.jpg?34975_OW800_OH800",
+        "desc": "即洗即干 空气洗 90°高温煮洗 自清洁 记忆洗",
+        "price": "3599.00"
+    },
+    {
+        "goodId": 15,
+        "goodType": "洗衣机",
+        "goodsName": "Kmini迷你婴儿壁挂洗衣机XQG32-BD169 ",
+        "src": "https://www.konka.com/public/images/59/ef/b8/37c9240f3bbc7c44b4fa9f2aa167961b8f17a1de.jpg?29882_OW800_OH800",
+        "desc": "95°高温除菌  15分钟快洗 24小时预约",
+        "price": "2099.00"
+    },
+    {
+        "goodId": 16,
+        "goodType": "洗衣机",
+        "goodsName": "Kmini迷你婴儿壁挂洗衣机XQG32-BDH199 ",
+        "src": "https://www.konka.com/public/images/1b/23/8f/e975e42814796f6c72cca4d52041c1e68748f3ff.jpg?70702_OW800_OH800",
+        "desc": "95°高温除菌  80°空气洗  105°智能烘干",
+        "price": "2299.00"
+    }
+]

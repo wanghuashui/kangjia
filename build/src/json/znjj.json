@@ -1,0 +1,162 @@
+[
+    {
+        "goodId": 0,
+        "goodType": "智能家居",
+        "goodsName": "智能马桶盖01款",
+        "src": "https://www.konka.com/public/images/4f/ef/bc/ecf86c4607f0f7b48f90438238b90b2b82ab016d.jpg?60624_OW800_OH800",
+        "desc": "",
+        "price": "6980.00"
+    },
+    {
+        "goodId": 1,
+        "goodType": "智能家居",
+        "goodsName": "洛宇",
+        "src": "https://www.konka.com/public/images/bc/9b/a6/dbaca42c159ba81bbd6dfd7d7d7a1276d00fd9e4.jpg?64037_OW800_OH800",
+        "desc": "",
+        "price": "16.00"
+    },
+    {
+        "goodId": 2,
+        "goodType": "智能家居",
+        "goodsName": "醇绣",
+        "src": "https://www.konka.com/public/images/f0/75/fd/22a2a41ca19c632a82087e2e1b531f92bcc93e05.jpg?62683_OW800_OH800",
+        "desc": "",
+        "price": "20.00"
+    },
+    {
+        "goodId": 3,
+        "goodType": "智能家居",
+        "goodsName": "超薄五合一智控取暖器N600-Z21",
+        "src": "https://www.konka.com/public/images/0f/13/f1/afed2481de026424ffbfcf74fea1bc1f90879832.jpg?60829_OW800_OH800",
+        "desc": "超薄设计  智能控制  双核动力  3秒制热",
+        "price": "1659.00"
+    },
+    {
+        "goodId": 4,
+        "goodType": "智能家居",
+        "goodsName": "新一代暖浴智控取暖器N600-Z1",
+        "src": "https://www.konka.com/public/images/c3/64/53/9726f5629857db7f8b7ff7c6e095ff579dafbcad.jpg?60626_OW800_OH800",
+        "desc": "负离子净化  动平衡电机  双涡轮增压  动力十足  循环制热  感应夜灯  微风循环",
+        "price": "2659.00"
+    },
+    {
+        "goodId": 5,
+        "goodType": "智能家居",
+        "goodsName": "智能遥控负离子凉霸LB300-02",
+        "src": "https://www.konka.com/public/images/22/10/18/e71b330c38e443c05227c94a052e7e0393884593.jpg?60429_OW800_OH800",
+        "desc": "负离子净化  定向摆页  智能遥控  厨房浴室双适用",
+        "price": "559.00"
+    },
+    {
+        "goodId": 6,
+        "goodType": "智能家居",
+        "goodsName": "静音清爽凉霸LB300-01",
+        "src": "https://www.konka.com/public/images/2a/f4/6e/b91f12b914807929dc0eff82afe737b98bc9939d.jpg?60245_OW800_OH800",
+        "desc": "远距离送风   舒适静音  厨房浴室双适用",
+        "price": "329.00"
+    },
+    {
+        "goodId": 7,
+        "goodType": "智能家居",
+        "goodsName": "第三代纳米微晶石家装板材",
+        "src": "https://www.konka.com/public/images/37/5a/4f/af28a735954bf21d0e1b28fe4a773016951f0024.jpg?32759_OW800_OH800",
+        "desc": "金凤凰纳米微晶石大板鱼肚白雪花白板1000mm*1000mm墙地一体砖，可支持图案定制、规格定制（3600mm~1000mm*100mm~1600mm）",
+        "price": "988.00"
+    },
+    {
+        "goodId": 8,
+        "goodType": "智能家居",
+        "goodsName": "第三代纳米微晶石",
+        "src": "https://www.konka.com/public/images/3b/87/7a/3010bde6c412e230bffba7560a2b75dd8a4abf08.jpg?27735_OW800_OH800",
+        "desc": "江西康佳新材料金凤凰纳米微晶石大板鱼肚白雪花白板1000mm*1000mm墙地一体砖，可支持图案定制、规格定制（3600mm~1000mm*100mm~1600mm）",
+        "price": "788.00"
+    },
+    {
+        "goodId": 9,
+        "goodType": "智能家居",
+        "goodsName": "节能数显多功能取暖器N600-12",
+        "src": "https://www.konka.com/public/images/5f/c5/ce/952f2b04126cca08b28bd53132216375b9ba94b3.jpg?87224_OW800_OH800",
+        "desc": "宽屏18WLED灯  10cm薄型全塑阻燃隐藏螺丝箱体  40滚珠轴承电机  全塑简洁设计  360m3/h换气量  塑壳温显",
+        "price": "1299.00"
+    },
+    {
+        "goodId": 10,
+        "goodType": "智能家居",
+        "goodsName": "高效静音速热取暖器N600-11",
+        "src": "https://www.konka.com/public/images/d3/90/1c/658d459a75f4f896001ba5411771a77cf40c183e.jpg?87337_OW800_OH800",
+        "desc": "宽屏18WLED灯 10cm薄型全塑阻燃隐藏螺丝箱体  40滚珠轴承电机  全塑简洁设计  360m3/h换气量",
+        "price": "1199.00"
+    },
+    {
+        "goodId": 11,
+        "goodType": "智能家居",
+        "goodsName": "智能电动窗帘",
+        "src": "https://www.konka.com/public/images/f1/a8/c3/6aed0d06b5dfd5174e08438e0181a2b0efbc675f.jpg?87547_OW800_OH800",
+        "desc": "一键开关 语音智控 远程控制 定时设置 情景模式",
+        "price": "1380.00"
+    },
+    {
+        "goodId": 12,
+        "goodType": "智能家居",
+        "goodsName": "集成吊顶扣板",
+        "src": "https://www.konka.com/public/images/b5/06/ba/ba4658c6a1f3cba587b5c1d6229e1cfca72123b2.jpg?87673_OW800_OH800",
+        "desc": "镁铝合金基材 300umUV 烤漆仿生肌理层250um 纳米抗氧水性涂层",
+        "price": "15.00"
+    },
+    {
+        "goodId": 13,
+        "goodType": "智能家居",
+        "goodsName": "30CM超宽风幕浴室取暖器N600-06",
+        "src": "https://www.konka.com/public/images/c9/16/18/cbb55263ee0bb94baad1511fac8e72ada1d9c271.jpg?87799_OW800_OH800",
+        "desc": "30cm超宽暖风风幕效果更好 无阻碍隐藏式进风口设计换气效果更好 2800W超暖风幕取暖 9mm超薄箱体 360m3/h换气量 恒流镇流器 两档暖风设计 40双滚珠轴承电机 14W侧发光LED照明",
+        "price": "1329.00"
+    },
+    {
+        "goodId": 14,
+        "goodType": "智能家居",
+        "goodsName": "侧发光LED平板灯-白L300-01/L600-01",
+        "src": "https://www.konka.com/public/images/80/3a/35/b730fd3631e4f0ae273b5590d983e1190ccfacb2.jpg?87946_OW800_OH800",
+        "desc": "专利内角码设计 细砂白铝合金边框 锁扣式接线柱 FSP免丝印2.0高透导光板 恒流整流器 6000K护眼自然光",
+        "price": "149.00"
+    },
+    {
+        "goodId": 15,
+        "goodType": "智能家居",
+        "goodsName": "360°立体进风换气扇H300-1/H300-2",
+        "src": "https://www.konka.com/public/images/ae/50/00/e457ff6f5a32fb177d815487e669d59d58397297.jpg?88131_OW800_OH800",
+        "desc": "大口径风轮 全方位净化空气 360°立体进风",
+        "price": "329.00"
+    },
+    {
+        "goodId": 16,
+        "goodType": "智能家居",
+        "goodsName": "大屏无框双档制热空调型取暖器N600-13",
+        "src": "https://www.konka.com/public/images/9b/a9/39/2055b3a791b4d232a4463cc74d83221e51bdc231.jpg?88272_OW800_OH800",
+        "desc": "双档制热 大屏高效LED照明  智能数码显示  隐藏式进风口 360m³换气量   9cm超薄pc阻燃箱体",
+        "price": "1299.00"
+    },
+    {
+        "goodId": 17,
+        "goodType": "智能家居",
+        "goodsName": "侧发光LED平板灯-银L300-02",
+        "src": "https://www.konka.com/public/images/35/5c/11/0bc7753ab85427719ce0fa7c45f37b0df64de296.jpg?88421_OW800_OH800",
+        "desc": "专利内角码设计 氧化银铝合金边框 锁扣式接线柱 高显色80Ra3014高亮芯片 2.5激光打点高亮导光板 恒流IC灌胶智能防水驱动 6000K护眼自然光",
+        "price": "219.00"
+    },
+    {
+        "goodId": 18,
+        "goodType": "智能家居",
+        "goodsName": "智能数显五合一空调型取暖器N600-03",
+        "src": "https://www.konka.com/public/images/d5/68/33/61c852caa647d1ffcbd98a0bc3252e2da421a2a1.jpg?88525_OW800_OH800",
+        "desc": "全塑阻燃PC箱体 智控数码显示屏 40滚珠轴承电机 超宽进风出风口 防虫滤网设计 豪华全铝合金面板  360m3/h换气量 恒流整流器 18w背发光LED照明 弧面外凸艺术设计",
+        "price": "1099.00"
+    },
+    {
+        "goodId": 19,
+        "goodType": "智能家居",
+        "goodsName": "豪华双电机超亮屏浴室取暖器N600-02",
+        "src": "https://www.konka.com/public/images/b0/99/77/b9f346500cb5a3acabcfa00bebc9dc499c4e6336.jpg?88658_OW800_OH800",
+        "desc": "宽屏24w LED灯 全塑料阻燃PC箱体 340滚珠轴承电机  5色智控功能灯 360m3/h换气量。",
+        "price": "1059.00"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "goodId": 0,
+        "goodType": "冰箱",
+        "goodsName": "宅家必备套餐  三门冰箱+波轮洗衣机",
+        "src": "https://www.konka.com/public/images/5a/58/ec/95ea30c15d759fdaa906f106c88d850c060bb1b8.jpg?10819_OW800_OH800",
+        "desc": "低噪节能 保鲜不串味 八档洗衣 二十四分钟快洗 ",
+        "price": "1599.00"
+    },
+    {
+        "goodId": 1,
+        "goodType": "冰箱",
+        "goodsName": "租房神器套餐 智能电视+双开门冰箱",
+        "src": "https://www.konka.com/public/images/67/8d/59/f611f375ebdba1ac6f968b44d56484c7ba37aacc.jpg?60451_OW800_OH800",
+        "desc": "43寸智能电视（LED43S2)+155升双门小白冰箱(BCD-155C2GBU) ",
+        "price": "1799.00"
+    },
+    {
+        "goodId": 2,
+        "goodType": "冰箱",
+        "goodsName": "505升嵌入式冰箱 BCD-505WEGY4SP",
+        "src": "https://www.konka.com/public/images/e0/60/72/13b50febde45bcc9393e330d097d137e2dadc068.jpg?55430_OW800_OH800",
+        "desc": "超薄变频 风冷无霜 十字对开门冰箱",
+        "price": "3499.00"
+    },
+    {
+        "goodId": 3,
+        "goodType": "冰箱",
+        "goodsName": "居家套餐  多门冰箱+波轮洗衣机套餐",
+        "src": "https://www.konka.com/public/images/2a/87/7b/acff5a373f4ce2be17dfdba3a8cac14c5c1e2fdd.jpg?33814_OW800_OH800",
+        "desc": "300升对开门冰箱（BCD-300EGX4SU）+7公斤波轮洗衣机（XQB70-20D0B）",
+        "price": "2239.00"
+    },
+    {
+        "goodId": 4,
+        "goodType": "冰箱",
+        "goodsName": "456升风冷无霜十字对开电冰箱 BCD-456WD4EBLP",
+        "src": "https://www.konka.com/public/images/33/f9/aa/430130deff8997518da184b8824b8bb890bcd2e9.jpg?64399_OW800_OH800",
+        "desc": "玻璃面板  变频节能  电脑温控",
+        "price": "5799.00"
+    },
+    {
+        "goodId": 5,
+        "goodType": "冰箱",
+        "goodsName": "388升薄壁技术双变频风冷对开门电冰箱BCD-388WEGY5SP",
+        "src": "https://www.konka.com/public/images/b3/7b/a0/95a32df39248da55c345896fcdfa4ab5c5cd32ee.jpg?56000_OW800_OH800",
+        "desc": "双变频风冷 电脑温控 节能保鲜",
+        "price": "1999.00"
+    },
+    {
+        "goodId": 6,
+        "goodType": "冰箱",
+        "goodsName": "288升 多门冰箱BCD-288GY4S ",
+        "src": "https://www.konka.com/public/images/9f/04/63/ccbe838e13c50dac570e3aa7d557e7b9d3618358.jpg?56756_OW800_OH800",
+        "desc": "法式冰箱 分区域储藏 -7度软冷冻 四门三温区，冷藏室自动化霜",
+        "price": "1499.00"
+    },
+    {
+        "goodId": 7,
+        "goodType": "冰箱",
+        "goodsName": "450升十字对开门双变频冰箱 BCD-450WEGX4SP",
+        "src": "https://www.konka.com/public/images/9a/0d/75/b85646fae2c3a687d77a5d9d33186af4a23df044.jpg?14680_OW800_OH800",
+        "desc": "双变频节能技术，1级能效，节约不止一点， 风冷无霜省心周到， 触控电脑板温控系统， 云离子ION保鲜净味技术，纤薄机身嵌入厨具，金属面板颜值担当！真正美食专家的选择！",
+        "price": "2549.00"
+    },
+    {
+        "goodId": 8,
+        "goodType": "冰箱",
+        "goodsName": "300升 多门冰箱BCD-300EGX4SU              ",
+        "src": "https://www.konka.com/public/images/ef/e4/f7/4670f1fed98a27da0d0496bea4f0c0272fe1bad3.jpg?14458_OW800_OH800",
+        "desc": "电脑温控，ION保鲜，自带魔术净味盒，保鲜除味有道！匀冷冰箱，冷冻室无蒸发管，百变存储空间，分类存储！",
+        "price": "1549.00"
+    },
+    {
+        "goodId": 9,
+        "goodType": "冰箱",
+        "goodsName": "518升 风冷无霜 对开门冰箱 BCD-518WL9D",
+        "src": "https://www.konka.com/public/images/67/a7/96/9e7b836fd9491625ba7944b41b4417d19bbb33df.jpg?14755_OW800_OH800",
+        "desc": "新飞（Frestec）电脑控温，风冷无霜，纤薄设计，厨房可嵌入，香槟金时尚有颜值！",
+        "price": "2499.00"
+    },
+    {
+        "goodId": 10,
+        "goodType": "冰箱",
+        "goodsName": "432升 变频节能 风冷无霜  十字对开门冰箱 BCD-432WLD8D",
+        "src": "https://www.konka.com/public/images/62/96/7e/be0724fb2de99a8d3b8a6118f86797e0b4c97bef.jpg?14649_OW800_OH800",
+        "desc": "新飞（Frestec）双变频风冷十字对开门冰箱，中式十字四门设计，食材分类保鲜变频风冷无霜，电脑精确温控。",
+        "price": "2499.00"
+    },
+    {
+        "goodId": 11,
+        "goodType": "冰箱",
+        "goodsName": "286升 法式多门冰箱BCD-286L8D",
+        "src": "https://www.konka.com/public/images/f7/9a/16/11805d5b1ebc1079cbbe1fddf93fd5cd086bb4ab.jpg?14425_OW800_OH800",
+        "desc": "新飞（Frestec）法式四门三温区，保鲜不串味！中门微冻，电脑控温！香槟金外观",
+        "price": "1599.00"
+    },
+    {
+        "goodId": 12,
+        "goodType": "冰箱",
+        "goodsName": "401升 十字对开冰箱 BCD-401BX4S",
+        "src": "https://www.konka.com/public/images/db/19/7e/857b90f6042b86bb542dc950266b7034d0ce257a.jpg?14555_OW800_OH800",
+        "desc": "金色钢化玻璃面板，冷冻室6个独立存储抽屉，各类食物分类存储，避免食物串味，冷藏室大空间，无隔断！",
+        "price": "1849.00"
+    },
+    {
+        "goodId": 13,
+        "goodType": "冰箱",
+        "goodsName": "400升 对开门冰箱BCD-400EGX5S",
+        "src": "https://www.konka.com/public/images/fd/09/e5/ec49cd90db55323911e3e093490b654e18767a54.jpg?19087_OW800_OH800",
+        "desc": "电脑温控，温度随心调节，纤薄机身，方便嵌入，独有净味吸收盒，分类存储，拒绝串味！静音节能更省电！",
+        "price": "1649.00"
+    },
+    {
+        "goodId": 14,
+        "goodType": "冰箱",
+        "goodsName": "206升 三门冰箱 BCD-206GX3S",
+        "src": "https://www.konka.com/public/images/7b/29/7b/8929d6ea8080ea98e8bc9576b0201b98c072608a.jpg?14280_OW800_OH800",
+        "desc": "经济实用，时尚大气土豪金，快速制冷，锁住冷气，净味保鲜，营养不流失！",
+        "price": "989.00"
+    },
+    {
+        "goodId": 15,
+        "goodType": "冰箱",
+        "goodsName": "192升 三门冰箱 BCD-192MT-BH",
+        "src": "https://www.konka.com/public/images/42/97/16/241eb1b8e1e1d5628a2e759cd3b021dd79328e06.jpg?14251_OW800_OH800",
+        "desc": "红色钢化玻璃，印花面板，中门软冷冻，随取随切，负7度保鲜，深度锁冷不外露！",
+        "price": "999.00"
+    },
+    {
+        "goodId": 16,
+        "goodType": "冰箱",
+        "goodsName": "180升 双门冰箱 BCD-180GY2S",
+        "src": "https://www.konka.com/public/images/3c/e3/96/2bae8fb9c1f95b3a253502f99d19df8536529fff.jpg?19396_OW800_OH800",
+        "desc": "节能双开门式 冷藏冷冻电冰箱  家庭标配 快速锁住营养",
+        "price": "899.00"
+    },
+    {
+        "goodId": 17,
+        "goodType": "冰箱",
+        "goodsName": "192升 三门冰箱BCD-192MT-GY ",
+        "src": "https://www.konka.com/public/images/41/31/e9/8103972815f0af537e850a02b2fc67849beac676.jpg?33032_OW800_OH800",
+        "desc": "经济实用，快速制冷，锁住冷气，净味保鲜，中层设有软冷冻，七档控温！",
+        "price": "909.00"
+    },
+    {
+        "goodId": 18,
+        "goodType": "冰箱",
+        "goodsName": "430升 风冷无霜 对开门冰箱BCD-430WEGX5S ",
+        "src": "https://www.konka.com/public/images/9a/c5/d4/321ee2d9cda8a94f7634ff02b5d543f3d331aae5.jpg?14606_OW800_OH800",
+        "desc": "意大利工艺，风冷无霜，纤薄机身，隐藏门把手，ION保鲜除菌系统，触摸LED显示屏,对开门冰箱！",
+        "price": "2399.00"
+    },
+    {
+        "goodId": 19,
+        "goodType": "冰箱",
+        "goodsName": "106升 单门冷柜 BD/BC-106DTH",
+        "src": "https://www.konka.com/public/images/a7/97/86/4a938c29b4746afe5b0d3a1327f7b1a0e915524e.jpg?53486_OW800_OH800",
+        "desc": "家庭租房小冷柜，冷藏冷冻一键转换，双层锁冷，营养保鲜，省电省心，开关处采用模内注塑工艺。",
+        "price": "659.00"
+    }
+]
