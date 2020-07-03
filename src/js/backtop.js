@@ -18,7 +18,4 @@
     $("#the-top").click(() => {
         $(window).scrollTop(0)
     })
-    $(".back-top li").on("mouseenter",function(){
-        $(this).children("a").css("display","none")
-    })
 })()

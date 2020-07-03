@@ -133,12 +133,12 @@
     </div>
     <div class="for-link">
         <p>Copyright © 1980-2020 康佳集团股份有限公司 版权所有</p>
-        <span>|</span><a href="/p-15.html">联系我们</a>
-        <span>|</span><a href="/p-13.html">法律声明</a>
-        <span>|</span><a href="/p-14.html">隐私保护</a>
-        <span>|</span><a href="https://m.kuaidi100.com/">快递查询</a>
-        <span>|</span><a href="http://tv.qq.com/">腾讯视频TV端</a>
-        <span>|</span><a href="http://www.beian.miit.gov.cn/" target="_blank">粤ICP备 05059413</a>
+        <span>|</span><a href="">联系我们</a>
+        <span>|</span><a href="">法律声明</a>
+        <span>|</span><a href="">隐私保护</a>
+        <span>|</span><a href="">快递查询</a>
+        <span>|</span><a href="">腾讯视频TV端</a>
+        <span>|</span><a href="">粤ICP备 05059413</a>
     </div>
 </div>
 <div class="for-theme">

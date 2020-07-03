@@ -6,12 +6,12 @@
         let cate1 = ""
         data.map((item) => {
             cate1 += `<li class="category-item">
-            <a href="${item.href}" class="title">${item.title}<i>&gt;</i></a>
+            <a href="./list.html" class="title">${item.title}<i>&gt;</i></a>
             <div class="children clearfix">
                 <div class="children-wrapper">
                     <ul class="children-list clearfix">`
                 + item.data.map(item3 => `<li>
-                            <a href="" class="link">
+                            <a href="./list.html" class="link">
                                 <img src=${item3.src} alt="">
                                 <span>${item3.title}</span>
                             </a>

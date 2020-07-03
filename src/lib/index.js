@@ -20,7 +20,7 @@ $(() => {
         <div class="cate-top">
             <h3>
                 <img src="${item.icon}" alt="">
-                <a href="" title="${item.title}">${item.title}</a>
+                <a href="###" title="${item.title}">${item.title}</a>
             </h3>
             <div class="more">
                 <div class="more-ul">`+ item.ul.map(item => `<li>
@@ -32,7 +32,7 @@ $(() => {
         <div class="carousel">
             <div class="container-fluid">
                 <div class="item">
-                    <a href="">
+                    <a href="./list.html">
                         <img class="layz banW" src="${item.src}" alt="">
                     </a>
                 </div>

@@ -3,17 +3,17 @@
 <div class="site-topbar">
     <div class="site-topbar-container">
         <div class="topbar-nav">
-            <a href="" title="康佳新闻" rel="nofollow" target="_blank">康佳新闻</a>
+            <a href="" title="康佳新闻">康佳新闻</a>
             <span class="sep">|</span>
-            <a href="" title="加入康佳" rel="nofollow" target="_blank">加入康佳</a>
+            <a href="" title="加入康佳">加入康佳</a>
             <span class="sep">|</span>
-            <a href="" title="校园招聘" rel="nofollow" target="_blank">校园招聘</a>
+            <a href="" title="校园招聘">校园招聘</a>
             <span class="sep">|</span>
-            <a href="" title="康佳社区" rel="nofollow" target="_blank">康佳社区</a>
+            <a href="" title="康佳社区">康佳社区</a>
             <span class="sep">|</span>
-            <a href="" title="大宗采购" rel="nofollow" target="_blank">大宗采购</a>
+            <a href="" title="大宗采购">大宗采购</a>
             <span class="sep">|</span>
-            <a href="" title="积分商城" rel="nofollow" target="_blank">积分商城</a>
+            <a href="" title="积分商城">积分商城</a>
             <span class="sep">|</span>
         </div>
         <div class="topbar-cart">
