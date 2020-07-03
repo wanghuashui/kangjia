@@ -46,7 +46,7 @@
     }).done((data) => {
         let rowhtml = ""
         data.map(item => {
-            rowhtml += `<div class="col-xs-1"><a href="/list.html?cat_id=158">${item.name}</a>`
+            rowhtml += `<div class="col-xs-1"><a href="./list.html">${item.name}</a>`
             if (item.data.length != 0) {
                 let colitem = item.data.map(item => `<div class="col-xs-2">
                                                                         <div class="figure">
@@ -63,11 +63,10 @@
                 rowhtml += "</div>"
             }
         })
-        $(".row").eq(0).html(`<div class="col-xs-2 logoImg"><a href="/index.html"><img src="https://www.konka.com/themes/pc/konka/images/logo.png?v9f33"></a></div>` + rowhtml + `<span class="spanLine"></span>`)
+        $(".row").eq(0).html(`<div class="col-xs-2 logoImg"><a href="./index.html"><img src="https://www.konka.com/themes/pc/konka/images/logo.png?v9f33"></a></div>` + rowhtml + `<span class="spanLine"></span>`)
     })
     let headerAfter = `</div>
                 <div class="row search">
-                    <form action="/list.html">
                         <div class="search-wrapper">
                             <button class="search-search">
                                 <img src="https://www.konka.com/themes/pc/konka/images/header-scrae.png?v9f33">
@@ -91,7 +90,6 @@
                                 </ul>
                             </section>
                         </aside>
-                    </form>
                 </div>
             </div>
         </div>`
@@ -127,6 +125,7 @@
 })()
 function getCartNum() {
     let userid = localStorage.getItem("userid") || ""
+    let sum = 0
     if (userid != "") {
         $.ajax({
             url: "../server/getCart.php",
@@ -135,11 +134,11 @@ function getCartNum() {
                 id: userid
             }
         }).done(data => {
-            let sum = 0
             data.forEach(item => {
                 sum += parseInt(item.num)
             })
             $(".cart-num").html(sum)
+            localStorage.setItem("num",sum)
         })
     }
 }

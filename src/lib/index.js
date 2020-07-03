@@ -24,7 +24,7 @@ $(() => {
             </h3>
             <div class="more">
                 <div class="more-ul">`+ item.ul.map(item => `<li>
-                        <a href="" title="${item}">${item}</a>
+                        <a href="./list.html" title="${item}">${item}</a>
                         <span>&nbsp;</span>
                     </li>`).join("") + `</div>
             </div>
@@ -42,7 +42,7 @@ $(() => {
             <div class="row">`+ item.data.map(item => `
                 <div class="col-xs-3">
                     <div class="figure">
-                        <a href="" title="${item.title}"><img class="layz" src="${item.src}" alt=""></a>
+                        <a href="./list.html" title="${item.title}"><img class="layz" src="${item.src}" alt=""></a>
                         <h4 class="text-uppercase ellipsis">${item.title}</h4>
                         <div class="figure-title ellipsis">${item.desc}</div>
                         <p class="price">${item.price}

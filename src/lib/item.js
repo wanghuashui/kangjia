@@ -13,8 +13,9 @@ $(() => {
                 <div class="row clearfix">
                     <div class="product-show">
                         <div class="product-main-image">
-                            <a href=""><img src=${data[0].src} alt=""></a>
-                            <img class="zoomImg" src=${data[0].src} alt="">
+                            <a href="" class="imgshow"><img src=${data[0].src} alt=""></a>
+                            <div id="bigMirror"></div>
+                            <img class="zoomImg" style="background-image: url(${data[0].src});" >
                         </div>
                         <div class="updown">
                             <i></i>
@@ -73,5 +74,32 @@ $(() => {
             location.href = "./login.html"
             return false
         }
+    })
+    $(".product-container").on("mouseenter", ".product-main-image", function () {
+        $("#bigMirror").css({ display: "block" })
+        $(this).mousemove(function (e) {
+
+            let left1 = e.pageX - $(this).offset().left - $("#bigMirror").width() / 2
+            let top1 = e.pageY - $(this).offset().top - $("#bigMirror").width() / 2
+            // 边界限制
+            if (left1 <= 0) {
+                left1 = 0
+            } else if (left1 + $("#bigMirror").width() >= $(this).width()) {
+                left1 = $(this).width() - $("#bigMirror").width()
+            }
+            if (top1 <= 0) {
+                top1 = 0
+            } else if (top1 + $("#bigMirror").height() >= $(this).height()) {
+                top1 = $(this).height() - $("#bigMirror").height()
+            }
+            $("#bigMirror").css({ display: "block", left: `${left1}px`, top: `${top1}px` })
+            $(".zoomImg").css({
+                display: "block", backgroundPosition: `${-left1 * 2}px ${-top1 * 2}px`
+            })
+        })
+    })
+    $(".product-container").on("mouseleave", ".product-main-image", function () {
+        $("#bigMirror").css("display","none")
+            $(".zoomImg").css("display","none")
     })
 })

@@ -31,7 +31,6 @@
                 width: 540px;
                 height: 540px;
                 border: 1px solid #e3e3e3;
-                overflow: hidden;
                 position: relative;
                 a {
                     align-items: center;
@@ -44,16 +43,29 @@
                         height: 530px;
                     }
                 }
+                #bigMirror{
+                    height: 150px;
+                    width: 150px;
+                    border: 1px solid black;
+                    position: absolute;
+                    background: gray;
+                    opacity: .3;
+                    display: none;
+                }
                 .zoomImg{
-                        position: absolute;
-                        top: 0px;
-                        left: -115.556px;
-                        opacity: 0;
-                        width: 940px;
-                        height: 1112px;
-                        border: none;
-                        max-width: none;
-                        max-height: none;
+                    position: absolute;
+                    display: none;
+                    top: 0px;
+                    left: 540px;
+                    height: 300px;
+                    width: 300px;
+                    background: no-repeat;
+                    background-size: 1080px 1080px;
+                    border: none;
+                    max-width: none;
+                    max-height: none;
+                    z-index: 99;
+                    border: 1px solid #777;
                 }
             }
             .updown {
