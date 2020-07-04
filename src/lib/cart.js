@@ -24,7 +24,7 @@ $(() => {
                         <div class="cart-all-amount text-right">
                             <div class="list-unstyled">
                                 <p>
-                                    已选择<span data-bind="goods_count">1</span>件商品,优惠后金额：
+                                    已选择<span class="goods_count">1</span>件商品,优惠后金额：
                                     <small class="text-danger"></small><strong class="text-danger finally_cart_amount"
                                         style="color:#ed1c24;">￥1279.00</strong></p>
                             </div>
@@ -113,10 +113,13 @@ $(() => {
         //根据复选框算总计 
         function allTotal() {
             let total = 0
+            let allnum=0
             Array.from($(".selected").parent()).forEach(item => {
                 total += ($(item).find(".cart-item-amount p").html().slice(1) * 1).toFixed(2) * 1
+                allnum+=$(item).find(".cart-item-num").val()*1
             })
             $(".finally_cart_amount").html("￥" + (total).toFixed(2))
+            $(".goods_count").html(allnum)
         }
         // 按钮控制数量
         $(".cart-body").on("click", ".numbtn", function () {

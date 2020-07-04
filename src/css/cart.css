@@ -168,6 +168,12 @@ body {
 .main-container .cart-footer .cart-all-amount p {
   float: right;
 }
+.main-container .cart-footer .cart-all-amount p .goods_count {
+  padding: 0 5px;
+  color: #ed1c24;
+  font-size: 18px;
+  font-weight: 600;
+}
 .main-container .cart-footer .cart-all-amount p strong {
   color: #ed1c24;
   font-size: 22px;
