@@ -50,13 +50,13 @@
             if (item.data.length != 0) {
                 let colitem = item.data.map(item => `<div class="col-xs-2">
                                                                         <div class="figure">
-                                                                            <a href="javascript:void(0)" title="">
+                                                                            <a href="./item.html?id=${item.id}" title="">
                                                                                 <img src=${item.src}>
                                                                             </a>
                                                                         </div>
-                                                                        <h4 class="text-uppercase ellipsis">${item.title}</h4>
+                                                                        <h4 class="text-uppercase ellipsis">${item.goodsName}</h4>
                                                                         <div class="figure-title ellipsis">${item.desc}</div>
-                                                                        <p>${item.price}</p>
+                                                                        <p>￥${item.price}</p>
                                                                     </div>`).join("")
                 rowhtml += `<div class="item"><div class="item-children"><div class="container-fluid">` + colitem + "</div></div></div></div>"
             } else {

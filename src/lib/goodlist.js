@@ -3,6 +3,7 @@ $(() => {
         url: "../server/list.php",
         dataType: "json"
     }).done(data => {
+        console.log(JSON.stringify(data))
         // 渲染全部商品列表
         let html = ""
         for (let i = 0; i < data.length && i <= 23; i++) {
