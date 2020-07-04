@@ -6,7 +6,7 @@ $(() => {
     }).done(data => {
         let html = ""
         html = `<ul class="breadcrumb">
-                <li>${data[0].goodstype}></li>
+                <li><a href="./list.html">${data[0].goodstype}></a></li>
                 <li class="active">${data[0].goodsname}</li>
             </ul>
             <div class="product-page">

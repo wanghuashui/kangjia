@@ -16,6 +16,9 @@
   font-size: 14px;
   color: #333;
 }
+.main-container .product-container .breadcrumb li a {
+  color: #333;
+}
 .main-container .product-container .breadcrumb .active {
   color: #777;
 }
