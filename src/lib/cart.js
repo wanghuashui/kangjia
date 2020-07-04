@@ -146,9 +146,9 @@ $(() => {
                 url: "../server/changeCartNum.php",
                 data: data,
             }).done((data) => {
-                let price = ($(this).parents(".cart-item").find(".cart-item-price").html().slice(1) * 1).toFixed(2)
-                $(this).parents(".cart-item").find(".cart-item-amount p").html(`￥${($(this).siblings("input").val() * 1 * price).toFixed(2)}`)
             })
+            let price = ($(this).parents(".cart-item").find(".cart-item-price").html().slice(1) * 1).toFixed(2)
+            $(this).parents(".cart-item").find(".cart-item-amount p").html(`￥${($(this).siblings("input").val() * 1 * price).toFixed(2)}`)
             allTotal()
             getCartNum()
         })
