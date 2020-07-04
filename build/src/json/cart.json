@@ -1,0 +1,1244 @@
+[
+    {
+        "id": "1",
+        "goodid": "0",
+        "goodstype": "电视",
+        "goodsname": "租房神器套餐 智能电视+双开门冰箱",
+        "desc": "43寸智能电视（LED43S2)+155升双门小白冰箱(BCD-155C2GBU) ",
+        "price": "1799.50",
+        "src": "https://www.konka.com/public/images/67/8d/59/f611f375ebdba1ac6f968b44d56484c7ba37aacc.jpg?60451_OW800_OH800"
+    },
+    {
+        "id": "2",
+        "goodid": "1",
+        "goodstype": "电视",
+        "goodsname": "新鲜视界 为你而生",
+        "desc": "65寸全面屏智能语音电视（65V5）+300升法式多门冰箱（BCD-300EGX4SU）",
+        "price": "4099.00",
+        "src": "https://www.konka.com/public/images/e7/0d/88/987a02496554b78bf99e2172703e0c68542aef70.jpg?37852_OW800_OH800"
+    },
+    {
+        "id": "3",
+        "goodid": "2",
+        "goodstype": "电视",
+        "goodsname": "影音甄选，家庭K歌新体验",
+        "desc": "55英寸免遥控远场语音全面屏电视（55A10）+无线麦克风（M1D PLUS）  ",
+        "price": "3299.00",
+        "src": "https://www.konka.com/public/images/53/5b/00/2bb8c5d2167934c583ff6282634136a5ad6cd296.jpg?74687_OW800_OH800"
+    },
+    {
+        "id": "4",
+        "goodid": "3",
+        "goodstype": "电视",
+        "goodsname": "阿斐亚（Aphaea）A3    JBL大师音响 MEMC Pro运动补偿 AI智能识别电视 ",
+        "desc": "4GB+32GB AloT智能家居 多模态人机识别  远场语音",
+        "price": "7999.00",
+        "src": "https://www.konka.com/public/images/dc/f4/d9/517147edfa5561c2142020e95d8479407ca6336a.jpg?31731_OW800_OH800"
+    },
+    {
+        "id": "5",
+        "goodid": "4",
+        "goodstype": "电视",
+        "goodsname": "T98A 98英寸18核4K超高清人工智能液晶电视 商用显示",
+        "desc": " 帝王黑金属机身 4+64GB超大内存 远场语音",
+        "price": "99999.00",
+        "src": "https://www.konka.com/public/images/7a/11/8e/304fdd358163f4af44072cfc64cc1c4dd36730d8.jpg?95971_OW800_OH800"
+    },
+    {
+        "id": "6",
+        "goodid": "5",
+        "goodstype": "电视",
+        "goodsname": "PDR55 PRO 55英寸声控交互式全面屏电视 ",
+        "desc": "可升降摄像头 3+32GB大存储 AIOT家电物联 杜比全景声",
+        "price": "6299.00",
+        "src": "https://www.konka.com/public/images/1c/c1/cb/9c627e4e5a4700a492f25d12732653d3d44fc25b.jpg?94220_OW800_OH800"
+    },
+    {
+        "id": "7",
+        "goodid": "6",
+        "goodstype": "电视",
+        "goodsname": "55A10 55英寸免遥控远场语音全面屏电视",
+        "desc": "超薄金属机身 3GB+64GB大内存 智能教育 全景AI智慧屏 ",
+        "price": "2699.00",
+        "src": "https://www.konka.com/public/images/07/99/87/926574dbe30ea9c18934a6ed8aa4b78d19a77cff.jpg?57284_OW800_OH800"
+    },
+    {
+        "id": "8",
+        "goodid": "7",
+        "goodstype": "电视",
+        "goodsname": "65A10  65英寸免遥控远场语音全面屏电视",
+        "desc": "超薄金属机身 3GB+64GB大内存 智能教育 全景AI智慧屏 ",
+        "price": "3699.00",
+        "src": "https://www.konka.com/public/images/f2/c0/43/940e1f803aec6f0b63f996cdc117c07a60f26640.jpg?91014_OW800_OH800"
+    },
+    {
+        "id": "9",
+        "goodid": "8",
+        "goodstype": "电视",
+        "goodsname": "65A9  65英寸AI智能超薄全面屏",
+        "desc": "9.99mm超薄机身 2GB+16GB大内存 亲民AI语音 防蓝光模式",
+        "price": "2699.00",
+        "src": "https://www.konka.com/public/images/f3/07/fa/77943f61dd8a3d95c648b059e133fd9140075c73.jpg?90589_OW800_OH800"
+    },
+    {
+        "id": "10",
+        "goodid": "9",
+        "goodstype": "电视",
+        "goodsname": "55A9 55英寸AI智能超薄全面屏 ",
+        "desc": "2GB+16GB大内存 华为芯片 8.99mm超薄机身  亲民AI语音 ",
+        "price": "1849.00",
+        "src": "https://www.konka.com/public/images/fa/b4/ec/f248b2905386c626144706e2da0132f070ea84d2.jpg?90527_OW800_OH800"
+    },
+    {
+        "id": "11",
+        "goodid": "10",
+        "goodstype": "电视",
+        "goodsname": "65G10U 65英寸4K超薄AI声控全面屏 ",
+        "desc": "3GB+64GB大内存  双频WiFi  免遥控远场语音",
+        "price": "3699.00",
+        "src": "https://www.konka.com/public/images/6a/13/d1/62d95bbc0c478409845dc93cec7adfeecb16d31b.jpg?89612_OW800_OH800"
+    },
+    {
+        "id": "12",
+        "goodid": "11",
+        "goodstype": "电视",
+        "goodsname": "55G10U 55英寸4K超薄AI声控全面屏",
+        "desc": "3GB+64GB大内存  双频WiFi  免遥控远场语音",
+        "price": "2699.00",
+        "src": "https://www.konka.com/public/images/57/12/02/64284dd41a5b5736e28bf2583ee5c100f7601ee5.jpg?89407_OW800_OH800"
+    },
+    {
+        "id": "13",
+        "goodid": "12",
+        "goodstype": "电视",
+        "goodsname": "65Q30 65英寸免遥控远场语音4K电视",
+        "desc": "2GB+16GB大内存  免遥控全景AI  远场语音智能",
+        "price": "2599.00",
+        "src": "https://www.konka.com/public/images/22/d8/1f/ec39ba0737de1022b5ac3b0d6e21c9428728df12.jpg?55215_OW800_OH800"
+    },
+    {
+        "id": "14",
+        "goodid": "13",
+        "goodstype": "电视",
+        "goodsname": "55Q30 55英寸免遥控远场语音4K电视",
+        "desc": "2GB+16GB大内存  免遥控全景AI  远场语音智能",
+        "price": "1749.00",
+        "src": "https://www.konka.com/public/images/00/64/ab/fca951db21e74585bd9aaa7efa6c2f2296303bbc.jpg?89452_OW800_OH800"
+    },
+    {
+        "id": "15",
+        "goodid": "14",
+        "goodstype": "电视",
+        "goodsname": "LED55D8 55英寸远场语音免遥控电视",
+        "desc": "全面屏金属机身 2GB+64GB大内存 声控全屋家电",
+        "price": "1999.00",
+        "src": "https://www.konka.com/public/images/0e/71/d2/336184b21789797e2e69867d56dabfd42042c6f7.jpg?90775_OW800_OH800"
+    },
+    {
+        "id": "16",
+        "goodid": "15",
+        "goodstype": "电视",
+        "goodsname": "65G4U 65英寸人工智能全面屏",
+        "desc": "2+16G大存储 4K全面屏 人工智能杜比解码",
+        "price": "2499.00",
+        "src": "https://www.konka.com/public/images/09/43/d3/e91bfce95409beffd2db46979690230c431bd1b7.jpg?89572_OW800_OH800"
+    },
+    {
+        "id": "17",
+        "goodid": "16",
+        "goodstype": "电视",
+        "goodsname": "55G4U 55英寸人工智能全面屏 ",
+        "desc": "2+16G大存储 4K全面屏 人工智能杜比解码",
+        "price": "1599.00",
+        "src": "https://www.konka.com/public/images/ac/c0/be/1d1e5882fd7bd6d44873c0aded1060fe512b0356.jpg?89367_OW800_OH800"
+    },
+    {
+        "id": "18",
+        "goodid": "17",
+        "goodstype": "电视",
+        "goodsname": "55V5 55英寸人工智能全面屏",
+        "desc": " 2+16G大内存 4K全面屏 人工智能 杜比音效",
+        "price": "1549.00",
+        "src": "https://www.konka.com/public/images/90/e1/90/088ba54df034a59ea52111d392f70c1c1b95e412.jpg?89508_OW800_OH800"
+    },
+    {
+        "id": "19",
+        "goodid": "18",
+        "goodstype": "电视",
+        "goodsname": "65V5 65英寸人工智能全面屏",
+        "desc": " 2+16G大内存 4K全面屏 人工智能 杜比音效",
+        "price": "2499.00",
+        "src": "https://www.konka.com/public/images/3a/4b/0d/e9b6d488c04daecc5b1a19ef5124da56edb1ec52.jpg?89631_OW800_OH800"
+    },
+    {
+        "id": "20",
+        "goodid": "19",
+        "goodstype": "电视",
+        "goodsname": "65G7U 65英寸4K超薄全面屏",
+        "desc": "金属纤薄机身 AI人工智能 16GB大内存 ",
+        "price": "2699.00",
+        "src": "https://www.konka.com/public/images/4b/26/f5/d3df3457867d6da83ab64048e9817502f2691b6e.jpg?89592_OW800_OH800"
+    },
+    {
+        "id": "21",
+        "goodid": "0",
+        "goodstype": "冰箱",
+        "goodsname": "宅家必备套餐  三门冰箱+波轮洗衣机",
+        "desc": "低噪节能 保鲜不串味 八档洗衣 二十四分钟快洗 ",
+        "price": "1599.00",
+        "src": "https://www.konka.com/public/images/5a/58/ec/95ea30c15d759fdaa906f106c88d850c060bb1b8.jpg?10819_OW800_OH800"
+    },
+    {
+        "id": "22",
+        "goodid": "1",
+        "goodstype": "冰箱",
+        "goodsname": "租房神器套餐 智能电视+双开门冰箱",
+        "desc": "43寸智能电视（LED43S2)+155升双门小白冰箱(BCD-155C2GBU) ",
+        "price": "1799.00",
+        "src": "https://www.konka.com/public/images/67/8d/59/f611f375ebdba1ac6f968b44d56484c7ba37aacc.jpg?60451_OW800_OH800"
+    },
+    {
+        "id": "23",
+        "goodid": "2",
+        "goodstype": "冰箱",
+        "goodsname": "505升嵌入式冰箱 BCD-505WEGY4SP",
+        "desc": "超薄变频 风冷无霜 十字对开门冰箱",
+        "price": "3499.00",
+        "src": "https://www.konka.com/public/images/e0/60/72/13b50febde45bcc9393e330d097d137e2dadc068.jpg?55430_OW800_OH800"
+    },
+    {
+        "id": "24",
+        "goodid": "3",
+        "goodstype": "冰箱",
+        "goodsname": "居家套餐  多门冰箱+波轮洗衣机套餐",
+        "desc": "300升对开门冰箱（BCD-300EGX4SU）+7公斤波轮洗衣机（XQB70-20D0B）",
+        "price": "2239.00",
+        "src": "https://www.konka.com/public/images/2a/87/7b/acff5a373f4ce2be17dfdba3a8cac14c5c1e2fdd.jpg?33814_OW800_OH800"
+    },
+    {
+        "id": "25",
+        "goodid": "4",
+        "goodstype": "冰箱",
+        "goodsname": "456升风冷无霜十字对开电冰箱 BCD-456WD4EBLP",
+        "desc": "玻璃面板  变频节能  电脑温控",
+        "price": "5799.00",
+        "src": "https://www.konka.com/public/images/33/f9/aa/430130deff8997518da184b8824b8bb890bcd2e9.jpg?64399_OW800_OH800"
+    },
+    {
+        "id": "26",
+        "goodid": "5",
+        "goodstype": "冰箱",
+        "goodsname": "388升薄壁技术双变频风冷对开门电冰箱BCD-388WEGY5SP",
+        "desc": "双变频风冷 电脑温控 节能保鲜",
+        "price": "1999.00",
+        "src": "https://www.konka.com/public/images/b3/7b/a0/95a32df39248da55c345896fcdfa4ab5c5cd32ee.jpg?56000_OW800_OH800"
+    },
+    {
+        "id": "27",
+        "goodid": "6",
+        "goodstype": "冰箱",
+        "goodsname": "288升 多门冰箱BCD-288GY4S ",
+        "desc": "法式冰箱 分区域储藏 -7度软冷冻 四门三温区，冷藏室自动化霜",
+        "price": "1499.00",
+        "src": "https://www.konka.com/public/images/9f/04/63/ccbe838e13c50dac570e3aa7d557e7b9d3618358.jpg?56756_OW800_OH800"
+    },
+    {
+        "id": "28",
+        "goodid": "7",
+        "goodstype": "冰箱",
+        "goodsname": "450升十字对开门双变频冰箱 BCD-450WEGX4SP",
+        "desc": "双变频节能技术，1级能效，节约不止一点， 风冷无霜省心周到， 触控电脑板温控系统， 云离子ION保鲜净味技术，纤薄机身嵌入厨具，金属面板颜值担当！真正美食专家的选择！",
+        "price": "2549.00",
+        "src": "https://www.konka.com/public/images/9a/0d/75/b85646fae2c3a687d77a5d9d33186af4a23df044.jpg?14680_OW800_OH800"
+    },
+    {
+        "id": "29",
+        "goodid": "8",
+        "goodstype": "冰箱",
+        "goodsname": "300升 多门冰箱BCD-300EGX4SU              ",
+        "desc": "电脑温控，ION保鲜，自带魔术净味盒，保鲜除味有道！匀冷冰箱，冷冻室无蒸发管，百变存储空间，分类存储！",
+        "price": "1549.00",
+        "src": "https://www.konka.com/public/images/ef/e4/f7/4670f1fed98a27da0d0496bea4f0c0272fe1bad3.jpg?14458_OW800_OH800"
+    },
+    {
+        "id": "30",
+        "goodid": "9",
+        "goodstype": "冰箱",
+        "goodsname": "518升 风冷无霜 对开门冰箱 BCD-518WL9D",
+        "desc": "新飞（Frestec）电脑控温，风冷无霜，纤薄设计，厨房可嵌入，香槟金时尚有颜值！",
+        "price": "2499.00",
+        "src": "https://www.konka.com/public/images/67/a7/96/9e7b836fd9491625ba7944b41b4417d19bbb33df.jpg?14755_OW800_OH800"
+    },
+    {
+        "id": "31",
+        "goodid": "10",
+        "goodstype": "冰箱",
+        "goodsname": "432升 变频节能 风冷无霜  十字对开门冰箱 BCD-432WLD8D",
+        "desc": "新飞（Frestec）双变频风冷十字对开门冰箱，中式十字四门设计，食材分类保鲜变频风冷无霜，电脑精确温控。",
+        "price": "2499.00",
+        "src": "https://www.konka.com/public/images/62/96/7e/be0724fb2de99a8d3b8a6118f86797e0b4c97bef.jpg?14649_OW800_OH800"
+    },
+    {
+        "id": "32",
+        "goodid": "11",
+        "goodstype": "冰箱",
+        "goodsname": "286升 法式多门冰箱BCD-286L8D",
+        "desc": "新飞（Frestec）法式四门三温区，保鲜不串味！中门微冻，电脑控温！香槟金外观",
+        "price": "1599.00",
+        "src": "https://www.konka.com/public/images/f7/9a/16/11805d5b1ebc1079cbbe1fddf93fd5cd086bb4ab.jpg?14425_OW800_OH800"
+    },
+    {
+        "id": "33",
+        "goodid": "12",
+        "goodstype": "冰箱",
+        "goodsname": "401升 十字对开冰箱 BCD-401BX4S",
+        "desc": "金色钢化玻璃面板，冷冻室6个独立存储抽屉，各类食物分类存储，避免食物串味，冷藏室大空间，无隔断！",
+        "price": "1849.00",
+        "src": "https://www.konka.com/public/images/db/19/7e/857b90f6042b86bb542dc950266b7034d0ce257a.jpg?14555_OW800_OH800"
+    },
+    {
+        "id": "34",
+        "goodid": "13",
+        "goodstype": "冰箱",
+        "goodsname": "400升 对开门冰箱BCD-400EGX5S",
+        "desc": "电脑温控，温度随心调节，纤薄机身，方便嵌入，独有净味吸收盒，分类存储，拒绝串味！静音节能更省电！",
+        "price": "1649.00",
+        "src": "https://www.konka.com/public/images/fd/09/e5/ec49cd90db55323911e3e093490b654e18767a54.jpg?19087_OW800_OH800"
+    },
+    {
+        "id": "35",
+        "goodid": "14",
+        "goodstype": "冰箱",
+        "goodsname": "206升 三门冰箱 BCD-206GX3S",
+        "desc": "经济实用，时尚大气土豪金，快速制冷，锁住冷气，净味保鲜，营养不流失！",
+        "price": "989.00",
+        "src": "https://www.konka.com/public/images/7b/29/7b/8929d6ea8080ea98e8bc9576b0201b98c072608a.jpg?14280_OW800_OH800"
+    },
+    {
+        "id": "36",
+        "goodid": "15",
+        "goodstype": "冰箱",
+        "goodsname": "192升 三门冰箱 BCD-192MT-BH",
+        "desc": "红色钢化玻璃，印花面板，中门软冷冻，随取随切，负7度保鲜，深度锁冷不外露！",
+        "price": "999.00",
+        "src": "https://www.konka.com/public/images/42/97/16/241eb1b8e1e1d5628a2e759cd3b021dd79328e06.jpg?14251_OW800_OH800"
+    },
+    {
+        "id": "37",
+        "goodid": "16",
+        "goodstype": "冰箱",
+        "goodsname": "180升 双门冰箱 BCD-180GY2S",
+        "desc": "节能双开门式 冷藏冷冻电冰箱  家庭标配 快速锁住营养",
+        "price": "899.00",
+        "src": "https://www.konka.com/public/images/3c/e3/96/2bae8fb9c1f95b3a253502f99d19df8536529fff.jpg?19396_OW800_OH800"
+    },
+    {
+        "id": "38",
+        "goodid": "17",
+        "goodstype": "冰箱",
+        "goodsname": "192升 三门冰箱BCD-192MT-GY ",
+        "desc": "经济实用，快速制冷，锁住冷气，净味保鲜，中层设有软冷冻，七档控温！",
+        "price": "909.00",
+        "src": "https://www.konka.com/public/images/41/31/e9/8103972815f0af537e850a02b2fc67849beac676.jpg?33032_OW800_OH800"
+    },
+    {
+        "id": "39",
+        "goodid": "18",
+        "goodstype": "冰箱",
+        "goodsname": "430升 风冷无霜 对开门冰箱BCD-430WEGX5S ",
+        "desc": "意大利工艺，风冷无霜，纤薄机身，隐藏门把手，ION保鲜除菌系统，触摸LED显示屏,对开门冰箱！",
+        "price": "2399.00",
+        "src": "https://www.konka.com/public/images/9a/c5/d4/321ee2d9cda8a94f7634ff02b5d543f3d331aae5.jpg?14606_OW800_OH800"
+    },
+    {
+        "id": "40",
+        "goodid": "19",
+        "goodstype": "冰箱",
+        "goodsname": "106升 单门冷柜 BD/BC-106DTH",
+        "desc": "家庭租房小冷柜，冷藏冷冻一键转换，双层锁冷，营养保鲜，省电省心，开关处采用模内注塑工艺。",
+        "price": "659.00",
+        "src": "https://www.konka.com/public/images/a7/97/86/4a938c29b4746afe5b0d3a1327f7b1a0e915524e.jpg?53486_OW800_OH800"
+    },
+    {
+        "id": "41",
+        "goodid": "0",
+        "goodstype": "洗衣机",
+        "goodsname": "宅家必备套餐  三门冰箱+波轮洗衣机",
+        "desc": "低噪节能 保鲜不串味 八档洗衣 二十四分钟快洗 ",
+        "price": "1599.00",
+        "src": "https://www.konka.com/public/images/5a/58/ec/95ea30c15d759fdaa906f106c88d850c060bb1b8.jpg?10819_OW800_OH800"
+    },
+    {
+        "id": "42",
+        "goodid": "1",
+        "goodstype": "洗衣机",
+        "goodsname": "10公斤波轮洗衣机XPB100-7D0S",
+        "desc": "大容量 脱水甩干机 半自动",
+        "price": "699.00",
+        "src": "https://www.konka.com/public/images/a5/b8/e7/aa8b8ed9f9ec5866d297fb1f1e0042e5b8b74c2f.png?57374_OW800_OH800"
+    },
+    {
+        "id": "43",
+        "goodid": "2",
+        "goodstype": "洗衣机",
+        "goodsname": "8公斤  变频滚筒洗衣机XQG80-1203BD",
+        "desc": "新飞（Frestec）大容量  超薄机身  1级能效",
+        "price": "1399.00",
+        "src": "https://www.konka.com/public/images/19/4c/3f/aab060aa697cb90f8471976cef2edd8fe93cdd69.jpg?15295_OW800_OH800"
+    },
+    {
+        "id": "44",
+        "goodid": "3",
+        "goodstype": "洗衣机",
+        "goodsname": "9公斤 变频全自动滚筒洗衣机 XQG90-1203JD",
+        "desc": "新飞（Frestec）羽绒服洗  96°高温除菌  大屏显示",
+        "price": "1699.00",
+        "src": "https://www.konka.com/public/images/38/33/b1/50a04b96d844e33946f05f0ac482b37f3e28f4af.jpg?15378_OW800_OH800"
+    },
+    {
+        "id": "45",
+        "goodid": "4",
+        "goodstype": "洗衣机",
+        "goodsname": "8公斤 滚筒洗衣机XQG80-10D08W",
+        "desc": "一键式洗涤，高温煮洗，多种程序洗涤，中途添衣，高效脱水技术！",
+        "price": "1249.00",
+        "src": "https://www.konka.com/public/images/5c/db/31/0aae9ffa389893e6830059e3e09b0dfcd0ba6b81.jpg?96649_OW800_OH800"
+    },
+    {
+        "id": "46",
+        "goodid": "5",
+        "goodstype": "洗衣机",
+        "goodsname": "7公斤全自动波轮洗衣机  XQB70-20D0B",
+        "desc": "快洗自洁  多种程序 家用小型迷你 宿舍租房带甩干",
+        "price": "709.00",
+        "src": "https://www.konka.com/public/images/0a/47/14/9331fe21fe6cf49f475d4c9caa5daf4c02120f6e.jpg?67443_OW800_OH800"
+    },
+    {
+        "id": "47",
+        "goodid": "6",
+        "goodstype": "洗衣机",
+        "goodsname": "5公斤 全自动波轮洗衣机XQB50-218",
+        "desc": "8档水位10种程序！自洁桶风干！ 24小时预约洗！多功能控制面板，多种洗涤方式 ",
+        "price": "599.00",
+        "src": "https://www.konka.com/public/images/54/02/5b/8b858571d7fa2d90adff3e5ce17262f8e4ed14c4.jpg?67330_OW800_OH800"
+    },
+    {
+        "id": "48",
+        "goodid": "7",
+        "goodstype": "洗衣机",
+        "goodsname": "4公斤全自动波轮洗衣机 宿舍家用租房洗衣机  XQB40-20D0B",
+        "desc": "小体积大精彩  快洗自洁  5档水位 24小时预约",
+        "price": "549.00",
+        "src": "https://www.konka.com/public/images/43/ba/d7/e0bb1b377fb7e745cebcc6a70ad188177a0d3c20.jpg?67870_OW800_OH800"
+    },
+    {
+        "id": "49",
+        "goodid": "8",
+        "goodstype": "洗衣机",
+        "goodsname": "6.2公斤波轮洗衣机  XQB62-M5101",
+        "desc": "家用迷你  桶自洁 强动力",
+        "price": "666.00",
+        "src": "https://www.konka.com/public/images/05/7a/c1/2b9d2d80b978ee661f9bae824c6303ed9bea82b3.jpg?45844_OW800_OH800"
+    },
+    {
+        "id": "50",
+        "goodid": "9",
+        "goodstype": "洗衣机",
+        "goodsname": "9公斤全自动波轮洗衣机 XQB90-1806D",
+        "desc": "新飞（Frestec）自编程仿手搓洗  模糊控制  8种程序",
+        "price": "899.00",
+        "src": "https://www.konka.com/public/images/79/6f/22/7eb74c6882e22a48d59be6fa0e3b25660b2484c8.jpg?15108_OW800_OH800"
+    },
+    {
+        "id": "51",
+        "goodid": "10",
+        "goodstype": "洗衣机",
+        "goodsname": "6公斤 全自动家用波轮洗衣机XQB60-510Y",
+        "desc": "新飞（Frestec）8种洗衣程序  优质旋风净桶  自由预约",
+        "price": "699.00",
+        "src": "https://www.konka.com/public/images/d4/4b/cf/62ea8bf9cdca86a285b088b302adc297cf36da9e.jpg?58697_OW800_OH800"
+    },
+    {
+        "id": "52",
+        "goodid": "11",
+        "goodstype": "洗衣机",
+        "goodsname": "10公斤 全自动波轮洗衣机XQB100-1806D",
+        "desc": "新飞（Frestec）智能模糊控制洗  静音节能  自动断电",
+        "price": "999.00",
+        "src": "https://www.konka.com/public/images/bb/c2/9c/ea224fc41ad809b66203a9c21d0622cfeadf59b3.jpg?15191_OW800_OH800"
+    },
+    {
+        "id": "53",
+        "goodid": "12",
+        "goodstype": "洗衣机",
+        "goodsname": "8公斤 全自动波轮洗衣机XQB80-1806D",
+        "desc": "新飞（Frestec）家用节能 优质桶风干  不平衡自检功能",
+        "price": "699.00",
+        "src": "https://www.konka.com/public/images/46/98/e0/65a218a9b1d8a27c0892d7759583bbc8d8b78dd5.jpg?59170_OW800_OH800"
+    },
+    {
+        "id": "54",
+        "goodid": "13",
+        "goodstype": "洗衣机",
+        "goodsname": "3公斤 全自动波轮迷你洗衣机  XQB30-618H",
+        "desc": "高温煮洗，纳米银离子抑菌，婴幼儿专用洗衣机人，避免衣物交叉细菌感染！",
+        "price": "909.00",
+        "src": "https://www.konka.com/public/images/66/f6/4f/584c4fad0ec5f0b01573abb5c5edfda137f473f6.jpg?94471_OW800_OH800"
+    },
+    {
+        "id": "55",
+        "goodid": "14",
+        "goodstype": "洗衣机",
+        "goodsname": "XQG110-BBH14308S 11公斤洗烘一体 BLDC变频滚筒洗衣机",
+        "desc": "即洗即干 空气洗 90°高温煮洗 自清洁 记忆洗",
+        "price": "3599.00",
+        "src": "https://www.konka.com/public/images/93/a1/8d/e57ca5211364bd4c7b6a1d7a70437c662d2f4b0c.jpg?34975_OW800_OH800"
+    },
+    {
+        "id": "56",
+        "goodid": "15",
+        "goodstype": "洗衣机",
+        "goodsname": "Kmini迷你婴儿壁挂洗衣机XQG32-BD169 ",
+        "desc": "95°高温除菌  15分钟快洗 24小时预约",
+        "price": "2099.00",
+        "src": "https://www.konka.com/public/images/59/ef/b8/37c9240f3bbc7c44b4fa9f2aa167961b8f17a1de.jpg?29882_OW800_OH800"
+    },
+    {
+        "id": "57",
+        "goodid": "16",
+        "goodstype": "洗衣机",
+        "goodsname": "Kmini迷你婴儿壁挂洗衣机XQG32-BDH199 ",
+        "desc": "95°高温除菌  80°空气洗  105°智能烘干",
+        "price": "2299.00",
+        "src": "https://www.konka.com/public/images/1b/23/8f/e975e42814796f6c72cca4d52041c1e68748f3ff.jpg?70702_OW800_OH800"
+    },
+    {
+        "id": "58",
+        "goodid": "0",
+        "goodstype": "生活电器",
+        "goodsname": "慢享一壶 精致养生  空气炸锅+养生杯",
+        "desc": "智能无油空气炸锅（KGKZ-3523)+健康养生杯(KHK-06S01) 618套购直降359元！",
+        "price": "369.00",
+        "src": "https://www.konka.com/public/images/e6/10/b8/e53875d41fa96329c7a4e434be5476cd7d559540.jpg?30894_OW800_OH800"
+    },
+    {
+        "id": "59",
+        "goodid": "1",
+        "goodstype": "生活电器",
+        "goodsname": "家用蒸汽熨斗KSC-G168(G）",
+        "desc": "手持挂烫机 迷你便携式 小型烫衣服",
+        "price": "199.00",
+        "src": "https://www.konka.com/public/images/47/7b/35/71cf47b28176aab2ce05f5dce3897b926af11924.jpg?47181_OW1000_OH1000"
+    },
+    {
+        "id": "60",
+        "goodid": "2",
+        "goodstype": "生活电器",
+        "goodsname": "办公室加热饭盒 KPT-FC05",
+        "desc": "便携带饭神器 不锈钢双胆",
+        "price": "199.00",
+        "src": "https://www.konka.com/public/images/b3/12/c6/21c3dce59cc1c0086f295ccf917384ccf40e43b6.jpg?46545_OW800_OH800"
+    },
+    {
+        "id": "61",
+        "goodid": "3",
+        "goodstype": "生活电器",
+        "goodsname": "1.5L养生壶多功能KX-15",
+        "desc": "304不锈钢发热盘 定时预约 多段保温！",
+        "price": "149.00",
+        "src": "https://www.konka.com/public/images/3e/02/b1/e4960f16c0bd5ae2369d97fc7484868990e18c85.jpg?00111_OW800_OH800"
+    },
+    {
+        "id": "62",
+        "goodid": "4",
+        "goodstype": "生活电器",
+        "goodsname": "意式浓缩咖啡机KCF-1001",
+        "desc": "一键全自动 家用小型迷你 商用奶泡机一体",
+        "price": "1299.00",
+        "src": "https://www.konka.com/public/images/51/af/c0/74142e7c9e760031c3c834b78782df5a35b8074b.jpg?43600_OW800_OH800"
+    },
+    {
+        "id": "63",
+        "goodid": "5",
+        "goodstype": "生活电器",
+        "goodsname": "1.8L养生壶多功能KHK-1802(E)",
+        "desc": "304不锈钢发热盘 定时预约 多段保温！",
+        "price": "269.00",
+        "src": "https://www.konka.com/public/images/a7/f0/4a/bd5bd0ce977479889e72432b4e644aa8c5866428.jpg?00249_OW800_OH800"
+    },
+    {
+        "id": "64",
+        "goodid": "6",
+        "goodstype": "生活电器",
+        "goodsname": "甄选之礼 迷你便携美发套装",
+        "desc": "180℃速热智能恒温 恒温65℃护发 百变造型 轻享奢华",
+        "price": "599.00",
+        "src": "https://www.konka.com/public/images/b6/90/02/cd9260b570d3fbb1886e6f12a77e3abf8a263685.jpg?89847_OW1080_OH1080"
+    },
+    {
+        "id": "65",
+        "goodid": "7",
+        "goodstype": "生活电器",
+        "goodsname": "1.8L玻璃加厚养生壶KHK-18V01",
+        "desc": "全触控操作面板，定时预约，多段保温！",
+        "price": "109.00",
+        "src": "https://www.konka.com/public/images/57/37/25/51188eb6147163d2540ecba6b1db77975af0c401.jpg?27812_OW1000_OH1000"
+    },
+    {
+        "id": "66",
+        "goodid": "8",
+        "goodstype": "生活电器",
+        "goodsname": "水龙头净水器KPW-LT01",
+        "desc": "九级复合过滤 四步简易安装 双出水更人性",
+        "price": "79.00",
+        "src": "https://www.konka.com/public/images/fb/cc/01/e196ae6afb0835b7799be8a37950967c61001cf3.jpg?29537_OW800_OH800"
+    },
+    {
+        "id": "67",
+        "goodid": "9",
+        "goodstype": "生活电器",
+        "goodsname": "USB充电式料理机KJ-40U01(A)",
+        "desc": "机身小重量轻  旅行逛街健身随身带",
+        "price": "99.00",
+        "src": "https://www.konka.com/public/images/97/8a/28/438ee0d9ea2f616be55ccedd0e822129e6178247.jpg?29070_OW800_OH800"
+    },
+    {
+        "id": "68",
+        "goodid": "10",
+        "goodstype": "生活电器",
+        "goodsname": "USB充电式迷你便携式料理机KJ-60U02",
+        "desc": "机身小  重量轻  旅行健身随身带",
+        "price": "129.00",
+        "src": "https://www.konka.com/public/images/38/6c/22/03a479d0e3ca1e4e439c2a9ab270d8c4277f6e15.jpg?94913_OW800_OH800"
+    },
+    {
+        "id": "69",
+        "goodid": "11",
+        "goodstype": "生活电器",
+        "goodsname": "0.5L折叠双电压烧水壶KEK-06G508(L2)",
+        "desc": "食品级硅胶 旅行便携保温 ",
+        "price": "129.00",
+        "src": "https://www.konka.com/public/images/d0/36/8f/db97d8c64e5e4f3d454d9f2f46af7b77c8282338.jpg?95084_OW800_OH800"
+    },
+    {
+        "id": "70",
+        "goodid": "12",
+        "goodstype": "生活电器",
+        "goodsname": "1.8L 智能养生壶KHK-18T10",
+        "desc": "智能双系统  精准温控  玻璃炖蛊",
+        "price": "179.00",
+        "src": "https://www.konka.com/public/images/3c/e6/5e/fe254ad8d73969fed23cb6ce6f1b6945a1e3ea1b.jpg?43450_OW800_OH800"
+    },
+    {
+        "id": "71",
+        "goodid": "13",
+        "goodstype": "生活电器",
+        "goodsname": "全自动快速煎药KJY-30Y01",
+        "desc": "易清洗，蜂鸣提醒，防干烧保护，锁盖设计，老人也能轻松煎药！",
+        "price": "199.00",
+        "src": "https://www.konka.com/public/images/71/31/fc/60b8c4d7ca5481a0131c4a32875e32fda225429c.jpg?02941_OW800_OH800"
+    },
+    {
+        "id": "72",
+        "goodid": "14",
+        "goodstype": "生活电器",
+        "goodsname": "便携式旅行料理机KJ-V150",
+        "desc": "快速榨汁  四叶刀头  清洗方便",
+        "price": "99.00",
+        "src": "https://www.konka.com/public/images/1e/ac/7d/4c92bc6f0cca23c27c7669e5fd59c8629e605ef2.jpg?24843_OW800_OH800"
+    },
+    {
+        "id": "73",
+        "goodid": "15",
+        "goodstype": "生活电器",
+        "goodsname": "红外线测温仪AET-R1D1(JK04)",
+        "desc": "准确测温  发烧警示  大容量存储",
+        "price": "69.00",
+        "src": "https://www.konka.com/public/images/79/1e/a1/a5e9f7b5cee72ea119d142fe1ae8788e7601e393.jpg?50176_OW800_OH800"
+    },
+    {
+        "id": "74",
+        "goodid": "16",
+        "goodstype": "生活电器",
+        "goodsname": "USB家用静音便携式无叶风扇KF-UW1(CD)",
+        "desc": "无叶柔风 可充电 小夜灯",
+        "price": "219.00",
+        "src": "https://www.konka.com/public/images/40/e2/76/c2f963e8181f5dcf1b1b349e10ae1a4f49d6f7c2.jpg?28720_OW800_OH800"
+    },
+    {
+        "id": "75",
+        "goodid": "17",
+        "goodstype": "生活电器",
+        "goodsname": "1.2L 家用多功能加热破壁机KJ-07B03",
+        "desc": "高速破壁 一键料理 碎冰辅食 研磨豆浆榨汁 智能预约 ",
+        "price": "499.00",
+        "src": "https://www.konka.com/public/images/1e/94/cf/8d36f971a188287972df64e46cf27b613b4913fa.jpg?71320_OW800_OH800"
+    },
+    {
+        "id": "76",
+        "goodid": "18",
+        "goodstype": "生活电器",
+        "goodsname": "1.2L  高硼硅玻璃烧水壶KHK-1812",
+        "desc": "食品级304不锈钢发热盘 高硼硅玻璃内壁 12小时恒温 精准控温 恒温温奶器 调奶器冲奶器 自动断电防干烧 多功能一机多用 妈妈安心，宝宝开心！",
+        "price": "159.00",
+        "src": "https://www.konka.com/public/images/f4/59/5e/62f4561dd28a4d901b82a49632ab34d91f00495d.jpg?55291_OW800_OH800"
+    },
+    {
+        "id": "77",
+        "goodid": "19",
+        "goodstype": "生活电器",
+        "goodsname": "0.6L可视玻璃养生杯KHK-06S01",
+        "desc": "小巧容量  双层防烫  智能触控",
+        "price": "179.00",
+        "src": "https://www.konka.com/public/images/ca/7f/a4/0fbe9e898ef8926dda7a1797ecb608c0cd62ba07.jpg?52017_OW800_OH800"
+    },
+    {
+        "id": "78",
+        "goodid": "0",
+        "goodstype": "厨卫电器",
+        "goodsname": "家用蒸汽熨斗KSC-G168(G）",
+        "desc": "手持挂烫机 迷你便携式 小型烫衣服",
+        "price": "199.00",
+        "src": "https://www.konka.com/public/images/47/7b/35/71cf47b28176aab2ce05f5dce3897b926af11924.jpg?47181_OW1000_OH1000"
+    },
+    {
+        "id": "79",
+        "goodid": "1",
+        "goodstype": "厨卫电器",
+        "goodsname": "32升家用多功能电烤箱KAO-32M1",
+        "desc": "全自动烘焙用具 多功能考箱 大容量",
+        "price": "229.00",
+        "src": "https://www.konka.com/public/images/a0/5f/52/99e1cf25314e93d6877525adf801f22ab536e0f0.jpg?54301_OW800_OH800"
+    },
+    {
+        "id": "80",
+        "goodid": "2",
+        "goodstype": "厨卫电器",
+        "goodsname": "多功能小功率宿舍电煮锅KZG-T3HP30",
+        "desc": "3L大容量，便携长手柄，木纹握柄，不沾涂层，宿舍可用！",
+        "price": "149.00",
+        "src": "https://www.konka.com/public/images/61/93/7c/7c9b75d2319a0d42b15827e3875096fcbb062fbb.jpg?87619_OW800_OH800"
+    },
+    {
+        "id": "81",
+        "goodid": "3",
+        "goodstype": "厨卫电器",
+        "goodsname": "6.5升大容量无油烟多功能电炸锅/空气炸锅KGKZ-6505",
+        "desc": "360°智能翻炒  可视化窗口  丰富触摸面板",
+        "price": "599.00",
+        "src": "https://www.konka.com/public/images/cb/56/fd/6c3c5b943796650948ad453811dacee67892aed8.jpg?63514_OW800_OH800"
+    },
+    {
+        "id": "82",
+        "goodid": "4",
+        "goodstype": "厨卫电器",
+        "goodsname": "多功能家用鸳鸯火锅KEP-5LM11",
+        "desc": "5L鸳鸯电火锅，进口华福不粘涂层，1500W大功率，一体压铸， 一锅双味不串味，断电全身水洗，品质火锅，尽在康佳！",
+        "price": "189.00",
+        "src": "https://www.konka.com/public/images/2d/fb/50/607951014e7ecbaec1d270cc2b321f8af204f9c5.jpg?36935_OW800_OH800"
+    },
+    {
+        "id": "83",
+        "goodid": "5",
+        "goodstype": "厨卫电器",
+        "goodsname": "2L 智能小电饭煲KRC-20ZS808",
+        "desc": "24小时预约  速热氧化盘  回形蒸笼阀",
+        "price": "239.00",
+        "src": "https://www.konka.com/public/images/e3/b6/fd/07bcd35f11feaaed61e418043001487479229607.jpg?43220_OW800_OH800"
+    },
+    {
+        "id": "84",
+        "goodid": "6",
+        "goodstype": "厨卫电器",
+        "goodsname": "智能无油空气炸锅KGKZ-3523",
+        "desc": "无油煎炸 美味自制 内置炸篮可拆卸",
+        "price": "269.00",
+        "src": "https://www.konka.com/public/images/4f/97/b4/45ee1806c4382afd96c5d9427a2911c528d25c7c.jpg?04679_OW800_OH800"
+    },
+    {
+        "id": "85",
+        "goodid": "7",
+        "goodstype": "厨卫电器",
+        "goodsname": "家用爆炒电陶炉KES-22P2",
+        "desc": "不挑锅具  快速散热  8档火力",
+        "price": "199.00",
+        "src": "https://www.konka.com/public/images/27/e0/1d/816bfc76aa471adbcfdd8e0a27d1e801131fb40f.jpg?04750_OW900_OH900"
+    },
+    {
+        "id": "86",
+        "goodid": "8",
+        "goodstype": "厨卫电器",
+        "goodsname": "2L多功能小炒锅KCG-205   ",
+        "desc": "不粘锅体  双层防烫  多重功能  上蒸下煮",
+        "price": "129.00",
+        "src": "https://www.konka.com/public/images/34/8f/35/37c20d1d927775856e62ca3549fce19af9cce166.jpg?42351_OW800_OH800"
+    },
+    {
+        "id": "87",
+        "goodid": "9",
+        "goodstype": "厨卫电器",
+        "goodsname": "多功能小功率宿舍电煮锅KZG-15YX601/KZG-15YX601(L）",
+        "desc": "1.5L，304不锈钢，双功率宿舍可用！",
+        "price": "69.00",
+        "src": "https://www.konka.com/public/images/28/48/46/d23cc69bdea9761bc6f0f00f165a06638f9767f5.jpg?53762_OW800_OH800"
+    },
+    {
+        "id": "88",
+        "goodid": "10",
+        "goodstype": "厨卫电器",
+        "goodsname": "家用蒸烤一体机蒸烤炉/烤箱KAO-28S20",
+        "desc": "28L大容量  一机多用  高温消毒",
+        "price": "1799.00",
+        "src": "https://www.konka.com/public/images/24/55/06/b0a3936dd55ac2cc46aa143bf550775c5c0946c1.jpg?40637_OW800_OH800"
+    },
+    {
+        "id": "89",
+        "goodid": "11",
+        "goodstype": "厨卫电器",
+        "goodsname": "立式扩容家用烤箱KAO-L12T",
+        "desc": "立式设计 三层同烤  上下立体发热",
+        "price": "209.00",
+        "src": "https://www.konka.com/public/images/ed/8c/a7/9f635acba70e5c2c8a48a384e8751f11f53c5dce.jpg?94978_OW800_OH800"
+    },
+    {
+        "id": "90",
+        "goodid": "12",
+        "goodstype": "厨卫电器",
+        "goodsname": "3L家用机械小电饭锅KRC-30JX33",
+        "desc": "银白机身  一键操作  蒸煮两用  ",
+        "price": "99.00",
+        "src": "https://www.konka.com/public/images/1f/6f/19/084f16f507da912f34544cf95f6e3dc60ac116f5.jpg?12534_OW800_OH800"
+    },
+    {
+        "id": "91",
+        "goodid": "13",
+        "goodstype": "厨卫电器",
+        "goodsname": "触摸式家用智能大火力磁炉KEO-21CS08",
+        "desc": "2100W大功率触控电磁炉  10段调节 预约定时",
+        "price": "139.00",
+        "src": "https://www.konka.com/public/images/0c/06/7f/9a8e32e77d9415c03207ca39970fa00fd31cd250.jpg?87884_OW800_OH800"
+    },
+    {
+        "id": "92",
+        "goodid": "14",
+        "goodstype": "厨卫电器",
+        "goodsname": "家用小型智能新款电磁炉KEO-21AS07/KEO-21AS07（TE)",
+        "desc": "2100W功率，十档调控",
+        "price": "199.00",
+        "src": "https://www.konka.com/public/images/29/86/45/8d35385c108d6c2d49eafbf5090ec45d92165062.jpg?87740_OW800_OH800"
+    },
+    {
+        "id": "93",
+        "goodid": "15",
+        "goodstype": "厨卫电器",
+        "goodsname": "智能家用电陶炉KES-22AS02",
+        "desc": "无高频辐射 大功率红外光波加热 快速加热不挑锅",
+        "price": "229.00",
+        "src": "https://www.konka.com/public/images/e4/05/13/1cb26c40e9a3ec3671ccd47ec82eacdfb7fedc47.jpg?82421_OW800_OH800"
+    },
+    {
+        "id": "94",
+        "goodid": "16",
+        "goodstype": "厨卫电器",
+        "goodsname": "2.5L家用智能易清洁去油无烟空气炸锅KGKZ-2501(C)",
+        "desc": "智能预约  触摸操作 360度立体加热 断电记忆功能",
+        "price": "399.00",
+        "src": "https://www.konka.com/public/images/3f/69/2c/1de206e7826bb10ff6e2b05ca7e295f6c6b9fd35.jpg?27697_OW800_OH800"
+    },
+    {
+        "id": "95",
+        "goodid": "17",
+        "goodstype": "厨卫电器",
+        "goodsname": "2.2L家庭容量多功能无油空气炸锅KGKZ-2202",
+        "desc": "无油烹炸  360°高速空气循环  多项菜单  不粘内胆",
+        "price": "239.00",
+        "src": "https://www.konka.com/public/images/be/4b/43/06bbfd7fc38869f31c787720a22839dd11390068.jpg?26312_OW800_OH800"
+    },
+    {
+        "id": "96",
+        "goodid": "18",
+        "goodstype": "厨卫电器",
+        "goodsname": "1.2L小容量 迷你小饭煲KRC-12JX701",
+        "desc": "康佳萌新电饭煲 1.2L迷你小容量，不粘内胆，可爱精致，方便携带，学生宿舍上班都适用！",
+        "price": "99.00",
+        "src": "https://www.konka.com/public/images/af/57/f5/ea5807d6a55b05beed62d1411c02f39e7f694629.jpg?17757_OW800_OH800"
+    },
+    {
+        "id": "97",
+        "goodid": "19",
+        "goodstype": "厨卫电器",
+        "goodsname": "寝室神器多功能小功率电煮锅KZG-15YX721/KZG-15YX721（L)",
+        "desc": "1.5L精致新品多功能小煮锅 600W安全功率，三档（快+慢+保温）旋钮调节 304不锈钢内胆，双层防烫锅身 ",
+        "price": "79.00",
+        "src": "https://www.konka.com/public/images/e5/5c/b2/deea5b56e28060448f1abb4476919384a641e564.jpg?15880_OW800_OH800"
+    },
+    {
+        "id": "98",
+        "goodid": "0",
+        "goodstype": "智能硬件",
+        "goodsname": "宅家影院  高清投影+养生壶",
+        "desc": "口袋高清投影 （H1)+1.8L全能养生壶（KHK-15S03）",
+        "price": "1209.00",
+        "src": "https://www.konka.com/public/images/da/12/59/f8bbe9b313df8fccde22790b18520f1c1b5fd1f2.jpg?30860_OW800_OH800"
+    },
+    {
+        "id": "99",
+        "goodid": "1",
+        "goodstype": "智能硬件",
+        "goodsname": "康佳便携投影L1",
+        "desc": "高亮高配 语音操控 双喇叭音响",
+        "price": "1799.00",
+        "src": "https://www.konka.com/public/images/c6/17/0b/592824898135ea6ed4a8412b4fb0c6db91a4cad2.jpg?69407_OW800_OH800"
+    },
+    {
+        "id": "100",
+        "goodid": "2",
+        "goodstype": "智能硬件",
+        "goodsname": "康佳无线麦克风T1",
+        "desc": "多屏通用  K歌神器  金属外壳  音质纯正",
+        "price": "369.00",
+        "src": "https://www.konka.com/public/images/d2/5d/11/8587749560ab5749870194c92bec9c9aeab82351.jpg?98033_OW800_OH800"
+    },
+    {
+        "id": "101",
+        "goodid": "3",
+        "goodstype": "智能硬件",
+        "goodsname": "康佳无线麦克风M1",
+        "desc": "康佳电视全民K歌专用麦克风 奢华外观 歌房音效 聚会狂欢 必备神器",
+        "price": "269.00",
+        "src": "https://www.konka.com/public/images/27/97/79/7622147cf27295768f3c68fd577c679484b71813.jpg?68040_OW800_OH800"
+    },
+    {
+        "id": "102",
+        "goodid": "4",
+        "goodstype": "智能硬件",
+        "goodsname": "康佳无线麦克风H4",
+        "desc": "康佳电视全民K歌专用麦克风 双麦欢唱 智能降噪 高保真还原 家庭KTV新体验",
+        "price": "499.00",
+        "src": "https://www.konka.com/public/images/e7/27/24/f85d437596a396b753182d394c71b4846ef52bb1.jpg?27279_OW800_OH800"
+    },
+    {
+        "id": "103",
+        "goodid": "5",
+        "goodstype": "智能硬件",
+        "goodsname": "康佳无线麦克风T1",
+        "desc": "多屏通用 K歌神器 金属外壳 音质纯正",
+        "price": "369.00",
+        "src": "https://www.konka.com/public/images/e9/2b/0c/aa7ca5206c29338a715a114a21a6a77d3c8c183b.jpg?44556_OW800_OH800"
+    },
+    {
+        "id": "104",
+        "goodid": "6",
+        "goodstype": "智能硬件",
+        "goodsname": "康佳智能机顶盒HAN522   ",
+        "desc": "康佳智能机顶盒HAN522 ",
+        "price": "399.00",
+        "src": "https://www.konka.com/public/images/a3/99/75/9f0b52425480d2e1d1468dacd49761a990df4c59.png?19564_OW1557_OH1246"
+    },
+    {
+        "id": "105",
+        "goodid": "7",
+        "goodstype": "智能硬件",
+        "goodsname": "AI蓝牙音箱",
+        "desc": "语音指令 增强麦克风   海量内容",
+        "price": "359.00",
+        "src": "https://www.konka.com/public/images/90/98/c8/73f24a79f520d8dc9507af47d37aa589257eb68e.jpg?54454_OW800_OH800"
+    },
+    {
+        "id": "106",
+        "goodid": "8",
+        "goodstype": "智能硬件",
+        "goodsname": "康佳H2投影仪",
+        "desc": "小巧轻便  高清画质  无线投屏",
+        "price": "1299.00",
+        "src": "https://www.konka.com/public/images/d1/3e/96/881bd803e24e5317f4cdb091694c05babe98142c.jpg?54722_OW800_OH800"
+    },
+    {
+        "id": "107",
+        "goodid": "9",
+        "goodstype": "智能硬件",
+        "goodsname": "康佳无线麦克风M1D Plus",
+        "desc": "金属外壳  多屏互动  无线连接",
+        "price": "499.00",
+        "src": "https://www.konka.com/public/images/8a/e6/fa/140d39e1ec85e9f663543557a851f478c80cbee8.jpg?09805_OW800_OH800"
+    },
+    {
+        "id": "108",
+        "goodid": "10",
+        "goodstype": "智能硬件",
+        "goodsname": "掌上投影仪 家用投影机H3pro",
+        "desc": "触控面板  梯形矫正  便携无线同屏  内容丰富",
+        "price": "1599.00",
+        "src": "https://www.konka.com/public/images/e0/2a/68/342ef30e4a80937667ddc7817321d007c7df2f2f.jpg?94942_OW800_OH800"
+    },
+    {
+        "id": "109",
+        "goodid": "11",
+        "goodstype": "智能硬件",
+        "goodsname": "体感总动员手柄",
+        "desc": "游戏竞技 随机操控 智能省电 体感双手柄",
+        "price": "399.00",
+        "src": "https://www.konka.com/public/images/54/ec/1f/d1eeba1386e3260d4e61cfcce7c7f92114d5c8c9.jpg?56639_OW800_OH800"
+    },
+    {
+        "id": "110",
+        "goodid": "12",
+        "goodstype": "智能硬件",
+        "goodsname": "通用遥控器",
+        "desc": "通用遥控器",
+        "price": "45.00",
+        "src": "https://www.konka.com/public/images/ad/cb/43/34e0f97e180c77a13cf310be9ecb19c43c5313d2.jpg?24134_OW800_OH800"
+    },
+    {
+        "id": "111",
+        "goodid": "13",
+        "goodstype": "智能硬件",
+        "goodsname": "微型智能网络投影仪H1",
+        "desc": " 高清投影  时尚简约  轻巧便捷     ",
+        "price": "1099.00",
+        "src": "https://www.konka.com/public/images/1c/a7/a7/02cd65dbf3aee0524821c3a87d11bebe8184eb8c.jpg?63632_OW800_OH800"
+    },
+    {
+        "id": "112",
+        "goodid": "0",
+        "goodstype": "智能家居",
+        "goodsname": "智能马桶盖01款",
+        "desc": "智能马桶盖01款",
+        "price": "6980.00",
+        "src": "https://www.konka.com/public/images/4f/ef/bc/ecf86c4607f0f7b48f90438238b90b2b82ab016d.jpg?60624_OW800_OH800"
+    },
+    {
+        "id": "113",
+        "goodid": "1",
+        "goodstype": "智能家居",
+        "goodsname": "洛宇",
+        "desc": "洛宇",
+        "price": "16.00",
+        "src": "https://www.konka.com/public/images/bc/9b/a6/dbaca42c159ba81bbd6dfd7d7d7a1276d00fd9e4.jpg?64037_OW800_OH800"
+    },
+    {
+        "id": "114",
+        "goodid": "2",
+        "goodstype": "智能家居",
+        "goodsname": "醇绣",
+        "desc": "醇绣",
+        "price": "20.00",
+        "src": "https://www.konka.com/public/images/f0/75/fd/22a2a41ca19c632a82087e2e1b531f92bcc93e05.jpg?62683_OW800_OH800"
+    },
+    {
+        "id": "115",
+        "goodid": "3",
+        "goodstype": "智能家居",
+        "goodsname": "超薄五合一智控取暖器N600-Z21",
+        "desc": "超薄设计  智能控制  双核动力  3秒制热",
+        "price": "1659.00",
+        "src": "https://www.konka.com/public/images/0f/13/f1/afed2481de026424ffbfcf74fea1bc1f90879832.jpg?60829_OW800_OH800"
+    },
+    {
+        "id": "116",
+        "goodid": "4",
+        "goodstype": "智能家居",
+        "goodsname": "新一代暖浴智控取暖器N600-Z1",
+        "desc": "负离子净化  动平衡电机  双涡轮增压  动力十足  循环制热  感应夜灯  微风循环",
+        "price": "2659.00",
+        "src": "https://www.konka.com/public/images/c3/64/53/9726f5629857db7f8b7ff7c6e095ff579dafbcad.jpg?60626_OW800_OH800"
+    },
+    {
+        "id": "117",
+        "goodid": "5",
+        "goodstype": "智能家居",
+        "goodsname": "智能遥控负离子凉霸LB300-02",
+        "desc": "负离子净化  定向摆页  智能遥控  厨房浴室双适用",
+        "price": "559.00",
+        "src": "https://www.konka.com/public/images/22/10/18/e71b330c38e443c05227c94a052e7e0393884593.jpg?60429_OW800_OH800"
+    },
+    {
+        "id": "118",
+        "goodid": "6",
+        "goodstype": "智能家居",
+        "goodsname": "静音清爽凉霸LB300-01",
+        "desc": "远距离送风   舒适静音  厨房浴室双适用",
+        "price": "329.00",
+        "src": "https://www.konka.com/public/images/2a/f4/6e/b91f12b914807929dc0eff82afe737b98bc9939d.jpg?60245_OW800_OH800"
+    },
+    {
+        "id": "119",
+        "goodid": "7",
+        "goodstype": "智能家居",
+        "goodsname": "第三代纳米微晶石家装板材",
+        "desc": "金凤凰纳米微晶石大板鱼肚白雪花白板1000mm*1000mm墙地一体砖，可支持图案定制、规格定制（3600mm~1000mm*100mm~1600mm）",
+        "price": "988.00",
+        "src": "https://www.konka.com/public/images/37/5a/4f/af28a735954bf21d0e1b28fe4a773016951f0024.jpg?32759_OW800_OH800"
+    },
+    {
+        "id": "120",
+        "goodid": "8",
+        "goodstype": "智能家居",
+        "goodsname": "第三代纳米微晶石",
+        "desc": "江西康佳新材料金凤凰纳米微晶石大板鱼肚白雪花白板1000mm*1000mm墙地一体砖，可支持图案定制、规格定制（3600mm~1000mm*100mm~1600mm）",
+        "price": "788.00",
+        "src": "https://www.konka.com/public/images/3b/87/7a/3010bde6c412e230bffba7560a2b75dd8a4abf08.jpg?27735_OW800_OH800"
+    },
+    {
+        "id": "121",
+        "goodid": "9",
+        "goodstype": "智能家居",
+        "goodsname": "节能数显多功能取暖器N600-12",
+        "desc": "宽屏18WLED灯  10cm薄型全塑阻燃隐藏螺丝箱体  40滚珠轴承电机  全塑简洁设计  360m3/h换气量  塑壳温显",
+        "price": "1299.00",
+        "src": "https://www.konka.com/public/images/5f/c5/ce/952f2b04126cca08b28bd53132216375b9ba94b3.jpg?87224_OW800_OH800"
+    },
+    {
+        "id": "122",
+        "goodid": "10",
+        "goodstype": "智能家居",
+        "goodsname": "高效静音速热取暖器N600-11",
+        "desc": "宽屏18WLED灯 10cm薄型全塑阻燃隐藏螺丝箱体  40滚珠轴承电机  全塑简洁设计  360m3/h换气量",
+        "price": "1199.00",
+        "src": "https://www.konka.com/public/images/d3/90/1c/658d459a75f4f896001ba5411771a77cf40c183e.jpg?87337_OW800_OH800"
+    },
+    {
+        "id": "123",
+        "goodid": "11",
+        "goodstype": "智能家居",
+        "goodsname": "智能电动窗帘",
+        "desc": "一键开关 语音智控 远程控制 定时设置 情景模式",
+        "price": "1380.00",
+        "src": "https://www.konka.com/public/images/f1/a8/c3/6aed0d06b5dfd5174e08438e0181a2b0efbc675f.jpg?87547_OW800_OH800"
+    },
+    {
+        "id": "124",
+        "goodid": "12",
+        "goodstype": "智能家居",
+        "goodsname": "集成吊顶扣板",
+        "desc": "镁铝合金基材 300umUV 烤漆仿生肌理层250um 纳米抗氧水性涂层",
+        "price": "15.00",
+        "src": "https://www.konka.com/public/images/b5/06/ba/ba4658c6a1f3cba587b5c1d6229e1cfca72123b2.jpg?87673_OW800_OH800"
+    },
+    {
+        "id": "125",
+        "goodid": "13",
+        "goodstype": "智能家居",
+        "goodsname": "30CM超宽风幕浴室取暖器N600-06",
+        "desc": "30cm超宽暖风风幕效果更好 无阻碍隐藏式进风口设计换气效果更好 2800W超暖风幕取暖 9mm超薄箱体 360m3/h换气量 恒流镇流器 两档暖风设计 40双滚珠轴承电机 14W侧发光LED照明",
+        "price": "1329.00",
+        "src": "https://www.konka.com/public/images/c9/16/18/cbb55263ee0bb94baad1511fac8e72ada1d9c271.jpg?87799_OW800_OH800"
+    },
+    {
+        "id": "126",
+        "goodid": "14",
+        "goodstype": "智能家居",
+        "goodsname": "侧发光LED平板灯-白L300-01/L600-01",
+        "desc": "专利内角码设计 细砂白铝合金边框 锁扣式接线柱 FSP免丝印2.0高透导光板 恒流整流器 6000K护眼自然光",
+        "price": "149.00",
+        "src": "https://www.konka.com/public/images/80/3a/35/b730fd3631e4f0ae273b5590d983e1190ccfacb2.jpg?87946_OW800_OH800"
+    },
+    {
+        "id": "127",
+        "goodid": "15",
+        "goodstype": "智能家居",
+        "goodsname": "360°立体进风换气扇H300-1/H300-2",
+        "desc": "大口径风轮 全方位净化空气 360°立体进风",
+        "price": "329.00",
+        "src": "https://www.konka.com/public/images/ae/50/00/e457ff6f5a32fb177d815487e669d59d58397297.jpg?88131_OW800_OH800"
+    },
+    {
+        "id": "128",
+        "goodid": "16",
+        "goodstype": "智能家居",
+        "goodsname": "大屏无框双档制热空调型取暖器N600-13",
+        "desc": "双档制热 大屏高效LED照明  智能数码显示  隐藏式进风口 360m³换气量   9cm超薄pc阻燃箱体",
+        "price": "1299.00",
+        "src": "https://www.konka.com/public/images/9b/a9/39/2055b3a791b4d232a4463cc74d83221e51bdc231.jpg?88272_OW800_OH800"
+    },
+    {
+        "id": "129",
+        "goodid": "17",
+        "goodstype": "智能家居",
+        "goodsname": "侧发光LED平板灯-银L300-02",
+        "desc": "专利内角码设计 氧化银铝合金边框 锁扣式接线柱 高显色80Ra3014高亮芯片 2.5激光打点高亮导光板 恒流IC灌胶智能防水驱动 6000K护眼自然光",
+        "price": "219.00",
+        "src": "https://www.konka.com/public/images/35/5c/11/0bc7753ab85427719ce0fa7c45f37b0df64de296.jpg?88421_OW800_OH800"
+    },
+    {
+        "id": "130",
+        "goodid": "18",
+        "goodstype": "智能家居",
+        "goodsname": "智能数显五合一空调型取暖器N600-03",
+        "desc": "全塑阻燃PC箱体 智控数码显示屏 40滚珠轴承电机 超宽进风出风口 防虫滤网设计 豪华全铝合金面板  360m3/h换气量 恒流整流器 18w背发光LED照明 弧面外凸艺术设计",
+        "price": "1099.00",
+        "src": "https://www.konka.com/public/images/d5/68/33/61c852caa647d1ffcbd98a0bc3252e2da421a2a1.jpg?88525_OW800_OH800"
+    },
+    {
+        "id": "131",
+        "goodid": "19",
+        "goodstype": "智能家居",
+        "goodsname": "豪华双电机超亮屏浴室取暖器N600-02",
+        "desc": "宽屏24w LED灯 全塑料阻燃PC箱体 340滚珠轴承电机  5色智控功能灯 360m3/h换气量。",
+        "price": "1059.00",
+        "src": "https://www.konka.com/public/images/b0/99/77/b9f346500cb5a3acabcfa00bebc9dc499c4e6336.jpg?88658_OW800_OH800"
+    },
+    {
+        "id": "132",
+        "goodid": "0",
+        "goodstype": "K迷优品",
+        "goodsname": "SUPER KIMI 动物梦境系列盲盒 ",
+        "desc": "预售（6月初发货） 不支持无理由退换  ",
+        "price": "81.00",
+        "src": "https://www.konka.com/public/images/2d/43/83/38ec137a1472a4569d84a92f306f5daba70adf4c.jpg?46651_OW800_OH800"
+    },
+    {
+        "id": "133",
+        "goodid": "1",
+        "goodstype": "K迷优品",
+        "goodsname": "SUPER KIMI“猪”事大吉毛绒公仔",
+        "desc": "卡通萌宠 毛绒玩偶礼物 俘获少女心",
+        "price": "67.00",
+        "src": "https://www.konka.com/public/images/d1/af/69/48cbfc5dbb6ccee22831e9ef77782fd1e8ce61be.jpg?95930_OW800_OH800"
+    },
+    {
+        "id": "134",
+        "goodid": "2",
+        "goodstype": "K迷优品",
+        "goodsname": "SUPER KIMI智能感应音响",
+        "desc": "即放即播 重低音炮 追剧神器",
+        "price": "46.00",
+        "src": "https://www.konka.com/public/images/29/54/79/1108ebe755eb3a13079bbd2ed89ba33433f13556.jpg?50982_OW800_OH800"
+    },
+    {
+        "id": "135",
+        "goodid": "3",
+        "goodstype": "K迷优品",
+        "goodsname": "Super Kimi智能音乐花盆",
+        "desc": "智能弹奏音乐 支持蓝牙连接 充当护眼台灯 懒人养植神器",
+        "price": "69.00",
+        "src": "https://www.konka.com/public/images/4a/30/80/d1dc3c65841a3299353993f7a56c391394ca6ca8.jpg?34463_OW800_OH800"
+    },
+    {
+        "id": "136",
+        "goodid": "4",
+        "goodstype": "K迷优品",
+        "goodsname": "SUPER KIMI智能防丢贴片",
+        "desc": "防丢防忘，一键寻物，实用功能，便利生活，IOS/Andriod均适配",
+        "price": "57.00",
+        "src": "https://www.konka.com/public/images/23/a9/18/95cf77c977c144933fce8b285ff67afd8c0ca4b1.jpg?84448_OW800_OH800"
+    },
+    {
+        "id": "137",
+        "goodid": "5",
+        "goodstype": "K迷优品",
+        "goodsname": "康佳自嗨耳机 实时耳返 把KTV戴在耳边",
+        "desc": "声卡耳机 一键切换 即连即听",
+        "price": "179.00",
+        "src": "https://www.konka.com/public/images/d3/3b/a8/1916e30bac3e3da2fae29a0e360276a2206f396f.jpg?70037_OW800_OH800"
+    },
+    {
+        "id": "138",
+        "goodid": "6",
+        "goodstype": "K迷优品",
+        "goodsname": "SUPER KIMI 鼠年毛绒公仔",
+        "desc": "卡通萌宠 毛绒玩偶礼物 俘获少女心",
+        "price": "109.00",
+        "src": "https://www.konka.com/public/images/cf/9c/24/d5236ae2fa3493177d5893b89f298722c29316b6.jpg?86689_OW800_OH800"
+    }
+]

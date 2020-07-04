@@ -18,7 +18,7 @@ if(mysqli_num_rows($r)==1){
 $retval = mysqli_query($db,$sql);
 
 if (!$retval) {
-  die('添加到购物车失败: ' . mysqli_error($conn));
+  die('添加到购物车失败: ' . mysqli_error($db));
 }
 echo "添加成功";
 ?>
